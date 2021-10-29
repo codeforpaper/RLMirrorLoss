@@ -1,4 +1,3 @@
-# Code for "Improving Deep Reinforcement Learning with Mirror Loss" 
 This repository contains the mirror loss implementation based on OpenAI Baselines. The installation is the same as original Baselines.
 ## Train DRL agent with mirror loss
 Note: Currently only implementations of ppo2 and deepq support mirror loss. Trainning agent with mirror loss in a Atari game needs the mirror correspondence of that environment. The repository supports traninning in BeamRider, Breakout, Enduro, Pong, Qbert and Seaquest. If you want to train you agent in other Atari games, you can modify the function ``baselines.commom.mirror_utils.mirror_modify``.
