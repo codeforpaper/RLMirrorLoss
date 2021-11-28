@@ -1,1 +1,120 @@
-948966 flow_12909_0 0 5.0 2.0,7184.43429773995 13998.0 0.0 flow_10203_0 0 5.0 2.0,10394.0 8015.00735070427 -1.5707963267948966 flow_6266_0 0 5.0 2.0,12784.839587085631 7998.0 0.0 flow_5657_0 0 5.0 2.0,7594.0 7668.377105809286 -1.5707963267948966 flow_22845_0 0 5.0 2.0,10777.48930628998 8798.0 0.0 flow_6255_0 0 5.0 2.0,7206.0 3903.872216575271 1.5707963267948966 flow_22138_0 0 5.0 2.0,10776.884955196301 6398.0 0.0 flow_26475_0 0 5.0 2.0,11594.0 6451.626597352929 -1.5707963267948966 flow_8314_0 0 5.0 2.0,10646.332083333335 10406.0 3.141592653589793 flow_38960_0 0 5.0 2.0,2394.0 7295.652550403531 -1.5707963267948966 flow_14200_0 0 5.0 2.0,12806.0 1172.5812767104426 1.5707963267948966 flow_29492_0 0 5.0 2.0,3159.601051798665 2394.0 0.0 flow_1563_0 0 5.0 2.0,5184.8902001132465 798.0 0.0 flow_610_0 0 5.0 2.0,3215.7200965949237 5602.0 3.141592653589793 flow_35529_0 0 5.0 2.0,9006.72943767993 3606.0 3.141592653589793 flow_34061_0 0 5.0 2.0,4398.0 7215.045371631084 -1.5707963267948966 flow_17660_0 0 5.0 2.0,10846.183615913033 5206.0 3.141592653589793 flow_35347_0 0 5.0 2.0,10406.0 9584.929654828295 1.5707963267948966 flow_26300_0 0 5.0 2.0,9931.588471486113 7194.0 0.0 flow_5209_0 0 5.0 2.0,1606.0 7584.995369492597 1.5707963267948966 flow_12581_0 0 5.0 2.0,6006.0 3169.4224498324543 1.5707963267948966 flow_20003_0 0 5.0 2.0,3157.2634973965182 2806.0 3.141592653589793 flow_33359_0 0 5.0 2.0,10806.0 3176.325364533151 1.5707963267948966 flow_26763_0 0 5.0 2.0,7864.922099999997 11594.0 0.0 flow_8373_0 0 5.0 2.0,10768.06971813551 4394.0 0.0 flow_22627_0 0 5.0 2.0,3905.8136984216053 6794.0 0.0 flow_4881_0 0 5.0 2.0,12406.0 5200.766956249999 1.5707963267948966 flow_28900_0 0 5.0 2.0,14006.0 1366.0967821655765 1.5707963267948966 flow_30946_0 0 5.0 2.0,13268.806708333334 4006.0 3.141592653589793 flow_34415_0 0 5.0 2.0,5194.0 3517.721526077297 -1.5707963267948966 flow_18929_0 0 5.0 2.0,806.0 4909.385653697348 1.5707963267948966 flow_11647_0 0 5.0 2.0,4377.377738450034 8398.0 0.0 flow_6044_0 0 5.0 2.0,4806.0 8082.2879838114395 1.5707963267948966 flow_18015_0 0 5.0 2.0,4406.0 8909.428912049178 1.5707963267948966 flow_17242_0 0 5.0 2.0,13606.0 855.5157583504332 1.5707963267948966 flow_30464_0 0 5.0 2.0,6794.0 9380.644402512773 -1.5707963267948966 flow_21794_0 0 5.0 2.0,3594.0 11322.853170114378 -1.5707963267948966 flow_16183_0 0 5.0 2.0,3194.0 7615.262024949253 -1.5707963267948966 flow_15313_0 0 5.0 2.0,12006.0 7572.79623841764 1.5707963267948966 flow_28234_0 0 5.0 2.0,6776.318702772274 3194.0 0.0 flow_2040_0 0 5.0 2.0,11606.0 1976.6712734226562 1.5707963267948966 flow_27733_0 0 5.0 2.0,4794.0 7917.898920245242 -1.5707963267948966 flow_18457_0 0 5.0 2.0,2394.0 1322.5066767975618 -1.5707963267948966 flow_14126_0 0 5.0 2.0,2384.9617287592655 11194.0 0.0 flow_8103_0 0 5.0 2.0,13594.0 13669.173375 -1.5707963267948966 flow_30704_0 0 5.0 2.0,2394.0 5433.943804543041 -1.5707963267948966 flow_14165_0 0 5.0 2.0,12406.0 3176.895564969165 1.5707963267948966 flow_28919_0 0 5.0 2.0,1606.0 12122.021525509324 1.5707963267948966 flow_12536_0 0 5.0 2.0,14006.0 4429.4987408244915 1.5707963267948966 flow_30907_0 0 5.0 2.0,12633.992924993297 8406.0 3.141592653589793 flow_37392_0 0 5.0 2.0,2926.5888541667723 7194.0 0.0 flow_5260_0 0 5.0 2.0,10006.0 3477.1618911752594 1.5707963267948966 flow_25790_0 0 5.0 2.0,8406.0 4109.395827108174 1.5707963267948966 flow_23777_0 0 5.0 2.0,3606.0 2872.2115683757993 1.5707963267948966 flow_15780_0 0 5.0 2.0,3215.2264687847896 14002.0 3.141592653589793 flow_41700_0 0 5.0 2.0,13594.0 2855.7892062451338 -1.5707963267948966 flow_4069_0 0 5.0 2.0,8794.0 10799.2
+# DEPRECATED, use baselines.common.plot_util instead
+
+import os
+import matplotlib.pyplot as plt
+import numpy as np
+import json
+import seaborn as sns; sns.set()
+import glob2
+import argparse
+
+
+def smooth_reward_curve(x, y):
+    halfwidth = int(np.ceil(len(x) / 60))  # Halfwidth of our smoothing convolution
+    k = halfwidth
+    xsmoo = x
+    ysmoo = np.convolve(y, np.ones(2 * k + 1), mode='same') / np.convolve(np.ones_like(y), np.ones(2 * k + 1),
+        mode='same')
+    return xsmoo, ysmoo
+
+
+def load_results(file):
+    if not os.path.exists(file):
+        return None
+    with open(file, 'r') as f:
+        lines = [line for line in f]
+    if len(lines) < 2:
+        return None
+    keys = [name.strip() for name in lines[0].split(',')]
+    data = np.genfromtxt(file, delimiter=',', skip_header=1, filling_values=0.)
+    if data.ndim == 1:
+        data = data.reshape(1, -1)
+    assert data.ndim == 2
+    assert data.shape[-1] == len(keys)
+    result = {}
+    for idx, key in enumerate(keys):
+        result[key] = data[:, idx]
+    return result
+
+
+def pad(xs, value=np.nan):
+    maxlen = np.max([len(x) for x in xs])
+
+    padded_xs = []
+    for x in xs:
+        if x.shape[0] >= maxlen:
+            padded_xs.append(x)
+
+        padding = np.ones((maxlen - x.shape[0],) + x.shape[1:]) * value
+        x_padded = np.concatenate([x, padding], axis=0)
+        assert x_padded.shape[1:] == x.shape[1:]
+        assert x_padded.shape[0] == maxlen
+        padded_xs.append(x_padded)
+    return np.array(padded_xs)
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument('dir', type=str)
+parser.add_argument('--smooth', type=int, default=1)
+args = parser.parse_args()
+
+# Load all data.
+data = {}
+paths = [os.path.abspath(os.path.join(path, '..')) for path in glob2.glob(os.path.join(args.dir, '**', 'progress.csv'))]
+for curr_path in paths:
+    if not os.path.isdir(curr_path):
+        continue
+    results = load_results(os.path.join(curr_path, 'progress.csv'))
+    if not results:
+        print('skipping {}'.format(curr_path))
+        continue
+    print('loading {} ({})'.format(curr_path, len(results['epoch'])))
+    with open(os.path.join(curr_path, 'params.json'), 'r') as f:
+        params = json.load(f)
+
+    success_rate = np.array(results['test/success_rate'])
+    epoch = np.array(results['epoch']) + 1
+    env_id = params['env_name']
+    replay_strategy = params['replay_strategy']
+
+    if replay_strategy == 'future':
+        config = 'her'
+    else:
+        config = 'ddpg'
+    if 'Dense' in env_id:
+        config += '-dense'
+    else:
+        config += '-sparse'
+    env_id = env_id.replace('Dense', '')
+
+    # Process and smooth data.
+    assert success_rate.shape == epoch.shape
+    x = epoch
+    y = success_rate
+    if args.smooth:
+        x, y = smooth_reward_curve(epoch, success_rate)
+    assert x.shape == y.shape
+
+    if env_id not in data:
+        data[env_id] = {}
+    if config not in data[env_id]:
+        data[env_id][config] = []
+    data[env_id][config].append((x, y))
+
+# Plot data.
+for env_id in sorted(data.keys()):
+    print('exporting {}'.format(env_id))
+    plt.clf()
+
+    for config in sorted(data[env_id].keys()):
+        xs, ys = zip(*data[env_id][config])
+        xs, ys = pad(xs), pad(ys)
+        assert xs.shape == ys.shape
+
+        plt.plot(xs[0], np.nanmedian(ys, axis=0), label=config)
+        plt.fill_between(xs[0], np.nanpercentile(ys, 25, axis=0), np.nanpercentile(ys, 75, axis=0), alpha=0.25)
+    plt.title(env_id)
+    plt.xlabel('Epoch')
+    plt.ylabel('Median Success Rate')
+    plt.legend()
+    plt.savefig(os.path.join(args.dir, 'fig_{}.png'.format(env_id)))

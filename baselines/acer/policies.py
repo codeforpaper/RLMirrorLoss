@@ -1,1 +1,81 @@
-208125154735 3602.0 3.141592653589793 flow_33964_0 0 5.0 2.0,9977.494018128362 3598.0 0.0 flow_2365_0 0 5.0 2.0,406.0 4198.100758204607 1.5707963267948966 flow_11063_0 0 5.0 2.0,13598.0 8815.017297002321 -1.5707963267948966 flow_30627_0 0 5.0 2.0,2384.793084537254 9198.0 0.0 flow_13483_0 0 5.0 2.0,-308.8895 -6.0 0.0 flow_126_0 0 5.0 2.0,-20.0035000000002 394.0 0.0 flow_424_0 0 5.0 2.0,4394.0 11630.597035030834 -1.5707963267948966 flow_17751_0 0 5.0 2.0,12815.051854166668 2406.0 3.141592653589793 flow_33209_0 0 5.0 2.0,5630.471462814652 12006.0 3.141592653589793 flow_40175_0 0 5.0 2.0,7994.0 6300.31151745936 -1.5707963267948966 flow_23344_0 0 5.0 2.0,3598.0 7215.030048914555 -1.5707963267948966 flow_16084_0 0 5.0 2.0,5606.0 4359.620803695223 1.5707963267948966 flow_19341_0 0 5.0 2.0,7913.026322664372 10406.0 3.141592653589793 flow_38953_0 0 5.0 2.0,6006.0 1188.800166666666 1.5707963267948966 flow_20052_0 0 5.0 2.0,8398.0 9615.041877700323 -1.5707963267948966 flow_24093_0 0 5.0 2.0,8794.0 9313.017708266529 -1.5707963267948966 flow_24640_0 0 5.0 2.0,794.0 9166.077571686115 -1.5707963267948966 flow_12000_0 0 5.0 2.0,8394.0 10038.04112808639 -1.5707963267948966 flow_24126_0 0 5.0 2.0,2406.0 3175.689622043178 1.5707963267948966 flow_13937_0 0 5.0 2.0,1984.7348673690722 7598.0 0.0 flow_12847_0 0 5.0 2.0,8411.80992783828 8806.0 3.141592653589793 flow_37746_0 0 5.0 2.0,1797.7574999999993 13194.0 0.0 flow_9688_0 0 5.0 2.0,3194.0 10815.198586643504 -1.5707963267948966 flow_15391_0 0 5.0 2.0,4806.0 4282.206542472808 1.5707963267948966 flow_18112_0 0 5.0 2.0,1198.0 6823.259024719922 -1.5707963267948966 flow_12322_0 0 5.0 2.0,7998.0 2015.2412834282832 -1.5707963267948966 flow_23262_0 0 5.0 2.0,6792.24758562314 10394.0 0.0 flow_7471_0 0 5.0 2.0,1594.0 12712.965322810927 -1.5707963267948966 flow_12923_0 0 5.0 2.0,10932.492866014485 3606.0 3.141592653589793 flow_34099_0 0 5.0 2.0,8775.720273754836 13194.0 0.0 flow_9613_0 0 5.0 2.0,13615.470208333334 8806.0 3.141592653589793 flow_37830_0 0 5.0 2.0,2006.0 5909.100703533978 1.5707963267948966 flow_13135_0 0 5.0 2.0,3939.7962158034848 8406.0 3.141592653589793 flow_37302_0 0 5.0 2.0,3398.2508541666652 4394.0 0.0 flow_11936_0 0 5.0 2.0,10052.5566953436 11606.0 3.141592653589793 flow_39815_0 0 5.0 2.0,5184.988421069479 5998.0 0.0 flow_4122_0 0 5.0 2.0,9206.0 59.38476976799988 1.5707963267948966 flow_24870_0 0 5.0 2.0,1215.0041634352015 2002.0 3.141592653589793 flow_32859_0 0 5.0 2.0,6640.289648365247 4794.0 0.0 flow_3158_0 0 5.0 2.0,-6.0 8815.205014277955 -1.5707963267948966 flow_10771_0 0 5.0 2.0,1994.0 11215.032071422038 -1.5707963267948966 flow_13555_0 0 5.0 2.0,2738.813113292511 9994.0 0.0 flow_7217_0 0 5.0 2.0,11194.0 8572.281650244251 -1.5707963267948966 flow_27445_0 0 5.0 2.0,10407.158116617558 4006.0 3.141592653589793 flow
+import numpy as np
+import tensorflow as tf
+from baselines.common.policies import nature_cnn
+from baselines.a2c.utils import fc, batch_to_seq, seq_to_batch, lstm, sample
+
+
+class AcerCnnPolicy(object):
+
+    def __init__(self, sess, ob_space, ac_space, nenv, nsteps, nstack, reuse=False):
+        nbatch = nenv * nsteps
+        nh, nw, nc = ob_space.shape
+        ob_shape = (nbatch, nh, nw, nc * nstack)
+        nact = ac_space.n
+        X = tf.placeholder(tf.uint8, ob_shape)  # obs
+        with tf.variable_scope("model", reuse=reuse):
+            h = nature_cnn(X)
+            pi_logits = fc(h, 'pi', nact, init_scale=0.01)
+            pi = tf.nn.softmax(pi_logits)
+            q = fc(h, 'q', nact)
+
+        a = sample(tf.nn.softmax(pi_logits))  # could change this to use self.pi instead
+        self.initial_state = []  # not stateful
+        self.X = X
+        self.pi = pi  # actual policy params now
+        self.pi_logits = pi_logits
+        self.q = q
+        self.vf = q
+
+        def step(ob, *args, **kwargs):
+            # returns actions, mus, states
+            a0, pi0 = sess.run([a, pi], {X: ob})
+            return a0, pi0, []  # dummy state
+
+        def out(ob, *args, **kwargs):
+            pi0, q0 = sess.run([pi, q], {X: ob})
+            return pi0, q0
+
+        def act(ob, *args, **kwargs):
+            return sess.run(a, {X: ob})
+
+        self.step = step
+        self.out = out
+        self.act = act
+
+class AcerLstmPolicy(object):
+
+    def __init__(self, sess, ob_space, ac_space, nenv, nsteps, nstack, reuse=False, nlstm=256):
+        nbatch = nenv * nsteps
+        nh, nw, nc = ob_space.shape
+        ob_shape = (nbatch, nh, nw, nc * nstack)
+        nact = ac_space.n
+        X = tf.placeholder(tf.uint8, ob_shape)  # obs
+        M = tf.placeholder(tf.float32, [nbatch]) #mask (done t-1)
+        S = tf.placeholder(tf.float32, [nenv, nlstm*2]) #states
+        with tf.variable_scope("model", reuse=reuse):
+            h = nature_cnn(X)
+
+            # lstm
+            xs = batch_to_seq(h, nenv, nsteps)
+            ms = batch_to_seq(M, nenv, nsteps)
+            h5, snew = lstm(xs, ms, S, 'lstm1', nh=nlstm)
+            h5 = seq_to_batch(h5)
+
+            pi_logits = fc(h5, 'pi', nact, init_scale=0.01)
+            pi = tf.nn.softmax(pi_logits)
+            q = fc(h5, 'q', nact)
+
+        a = sample(pi_logits)  # could change this to use self.pi instead
+        self.initial_state = np.zeros((nenv, nlstm*2), dtype=np.float32)
+        self.X = X
+        self.M = M
+        self.S = S
+        self.pi = pi  # actual policy params now
+        self.q = q
+
+        def step(ob, state, mask, *args, **kwargs):
+            # returns actions, mus, states
+            a0, pi0, s = sess.run([a, pi, snew], {X: ob, S: state, M: mask})
+            return a0, pi0, s
+
+        self.step = step

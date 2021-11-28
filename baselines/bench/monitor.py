@@ -1,1 +1,163 @@
-0 0 5.0 2.0,5622.548649719923 13202.0 3.141592653589793 flow_41173_0 0 5.0 2.0,9468.664839704488 2806.0 3.141592653589793 flow_33500_0 0 5.0 2.0,4806.0 531.4982440009678 1.5707963267948966 flow_18224_0 0 5.0 2.0,4806.0 -20.444009523768785 1.5707963267948966 flow_18238_0 0 5.0 2.0,3194.0 3246.1249493605505 -1.5707963267948966 flow_15315_0 0 5.0 2.0,7815.119827745084 12794.0 0.0 flow_9325_0 0 5.0 2.0,5615.7152351420345 12402.0 3.141592653589793 flow_40484_0 0 5.0 2.0,9664.458998537106 6790.0 0.0 flow_4851_0 0 5.0 2.0,4794.0 8268.347296240736 -1.5707963267948966 flow_18495_0 0 5.0 2.0,6794.0 8211.860975411686 -1.5707963267948966 flow_21831_0 0 5.0 2.0,1606.0 7884.706173472638 1.5707963267948966 flow_34993_0 0 5.0 2.0,10820.444782652761 7194.0 0.0 flow_25043_0 0 5.0 2.0,4398.0 5615.156264203639 -1.5707963267948966 flow_17637_0 0 5.0 2.0,12823.09939638751 12006.0 3.141592653589793 flow_40301_0 0 5.0 2.0,3206.0 10291.942853759263 1.5707963267948966 flow_15051_0 0 5.0 2.0,6415.3821800190435 13602.0 3.141592653589793 flow_41385_0 0 5.0 2.0,777.3699878482112 11194.0 0.0 flow_8178_0 0 5.0 2.0,8422.517119820199 1202.0 3.141592653589793 flow_32507_0 0 5.0 2.0,6644.9701357024 3594.0 0.0 flow_2449_0 0 5.0 2.0,3194.0 10473.349530599371 -1.5707963267948966 flow_15432_0 0 5.0 2.0,9984.74208673841 5998.0 0.0 flow_4087_0 0 5.0 2.0,8769.949608266188 6398.0 0.0 flow_4460_0 0 5.0 2.0,9562.303802990364 806.0 3.141592653589793 flow_32240_0 0 5.0 2.0,3194.0 14153.3355 -1.5707963267948966 flow_15487_0 0 5.0 2.0,1194.0 11162.27579791027 -1.5707963267948966 flow_12429_0 0 5.0 2.0,8406.0 5472.12398625421 1.5707963267948966 flow_23826_0 0 5.0 2.0,7184.987249256351 9198.0 0.0 flow_6564_0 0 5.0 2.0,1998.0 3230.0171313531896 -1.5707963267948966 flow_13458_0 0 5.0 2.0,12006.0 5055.275897065933 1.5707963267948966 flow_28331_0 0 5.0 2.0,1126.4364038303838 11994.0 0.0 flow_8757_0 0 5.0 2.0,7606.0 1531.1852916666658 1.5707963267948966 flow_22698_0 0 5.0 2.0,5630.126246247701 8402.0 3.141592653589793 flow_37343_0 0 5.0 2.0,12377.483662432855 11998.0 0.0 flow_8619_0 0 5.0 2.0,7597.675843673909 7594.0 0.0 flow_5493_0 0 5.0 2.0,2921.449916667637 3594.0 0.0 flow_2482_0 0 5.0 2.0,806.0 5584.977640123083 1.5707963267948966 flow_11696_0 0 5.0 2.0,5700.819323126073 9606.0 3.141592653589793 flow_38356_0 0 5.0 2.0,9522.569613329064 9606.0 3.141592653589793 flow_38392_0 0 5.0 2.0,2806.0 7968.732245555362 1.5707963267948966 flow_14581_0 0 5.0 2.0,6415.080476645753 10806.0 3.141592653589793 flow_39222_0 0 5.0 2.0,1206.0 3761.3743361111246 1.5707963267948966 flow_12222_0 0 5.0 2.0,2006.6746030006661 8391.395619513656 1.430836912887154 flow_13139_0 0 5.0 2.0,6794.0 9618.76545464625 -1.5707963267948966 flow_21853_0 0 5.0 2.0,4326.583533478605 6394.0 0.0 flow_4556_0 0 5.0 2.0,12394.0 7579.593335382108 -1.5707963267948966 flow_29200_0 0 5.0 2.0,2794.0 7646.341778884697 -1.5707963267948966 flow_14823_0 0 5.0 2.0,11011.742487083942 1206.0 3.141592653589793 flow_32541_0 0 5.0 2.0,4477.384511196256 12394.0 0.0 flow_9034_0 0 5.0 2.0,9634.224749041008 12406.0 3.141592653589793 flow_40665_0 0 5.0 2.0,8794.0 8779.46434512888 -1.5707963267948966 flow_24654_0 0 5.0 2.0,1994.0 8873.350706202411 -1.5707963267948966 flow_13568_0 0 5.0 2.0,11198.0 6015.114723842073 -1.5707963267948966 flow_27441_0 0 5.0 2.0,3598.0 1623.1405903814823 -1.5707963267948966 flow_16078_0 0 5.0 2.0,406.0 2850.8023432250393 1.5707963267948966 flow_11121_0 0 5.0 2.0,6133.92656434593 5594.0 0.0 flow_3862_0 0 5.0 2.0,11194.0 3639.161182801379 -1.5707963267948966 flow_27427_0 0 5.0 2.0,7216.910682842025 8806.0 3.141592653589793 flow_37776_0 0 5.0 2.0,12001.868898569335 1606.0 3.141592653589793 flow_32775_0 0 5.0 2.0,6022.771507487813 2.0 3.141592653589793 flow_31513_0 0 5.0 2.0,1606.0 4368.697575506 1.5707963267948966 flow_33755_0 0 5.0 2.0,12401.850226932185 8006.0 3.141592653589793 flow_37045_0 0 5.0 2.0,2006.0 9165.92754732091 1.5707963267948966 flow_13129_0 0 5.0 2.0,2450.822217581569 13594.0 0.0 flow_10045_0 0 5.0 2.0,2798.0 4591.454544807467 -1.5707963267948966 flow_14792_0 0 5.0 2.0,5998.0 6423.060429178399 -1.5707963267948966 flow_20381_0 0 5.0 2.0,4369.417889561765 7594.0 0.0 flow_13121_0 0 5.0 2.0,12406.0 8407.730431707312 1.5707963267948966 flow_28910_0 0 5.0 2.0,11606.0 5984.749042504876 1.5707963267948966 flow_27736_0 0 5.0 2.0,7584.964518055966 10394.0 0.0 flow_7496_0 0 5.0 2.0,9615.082922472515 8402.0 3.141592653589793 flow_37291_0 0 5.0 2.0,7594.0 12001.901464259448 -1.5707963267948966 flow_22928_0 0 5.0 2.0,8806.0 3250.7805846457186 1.5707963267948966 flow_24410_0 0 5.0 2.0,11606.0 820.4519583333329 1.5707963267948966 flow_27786_0 0 5.0 2.0,9984.9509033449 11598.0 0.0 flow_8391_0 0 5.0 2.0,5842.668610998935 4394.0 0.0 flow_2941_0 0 5.0 2.0,5215.1078496794835 11202.0 3.141592653589793 flow_39467_0 0 5.0 2.0,4512.826992361115 1606.0 3.141592653589793 flow_32733_0 0 5.0 2.0,6.0 13176.898940558394 1.5707963267948966 flow_10460_0 0 5.0 2.0,7176.331045735413 12794.0 0.0 flow_9333_0 0 5.0 2.0,3994.0 9623.716135465698 -1.5707963267948966 flow_16978_0 0 5.0 2.0,8015.000024535912 12402.0 3.141592653589793 flow_40522_0 0 5.0 2.0,9594.0 1979.4811484025838 -1.5707963267948966 flow_4450_0 0 5.0 2.0,6006.0 3926.5800052246955 1.5707963267948966 flow_20056_0 0 5.0 2.0,5606.0 4798.271133569111 1.5707963267948966 flow_19371_0 0 5.0 2.0,806.0 2933.9301891382624 1.5707963267948966 flow_11741_0 0 5.0 2.0,3565.5361245111094 11594.0 0.0 flow_8453_0 0 5.0 2.0,6394.0 5646.20687692931 -1.5707963267948966 flow_21021_0 0 5.0 2.0,12957.451597222223 4806.0 3.141592653589793 flow_35121_0 0 5.0 2.0,12006.0 2769.4572284492797 1.5707963267948966 flow_28370_0 0 5.0 2.0,9215.599000345805 13602.0 3.141592653589793 flow_41460_0 0 5.0 2.0,5331.5760333333
+__all__ = ['Monitor', 'get_monitor_files', 'load_results']
+
+from gym.core import Wrapper
+import time
+from glob import glob
+import csv
+import os.path as osp
+import json
+
+class Monitor(Wrapper):
+    EXT = "monitor.csv"
+    f = None
+
+    def __init__(self, env, filename, allow_early_resets=False, reset_keywords=(), info_keywords=()):
+        Wrapper.__init__(self, env=env)
+        self.tstart = time.time()
+        if filename:
+            self.results_writer = ResultsWriter(filename,
+                header={"t_start": time.time(), 'env_id' : env.spec and env.spec.id},
+                extra_keys=reset_keywords + info_keywords
+            )
+        else:
+            self.results_writer = None
+        self.reset_keywords = reset_keywords
+        self.info_keywords = info_keywords
+        self.allow_early_resets = allow_early_resets
+        self.rewards = None
+        self.needs_reset = True
+        self.episode_rewards = []
+        self.episode_lengths = []
+        self.episode_times = []
+        self.total_steps = 0
+        self.current_reset_info = {} # extra info about the current episode, that was passed in during reset()
+
+    def reset(self, **kwargs):
+        self.reset_state()
+        for k in self.reset_keywords:
+            v = kwargs.get(k)
+            if v is None:
+                raise ValueError('Expected you to pass kwarg %s into reset'%k)
+            self.current_reset_info[k] = v
+        return self.env.reset(**kwargs)
+
+    def reset_state(self):
+        if not self.allow_early_resets and not self.needs_reset:
+            raise RuntimeError("Tried to reset an environment before done. If you want to allow early resets, wrap your env with Monitor(env, path, allow_early_resets=True)")
+        self.rewards = []
+        self.needs_reset = False
+
+
+    def step(self, action):
+        if self.needs_reset:
+            raise RuntimeError("Tried to step environment that needs reset")
+        ob, rew, done, info = self.env.step(action)
+        self.update(ob, rew, done, info)
+        return (ob, rew, done, info)
+
+    def update(self, ob, rew, done, info):
+        self.rewards.append(rew)
+        if done:
+            self.needs_reset = True
+            eprew = sum(self.rewards)
+            eplen = len(self.rewards)
+            epinfo = {"r": round(eprew, 6), "l": eplen, "t": round(time.time() - self.tstart, 6)}
+            for k in self.info_keywords:
+                epinfo[k] = info[k]
+            self.episode_rewards.append(eprew)
+            self.episode_lengths.append(eplen)
+            self.episode_times.append(time.time() - self.tstart)
+            epinfo.update(self.current_reset_info)
+            if self.results_writer:
+                self.results_writer.write_row(epinfo)
+            assert isinstance(info, dict)
+            if isinstance(info, dict):
+                info['episode'] = epinfo
+
+        self.total_steps += 1
+
+    def close(self):
+        super(Monitor, self).close()
+        if self.f is not None:
+            self.f.close()
+
+    def get_total_steps(self):
+        return self.total_steps
+
+    def get_episode_rewards(self):
+        return self.episode_rewards
+
+    def get_episode_lengths(self):
+        return self.episode_lengths
+
+    def get_episode_times(self):
+        return self.episode_times
+
+class LoadMonitorResultsError(Exception):
+    pass
+
+
+class ResultsWriter(object):
+    def __init__(self, filename, header='', extra_keys=()):
+        self.extra_keys = extra_keys
+        assert filename is not None
+        if not filename.endswith(Monitor.EXT):
+            if osp.isdir(filename):
+                filename = osp.join(filename, Monitor.EXT)
+            else:
+                filename = filename + "." + Monitor.EXT
+        self.f = open(filename, "wt")
+        if isinstance(header, dict):
+            header = '# {} \n'.format(json.dumps(header))
+        self.f.write(header)
+        self.logger = csv.DictWriter(self.f, fieldnames=('r', 'l', 't')+tuple(extra_keys))
+        self.logger.writeheader()
+        self.f.flush()
+
+    def write_row(self, epinfo):
+        if self.logger:
+            self.logger.writerow(epinfo)
+            self.f.flush()
+
+
+def get_monitor_files(dir):
+    return glob(osp.join(dir, "*" + Monitor.EXT))
+
+def load_results(dir):
+    import pandas
+    monitor_files = (
+        glob(osp.join(dir, "*monitor.json")) +
+        glob(osp.join(dir, "*monitor.csv"))) # get both csv and (old) json files
+    if not monitor_files:
+        raise LoadMonitorResultsError("no monitor files of the form *%s found in %s" % (Monitor.EXT, dir))
+    dfs = []
+    headers = []
+    for fname in monitor_files:
+        with open(fname, 'rt') as fh:
+            if fname.endswith('csv'):
+                firstline = fh.readline()
+                if not firstline:
+                    continue
+                assert firstline[0] == '#'
+                header = json.loads(firstline[1:])
+                df = pandas.read_csv(fh, index_col=None)
+                headers.append(header)
+            elif fname.endswith('json'): # Deprecated json format
+                episodes = []
+                lines = fh.readlines()
+                header = json.loads(lines[0])
+                headers.append(header)
+                for line in lines[1:]:
+                    episode = json.loads(line)
+                    episodes.append(episode)
+                df = pandas.DataFrame(episodes)
+            else:
+                assert 0, 'unreachable'
+            df['t'] += header['t_start']
+        dfs.append(df)
+    df = pandas.concat(dfs)
+    df.sort_values('t', inplace=True)
+    df.reset_index(inplace=True)
+    df['t'] -= min(header['t_start'] for header in headers)
+    df.headers = headers # HACK to preserve backwards compatibility
+    return df

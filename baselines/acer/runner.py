@@ -1,1 +1,61 @@
-793 flow_33753_0 0 5.0 2.0,3606.0 4746.214878510719 1.5707963267948966 flow_15782_0 0 5.0 2.0,6006.0 -42.22550000000018 1.5707963267948966 flow_20086_0 0 5.0 2.0,10394.0 10809.338366957725 -1.5707963267948966 flow_26571_0 0 5.0 2.0,9209.935499625011 -5.999999999999999 2.7930138984278114e-16 flow_63_0 0 5.0 2.0,6798.0 9230.003272824806 -1.5707963267948966 flow_21793_0 0 5.0 2.0,1998.0 8415.286210357779 -1.5707963267948966 flow_13371_0 0 5.0 2.0,8666.946495642629 8806.0 3.141592653589793 flow_37766_0 0 5.0 2.0,5994.0 5368.9186369133495 -1.5707963267948966 flow_20349_0 0 5.0 2.0,7293.309690199406 1594.0 0.0 flow_1140_0 0 5.0 2.0,5198.0 7615.314588196201 -1.5707963267948966 flow_18987_0 0 5.0 2.0,13606.0 5972.010154156312 1.5707963267948966 flow_30436_0 0 5.0 2.0,12595.757044923643 2006.0 3.141592653589793 flow_32993_0 0 5.0 2.0,6188.673029421923 2806.0 3.141592653589793 flow_33430_0 0 5.0 2.0,7609.524477406709 12394.0 0.0 flow_8976_0 0 5.0 2.0,5968.614461557305 12794.0 0.0 flow_9326_0 0 5.0 2.0,8955.82163402778 5606.0 3.141592653589793 flow_35617_0 0 5.0 2.0,3206.0 7831.614282925931 1.5707963267948966 flow_15056_0 0 5.0 2.0,2394.0 8995.64088475483 -1.5707963267948966 flow_14261_0 0 5.0 2.0,1606.0 2409.9279541666656 1.5707963267948966 flow_12660_0 0 5.0 2.0,11223.088024508428 6.0 3.141592653589793 flow_31584_0 0 5.0 2.0,9389.69990533379 9194.0 0.0 flow_6626_0 0 5.0 2.0,8406.0 8231.627040486163 1.5707963267948966 flow_23748_0 0 5.0 2.0,5194.0 7533.57244523136 -1.5707963267948966 flow_19006_0 0 5.0 2.0,3606.0 2361.7581938098574 1.5707963267948966 flow_15821_0 0 5.0 2.0,806.0 5190.811479341904 1.5707963267948966 flow_11674_0 0 5.0 2.0,9994.0 10785.848704166669 -1.5707963267948966 flow_26110_0 0 5.0 2.0,6006.0 5240.163881404093 1.5707963267948966 flow_20012_0 0 5.0 2.0,7194.0 9355.825700000001 -1.5707963267948966 flow_22463_0 0 5.0 2.0,6006.0 4110.411342537909 1.5707963267948966 flow_20028_0 0 5.0 2.0,1142.300291666666 4794.0 0.0 flow_3238_0 0 5.0 2.0,3915.4934170411602 11194.0 0.0 flow_8116_0 0 5.0 2.0,7194.0 12279.448618055556 -1.5707963267948966 flow_22481_0 0 5.0 2.0,6815.069251631362 12006.0 3.141592653589793 flow_40198_0 0 5.0 2.0,12794.0 8023.091090079044 -1.5707963267948966 flow_6268_0 0 5.0 2.0,4406.0 10376.9545491486 1.5707963267948966 flow_17256_0 0 5.0 2.0,4776.867009028072 9198.0 0.0 flow_6597_0 0 5.0 2.0,1994.0 10015.087545486369 -1.5707963267948966 flow_13549_0 0 5.0 2.0,12006.0 4009.8768216610215 1.5707963267948966 flow_28317_0 0 5.0 2.0,6.0 2761.915783706383 1.5707963267948966 flow_10536_0 0 5.0 2.0,3206.0 2439.804791389415 1.5707963267948966 flow_15104_0 0 5.0 2.0,10815.219583333335 5606.0 3.141592653589793 flow_35629_0 0 5.0 2.0,7
+import numpy as np
+from baselines.common.runners import AbstractEnvRunner
+from baselines.common.vec_env.vec_frame_stack import VecFrameStack
+from gym import spaces
+
+
+class Runner(AbstractEnvRunner):
+
+    def __init__(self, env, model, nsteps):
+        super().__init__(env=env, model=model, nsteps=nsteps)
+        assert isinstance(env.action_space, spaces.Discrete), 'This ACER implementation works only with discrete action spaces!'
+        assert isinstance(env, VecFrameStack)
+
+        self.nact = env.action_space.n
+        nenv = self.nenv
+        self.nbatch = nenv * nsteps
+        self.batch_ob_shape = (nenv*(nsteps+1),) + env.observation_space.shape
+
+        self.obs = env.reset()
+        self.obs_dtype = env.observation_space.dtype
+        self.ac_dtype = env.action_space.dtype
+        self.nstack = self.env.nstack
+        self.nc = self.batch_ob_shape[-1] // self.nstack
+
+
+    def run(self):
+        # enc_obs = np.split(self.obs, self.nstack, axis=3)  # so now list of obs steps
+        enc_obs = np.split(self.env.stackedobs, self.env.nstack, axis=-1)
+        mb_obs, mb_actions, mb_mus, mb_dones, mb_rewards = [], [], [], [], []
+        for _ in range(self.nsteps):
+            actions, mus, states = self.model._step(self.obs, S=self.states, M=self.dones)
+            mb_obs.append(np.copy(self.obs))
+            mb_actions.append(actions)
+            mb_mus.append(mus)
+            mb_dones.append(self.dones)
+            obs, rewards, dones, _ = self.env.step(actions)
+            # states information for statefull models like LSTM
+            self.states = states
+            self.dones = dones
+            self.obs = obs
+            mb_rewards.append(rewards)
+            enc_obs.append(obs[..., -self.nc:])
+        mb_obs.append(np.copy(self.obs))
+        mb_dones.append(self.dones)
+
+        enc_obs = np.asarray(enc_obs, dtype=self.obs_dtype).swapaxes(1, 0)
+        mb_obs = np.asarray(mb_obs, dtype=self.obs_dtype).swapaxes(1, 0)
+        mb_actions = np.asarray(mb_actions, dtype=self.ac_dtype).swapaxes(1, 0)
+        mb_rewards = np.asarray(mb_rewards, dtype=np.float32).swapaxes(1, 0)
+        mb_mus = np.asarray(mb_mus, dtype=np.float32).swapaxes(1, 0)
+
+        mb_dones = np.asarray(mb_dones, dtype=np.bool).swapaxes(1, 0)
+
+        mb_masks = mb_dones # Used for statefull models like LSTM's to mask state when done
+        mb_dones = mb_dones[:, 1:] # Used for calculating returns. The dones array is now aligned with rewards
+
+        # shapes are now [nenv, nsteps, []]
+        # When pulling from buffer, arrays will now be reshaped in place, preventing a deep copy.
+
+        return enc_obs, mb_obs, mb_actions, mb_rewards, mb_mus, mb_dones, mb_masks
+

@@ -1,1 +1,126 @@
- g g,road_14_6_0 r r g,road_14_6_1 r r g,road_14_6_2 r g g,road_14_6_3 r g g,road_14_7_0 r r g,road_14_7_1 r r g,road_14_7_2 r r g,road_14_7_3 r r g,road_14_8_0 r r g,road_14_8_1 r r g,road_14_8_2 r r g,road_14_8_3 r r g,road_14_9_0 r r g,road_14_9_1 r r g,road_14_9_2 r r g,road_14_9_3 r r g,road_14_10_0 r r g,road_14_10_1 r r g,road_14_10_2 r g g,road_14_10_3 r r g,road_14_11_0 r r g,road_14_11_1 r g g,road_14_11_2 r r g,road_14_11_3 r r g,road_14_12_0 r r g,road_14_12_1 r r g,road_14_12_2 r r g,road_14_12_3 r r g,road_14_13_0 r g g,road_14_13_1 r r g,road_14_13_2 r r g,road_14_13_3 r g g,road_14_14_0 r r g,road_14_14_1 r g g,road_14_14_2 r g g,road_14_14_3 r r g,road_14_15_0 r r g,road_14_15_1 r r g,road_14_15_2 r r g,road_14_15_3 r r g,road_14_16_0 r r g,road_14_16_1 r g g,road_14_16_2 r g g,road_14_16_3 r g g,road_14_17_0 r g g,road_14_17_1 r r g,road_14_17_2 r r g,road_14_17_3 r r g,road_14_18_0 r r g,road_14_18_1 r r g,road_14_18_2 r r g,road_14_18_3 r g g,road_14_19_0 r r g,road_14_19_1 r r g,road_14_19_2 r g g,road_14_19_3 r r g,road_14_20_0 r r g,road_14_20_1 r r g,road_14_20_2 r r g,road_14_20_3 r r g,road_14_21_0 r r g,road_14_21_1 r g g,road_14_21_2 r r g,road_14_21_3 r r g,road_14_22_0 r g g,road_14_22_1 r r g,road_14_22_2 r g g,road_14_22_3 r r g,road_14_23_0 r r g,road_14_23_1 r r g,road_14_23_2 r r g,road_14_23_3 r g g,road_14_24_0 r r g,road_14_24_1 r r g,road_14_24_2 r r g,road_14_24_3 r r g,road_14_25_0 r r g,road_14_25_1 r r g,road_14_25_2 r r g,road_14_25_3 r r g,road_14_26_0 r r g,road_14_26_1 r r g,road_14_26_2 r r g,road_14_26_3 r r g,road_14_27_0 r r g,road_14_27_1 r r g,road_14_27_2 r r g,road_14_27_3 r r g,road_14_28_0 r g g,road_14_28_1 r g g,road_14_28_2 r r g,road_14_28_3 r r g,road_14_29_0 r r g,road_14_29_1 r r g,road_14_29_2 r r g,road_14_29_3 r r g,road_14_30_0 r g g,road_14_30_1 r g g,road_14_30_2 r r g,road_14_30_3 r g g,road_14_31_0 r r g,road_14_31_1 r r g,road_14_31_2 r g g,road_14_31_3 r r g,road_14_32_0 r r g,road_14_32_1 r r g,road_14_32_2 r r g,road_14_32_3 r g g,road_14_33_0 r g g,road_14_33_1 r r g,road_14_33_2 r r g,road_14_33_3 r r g,road_14_34_0 r r g,road_14_34_1 r r g,road_14_34_2 r r g,road_14_34_3 r r g,road_14_35_0 r r g,road_14_35_1 r r g,road_14_35_2 r r g,road_14_35_3 r r g,road_14_36_0 r r g,road_14_36_2 r r g,road_14_36_3 r r g,road_14_37_3 r r g,road_15_0_1 r r g,road_15_1_0 r r g,road_15_1_1 r r g,road_15_1_2 r r g,road_15_2_0 r r g,road_15_2_1 r g g,road_15_2_2 r r g,road_15_2_3 r r g,road_15_3_0 r r g,road_15_3_1 r r g,road_15_3_2 r g g,road_15_3_3 r r g,road_15_4_0 r r g,road_15_4_1 r r g,road_15_4_2 r r g,road_15_4_3 r g g,road_15_5_0 r g g,road_15_5_1 r r g,road_15_5_2 r r g,road_15_5_3 r r g,road_15_6_0 r r g,road_15_6_1 r r g,road_15_6_2 r r g,road_15_6_3 r r g,road_15_7_0 r r g,road_15_7_1 r g g,road_15_7_2 r r g,road_15_7_3 r r g,road_15_8_0 r r g,road_15_8_1 r r g,road_15_8_2 r g g,road_15_8_3 r r g,road_15_9_0 r r g,road_15_9_1 r g g,road_15_9_2 r r g,road_15_9_3 r g g,road_15_10_0 r r g,road_15_10_1 r r g,road_15_10_2 r r g,road_15_10_3 r r g,road_15_11_0 r g g,road_15_11_1 r r g,road_15_11_2 r r g,road_15_11_3 r g g,road_15_12_0 r r g,road_15_12_1 r r g,road_15_12_2 r r g,road_15_12_3 r r g,road_15_13_0 r r g,road_15_13_1 r r g,road_15_13_2 r g g,road_15_13_3 r r g,road_15_14_0 r g g,road_15_14_1 r r g,road_15_14_2 r r g,road_15_14_3 r r g,road_15_15_0 r r g,road_15_15_1 r r g,road_15_15_2 r r g,road_15_15_3 r r g,road_15_16_0 r r g,road_15_16_1 r r g,road_15_16_2 r r g,road_15_16_3 r r g,road_15_17_0 r r g,road_15_17_1 r r g,road_15_17_2 r r g,road_15_17_3 r r g,ro
+import gym
+import numpy as np
+
+
+"""Data generation for the case of a single block pick and place in Fetch Env"""
+
+actions = []
+observations = []
+infos = []
+
+def main():
+    env = gym.make('FetchPickAndPlace-v1')
+    numItr = 100
+    initStateSpace = "random"
+    env.reset()
+    print("Reset!")
+    while len(actions) < numItr:
+        obs = env.reset()
+        print("ITERATION NUMBER ", len(actions))
+        goToGoal(env, obs)
+
+
+    fileName = "data_fetch"
+    fileName += "_" + initStateSpace
+    fileName += "_" + str(numItr)
+    fileName += ".npz"
+
+    np.savez_compressed(fileName, acs=actions, obs=observations, info=infos) # save the file
+
+def goToGoal(env, lastObs):
+
+    goal = lastObs['desired_goal']
+    objectPos = lastObs['observation'][3:6]
+    object_rel_pos = lastObs['observation'][6:9]
+    episodeAcs = []
+    episodeObs = []
+    episodeInfo = []
+
+    object_oriented_goal = object_rel_pos.copy()
+    object_oriented_goal[2] += 0.03 # first make the gripper go slightly above the object
+
+    timeStep = 0 #count the total number of timesteps
+    episodeObs.append(lastObs)
+
+    while np.linalg.norm(object_oriented_goal) >= 0.005 and timeStep <= env._max_episode_steps:
+        env.render()
+        action = [0, 0, 0, 0]
+        object_oriented_goal = object_rel_pos.copy()
+        object_oriented_goal[2] += 0.03
+
+        for i in range(len(object_oriented_goal)):
+            action[i] = object_oriented_goal[i]*6
+
+        action[len(action)-1] = 0.05 #open
+
+        obsDataNew, reward, done, info = env.step(action)
+        timeStep += 1
+
+        episodeAcs.append(action)
+        episodeInfo.append(info)
+        episodeObs.append(obsDataNew)
+
+        objectPos = obsDataNew['observation'][3:6]
+        object_rel_pos = obsDataNew['observation'][6:9]
+
+    while np.linalg.norm(object_rel_pos) >= 0.005 and timeStep <= env._max_episode_steps :
+        env.render()
+        action = [0, 0, 0, 0]
+        for i in range(len(object_rel_pos)):
+            action[i] = object_rel_pos[i]*6
+
+        action[len(action)-1] = -0.005
+
+        obsDataNew, reward, done, info = env.step(action)
+        timeStep += 1
+
+        episodeAcs.append(action)
+        episodeInfo.append(info)
+        episodeObs.append(obsDataNew)
+
+        objectPos = obsDataNew['observation'][3:6]
+        object_rel_pos = obsDataNew['observation'][6:9]
+
+
+    while np.linalg.norm(goal - objectPos) >= 0.01 and timeStep <= env._max_episode_steps :
+        env.render()
+        action = [0, 0, 0, 0]
+        for i in range(len(goal - objectPos)):
+            action[i] = (goal - objectPos)[i]*6
+
+        action[len(action)-1] = -0.005
+
+        obsDataNew, reward, done, info = env.step(action)
+        timeStep += 1
+
+        episodeAcs.append(action)
+        episodeInfo.append(info)
+        episodeObs.append(obsDataNew)
+
+        objectPos = obsDataNew['observation'][3:6]
+        object_rel_pos = obsDataNew['observation'][6:9]
+
+    while True: #limit the number of timesteps in the episode to a fixed duration
+        env.render()
+        action = [0, 0, 0, 0]
+        action[len(action)-1] = -0.005 # keep the gripper closed
+
+        obsDataNew, reward, done, info = env.step(action)
+        timeStep += 1
+
+        episodeAcs.append(action)
+        episodeInfo.append(info)
+        episodeObs.append(obsDataNew)
+
+        objectPos = obsDataNew['observation'][3:6]
+        object_rel_pos = obsDataNew['observation'][6:9]
+
+        if timeStep >= env._max_episode_steps: break
+
+    actions.append(episodeAcs)
+    observations.append(episodeObs)
+    infos.append(episodeInfo)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,63 @@
- flow_10694_0 0 5.0 2.0,9827.858112574579 6.0 3.141592653589793 flow_31512_0 0 5.0 2.0,12384.99339309752 5998.0 0.0 flow_4073_0 0 5.0 2.0,7994.0 7827.842431981147 -1.5707963267948966 flow_23330_0 0 5.0 2.0,1206.0 141.93962499999993 1.5707963267948966 flow_12206_0 0 5.0 2.0,7177.378274585633 4798.0 0.0 flow_3099_0 0 5.0 2.0,4806.0 3607.269598391943 1.5707963267948966 flow_18076_0 0 5.0 2.0,7594.0 12364.848515609858 -1.5707963267948966 flow_22878_0 0 5.0 2.0,5563.813004287056 5594.0 0.0 flow_3795_0 0 5.0 2.0,9194.0 5630.546071553357 -1.5707963267948966 flow_25010_0 0 5.0 2.0,6798.0 8815.228442229862 -1.5707963267948966 flow_21701_0 0 5.0 2.0,8806.0 8768.77320165198 1.5707963267948966 flow_5693_0 0 5.0 2.0,12566.397333333334 806.0 3.141592653589793 flow_32214_0 0 5.0 2.0,5606.0 11177.033172412073 1.5707963267948966 flow_38905_0 0 5.0 2.0,6561.408137500002 3606.0 3.141592653589793 flow_34028_0 0 5.0 2.0,12006.0 6905.0209287957105 1.5707963267948966 flow_28225_0 0 5.0 2.0,3194.0 3042.4787590297838 -1.5707963267948966 flow_15252_0 0 5.0 2.0,3215.0106061435345 12402.0 3.141592653589793 flow_40445_0 0 5.0 2.0,2006.0 2555.293778759266 1.5707963267948966 flow_13144_0 0 5.0 2.0,8406.0 10807.243408202114 1.5707963267948966 flow_23670_0 0 5.0 2.0,9606.0 1453.655402777777 1.5707963267948966 flow_25321_0 0 5.0 2.0,14006.0 361.9645673774998 1.5707963267948966 flow_30947_0 0 5.0 2.0,7206.0 515.1015656438261 1.5707963267948966 flow_22173_0 0 5.0 2.0,10044.611938062693 2806.0 3.141592653589793 flow_33428_0 0 5.0 2.0,5844.735410129625 2006.0 3.141592653589793 flow_32904_0 0 5.0 2.0,8835.926920963731 12006.0 3.141592653589793 flow_40182_0 0 5.0 2.0,2368.3395947766203 6006.0 3.141592653589793 flow_35756_0 0 5.0 2.0,7615.15338350307 3602.0 3.141592653589793 flow_34009_0 0 5.0 2.0,9457.314547410542 2806.0 3.141592653589793 flow_33420_0 0 5.0 2.0,12006.0 3554.4008762788635 1.5707963267948966 flow_28275_0 0 5.0 2.0,13662.867999368436 9206.0 3.141592653589793 flow_38127_0 0 5.0 2.0,2517.7041924091395 394.0 0.0 flow_361_0 0 5.0 2.0,11012.989049167098 4006.0 3.141592653589793 flow_34377_0 0 5.0 2.0,6.0 3527.251868069473 1.5707963267948966 flow_10500_0 0 5.0 2.0,8253.84463529631 1194.0 0.0 flow_899_0 0 5.0 2.0,2806.0 4352.0008532466645 1.5707963267948966 flow_14567_0 0 5.0 2.0,6394.0 10973.411342423213 -1.5707963267948966 flow_21026_0 0 5.0 2.0,6376.928780257663 7994.0 0.0 flow_5725_0 0 5.0 2.0,4932.704102083914 7594.0 0.0 flow_10420_0 0 5.0 2.0,12394.0 7828.308714706047 -1.5707963267948966 flow_29142_0 0 5.0 2.0,1994.0 11373.387897504592 -1.5707963267948966 flow_13514_0 0 5.0 2.0,3594.0 10017.97273728398 -1.5707963267948966 flow_16142_0 0 5.0 2.0,8586.95705478139 3194.0 0.0 flow_2000_0 0 5.0 2.0,5194.0 13551.757999996182 -1.5707963267948966 flow_19040_0 0 5.0 2.0,4006.0 309.7156356730651 1.5707963267
+import numpy as np
+
+
+def make_sample_her_transitions(replay_strategy, replay_k, reward_fun):
+    """Creates a sample function that can be used for HER experience replay.
+
+    Args:
+        replay_strategy (in ['future', 'none']): the HER replay strategy; if set to 'none',
+            regular DDPG experience replay is used
+        replay_k (int): the ratio between HER replays and regular replays (e.g. k = 4 -> 4 times
+            as many HER replays as regular replays are used)
+        reward_fun (function): function to re-compute the reward with substituted goals
+    """
+    if replay_strategy == 'future':
+        future_p = 1 - (1. / (1 + replay_k))
+    else:  # 'replay_strategy' == 'none'
+        future_p = 0
+
+    def _sample_her_transitions(episode_batch, batch_size_in_transitions):
+        """episode_batch is {key: array(buffer_size x T x dim_key)}
+        """
+        T = episode_batch['u'].shape[1]
+        rollout_batch_size = episode_batch['u'].shape[0]
+        batch_size = batch_size_in_transitions
+
+        # Select which episodes and time steps to use.
+        episode_idxs = np.random.randint(0, rollout_batch_size, batch_size)
+        t_samples = np.random.randint(T, size=batch_size)
+        transitions = {key: episode_batch[key][episode_idxs, t_samples].copy()
+                       for key in episode_batch.keys()}
+
+        # Select future time indexes proportional with probability future_p. These
+        # will be used for HER replay by substituting in future goals.
+        her_indexes = np.where(np.random.uniform(size=batch_size) < future_p)
+        future_offset = np.random.uniform(size=batch_size) * (T - t_samples)
+        future_offset = future_offset.astype(int)
+        future_t = (t_samples + 1 + future_offset)[her_indexes]
+
+        # Replace goal with achieved goal but only for the previously-selected
+        # HER transitions (as defined by her_indexes). For the other transitions,
+        # keep the original goal.
+        future_ag = episode_batch['ag'][episode_idxs[her_indexes], future_t]
+        transitions['g'][her_indexes] = future_ag
+
+        # Reconstruct info dictionary for reward  computation.
+        info = {}
+        for key, value in transitions.items():
+            if key.startswith('info_'):
+                info[key.replace('info_', '')] = value
+
+        # Re-compute reward since we may have substituted the goal.
+        reward_params = {k: transitions[k] for k in ['ag_2', 'g']}
+        reward_params['info'] = info
+        transitions['r'] = reward_fun(**reward_params)
+
+        transitions = {k: transitions[k].reshape(batch_size, *transitions[k].shape[1:])
+                       for k in transitions.keys()}
+
+        assert(transitions['u'].shape[0] == batch_size_in_transitions)
+
+        return transitions
+
+    return _sample_her_transitions

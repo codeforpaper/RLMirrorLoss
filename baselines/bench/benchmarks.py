@@ -1,1 +1,164 @@
-15.194293121125 2.0 3.141592653589793 flow_31452_0 0 5.0 2.0,11594.0 11457.287972366668 -1.5707963267948966 flow_28030_0 0 5.0 2.0,8422.514333747698 7202.0 3.141592653589793 flow_36389_0 0 5.0 2.0,5194.0 10901.896613379562 -1.5707963267948966 flow_19067_0 0 5.0 2.0,7594.0 6252.5325765820935 -1.5707963267948966 flow_22867_0 0 5.0 2.0,9998.0 2415.0574274259125 -1.5707963267948966 flow_26028_0 0 5.0 2.0,6284.463200331438 6.0 3.141592653589793 flow_31527_0 0 5.0 2.0,-231.1125 1594.0 0.0 flow_1206_0 0 5.0 2.0,9615.091495833336 12006.0 3.141592653589793 flow_40252_0 0 5.0 2.0,1994.0 12657.321751680061 -1.5707963267948966 flow_13618_0 0 5.0 2.0,5373.373104531249 8006.0 3.141592653589793 flow_36922_0 0 5.0 2.0,7563.816255657516 7994.0 0.0 flow_5767_0 0 5.0 2.0,6.0 4253.867100834312 1.5707963267948966 flow_10530_0 0 5.0 2.0,3288.4478571932614 7994.0 0.0 flow_5806_0 0 5.0 2.0,8430.017119820199 1202.0 3.141592653589793 flow_32512_0 0 5.0 2.0,8710.547030878115 9194.0 0.0 flow_6646_0 0 5.0 2.0,13206.0 9207.272734939495 1.5707963267948966 flow_29945_0 0 5.0 2.0,798.0 4415.158835968186 -1.5707963267948966 flow_11954_0 0 5.0 2.0,7206.0 -396.0 1.5707963267948966 flow_22248_0 0 5.0 2.0,12794.0 13746.950375 -1.5707963267948966 flow_29768_0 0 5.0 2.0,806.0 4655.2653371287 1.5707963267948966 flow_32686_0 0 5.0 2.0,9976.330475717114 4794.0 0.0 flow_3142_0 0 5.0 2.0,8006.0 10115.554977541988 1.5707963267948966 flow_23098_0 0 5.0 2.0,8806.0 8762.106495825516 1.5707963267948966 flow_24340_0 0 5.0 2.0,5662.28956742074 9206.0 3.141592653589793 flow_38110_0 0 5.0 2.0,7594.0 2935.335133522385 -1.5707963267948966 flow_22841_0 0 5.0 2.0,5176.751160241948 794.0 0.0 flow_713_0 0 5.0 2.0,4461.6989059289435 4394.0 0.0 flow_16831_0 0 5.0 2.0,8006.0 6987.042809933701 1.5707963267948966 flow_23120_0 0 5.0 2.0,5594.0 11615.211583333334 -1.5707963267948966 flow_19704_0 0 5.0 2.0,14006.0 3315.395047201574 1.5707963267948966 flow_30961_0 0 5.0 2.0,6806.0 1563.8411067999994 1.5707963267948966 flow_21518_0 0 5.0 2.0,8394.0 2946.1648571609726 -1.5707963267948966 flow_40475_0 0 5.0 2.0,7206.0 4888.458828155886 1.5707963267948966 flow_32169_0 0 5.0 2.0,11642.34693657846 8406.0 3.141592653589793 flow_37428_0 0 5.0 2.0,14006.0 3169.3456807819102 1.5707963267948966 flow_30964_0 0 5.0 2.0,9800.598561078416 6.0 3.141592653589793 flow_31580_0 0 5.0 2.0,7084.481626675783 13606.0 3.141592653589793 flow_41493_0 0 5.0 2.0,4776.899529197277 3198.0 0.0 flow_2011_0 0 5.0 2.0,4406.0 6737.681471811849 1.5707963267948966 flow_17339_0 0 5.0 2.0,-6.0 7746.158413743076 -1.5707963267948966 flow_10779_0 0 5.0 2.0,7206.0 9169.84729592217 1.5707963267948966 flow_22120_0 0 5.0 2.0,3598.0 5746.668844561055 -1.5707963267948966 flow_16146_0 0 5.0 2.0,7994.0 9223.896283064623 -1.5707963267948966 flow_40105_0 0 5.0 2.0,4406.0 9176.258238757491 1.5707963267948966 flow_17295_0 0 5.0 2.0,;road_0_1_0 r r g,road_0_2_0 r g g,road_0_3_0 r r g,road_0_4_0 r r g,road_0_5_0 r g g,road_0_6_0 r r g,road_0_7_0 r g g,road_0_8_0 r r g,road_0_9_0 r g g,road_0_10_0 r r g,road_0_11_0 r r g,road_0_12_0 r r g,road_0_13_0 r g g,road_0_14_0 r r g,road_0_15_0 r r g,road_0_16_0 r g g,road_0_17_0 r r g,road_0_18_0 r r g,road_0_19_0 r g g,road_0_20_0 r r g,road_0_21_0 r g g,road_0_22_0 r r g,road_0_23_0 r r g,road_0_24_0 r r g,road_0_25_0 r g g,road_0_26_0 r g g,road_0_27_0 r r g,road_0_28_0 r g g,road_0_29_0 r r g,road_0_30_0 r r g,road_0_31_0 r r g,road_0_32_0 r r g,road_0_33_0 r r g,road_0_34_0 r r g,road_0_35_0 r r g,road_0_36_0 r g g,road_1_0_1 r r g,road_1_1_0 r r g,road_1_1_1 r r g,road_1_2_0 r r g,road_1_2_1 r r g,road_1_2_3 r r g,road_1_3_0 r g g,road_1_3_1 r r g,road_1_3_3 r r g,road_1_4_0 r g g,road_1_4_1 r r g,road_1_4_3 r r g,road_1_5_0 r r g,road_1_5_1 r g g,road_1_5_3 r r g,road_1_6_0 r g g,road_1_6_1 r r g,road_1_6_3 r r g,road_1_7_0 r g g,road_1_7_1 r r g,road_1_7_3 r g g,road_1_8_0 r r g,road_1_8_1 r r g,road_1_8_3 r r g,road_1_9_0 r g g,road_1_9_1 r r g,road_1_9_3 r r g,road_1_10_0 r r g,road_1_10_1 r r g,road_1_10_3 r r g,road_1_11_0 r r g,road_1_11_1 r r g,road_1_11_3 r r g,road_1_12_0 r g g,road_1_12_1 r r g,road_1_12_3 r r g,road_1_13_0 r r g,road_1_13_1 r r g,road_1_13_3 r r g,road_1_14_0 r g g,road_1_14_1 r r g,road_1_14_3 r r g,road_1_15_0 r r g,road_1_15_1 r r g,road_1_15_3 r r g,road_1_16_0 r r g,road_1_16_1 r r g,road_1_16_3 r r g,road_1_17_0 r r g,road_1_17_1 r r g,road_1_17_3 r r g,road_1_18_0 r r g,road_1_18_1 r r g,road_1_18_3 r r g,road_1_19_0 r r g,road_1_19_1 r r g,road_1_19_3 r r g,road_1_20_0 r r g,road_1_20_1 r r g,road_1_20_3 r r g,road_1_21_0 r r g,road_1_21_1 r r g,road_1_21_3 r r g,road_1_22_0 r r g,road_1_22_1 r r g,road_1_22_3 r r g,road_1_23_0 r g g,road_1_23_1 r g g,road_1_23_3 r r g,road_1_24_0 r r g,road_1_24_1 r r g,road_1_24_3 r r g,road_1_25_0 r r g,road_1_25_1 r r g,road_1_25_3 r g g,road_1_26_0 r r g,road_1_26_1 r r g,road_1_26_3 r r g,road_1_27_0 r r g,road_1_27_1 r r g,road_1_27_3 r r g,road_1_28_0 r r g,road_1_28_1 r r g,road_1_28_3 r r g,road_1_29_0 r g g,road_1_29_1 r r g,road_1_29_3 r r g,road_1_30_0 r r g,road_1_30_1 r r g,road_1_30_3 r r g,road_1_31_0 r r g,road_1_31_1 r r g,road_1_31_3 r r g,road_1_32_0 r r g,road_1_32_1 r g g,road_1_32_3 r r g,road_1_33_0 r r g,road_1_33_1 r r g,road_1_33_3 r r g,road_1_34_0 r r g,road_1_34_1 r r g,road_1_34_3 r g g,road_1_35_0 r r g,road_1_35_1 r r g,road_1_35_3 r r g,road_1_36_0 r g g,road_1_36_3 r r g,road_1_37_3 r r g,road_2_0_1 r g g,road_2_1_0 r g g,road_2_1_1 r r g,road_2_1_2 r r g,road_2_2_0 r r g,road_2_2_1 r r g,road_2_2_2 r g g,road_2_2_3 r g g,road_2_3_0 r g g,road_2_3_1 r r g,road_2_3_2 r r g,road_2_3_3 r r g,road_2_4_0 r r g,road_2_4_1 r r g,road_2_4_2 r r g,road_2_4_3 r r g,road_2_5_0 r g g,road_2_5_1 r r g,road_2_5_2 r g g,road_2_5_3 r r g,road_2_6_0 r r g,road_2_6_1 r r g,road_2_6_2 r r g,road_2_6_3 r r g,road_2_7_0 r r g,road_2_7_1 r g g,road_2_7_2 r g g,road_2_7_3 r r g,road_2_8_0 r r g,road_2_8_1 r r g,road_2_8_2 r r g,road_2_8_3 r r g,road_2_9_0 r r g,road_2_9_1 r r g,road_2_9_2 r g g,road_2_9_3 r g g,road_2_10_0 r r g,road_2_10_1 r r g,road_2_10_2 r r g,road_2_10_3 r r g
+import re
+import os
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+_atari7 = ['BeamRider', 'Breakout', 'Enduro', 'Pong', 'Qbert', 'Seaquest', 'SpaceInvaders']
+_atariexpl7 = ['Freeway', 'Gravitar', 'MontezumaRevenge', 'Pitfall', 'PrivateEye', 'Solaris', 'Venture']
+
+_BENCHMARKS = []
+
+remove_version_re = re.compile(r'-v\d+$')
+
+
+def register_benchmark(benchmark):
+    for b in _BENCHMARKS:
+        if b['name'] == benchmark['name']:
+            raise ValueError('Benchmark with name %s already registered!' % b['name'])
+
+    # automatically add a description if it is not present
+    if 'tasks' in benchmark:
+        for t in benchmark['tasks']:
+            if 'desc' not in t:
+                t['desc'] = remove_version_re.sub('', t.get('env_id', t.get('id')))
+    _BENCHMARKS.append(benchmark)
+
+
+def list_benchmarks():
+    return [b['name'] for b in _BENCHMARKS]
+
+
+def get_benchmark(benchmark_name):
+    for b in _BENCHMARKS:
+        if b['name'] == benchmark_name:
+            return b
+    raise ValueError('%s not found! Known benchmarks: %s' % (benchmark_name, list_benchmarks()))
+
+
+def get_task(benchmark, env_id):
+    """Get a task by env_id. Return None if the benchmark doesn't have the env"""
+    return next(filter(lambda task: task['env_id'] == env_id, benchmark['tasks']), None)
+
+
+def find_task_for_env_id_in_any_benchmark(env_id):
+    for bm in _BENCHMARKS:
+        for task in bm["tasks"]:
+            if task["env_id"] == env_id:
+                return bm, task
+    return None, None
+
+
+_ATARI_SUFFIX = 'NoFrameskip-v4'
+
+register_benchmark({
+    'name': 'Atari50M',
+    'description': '7 Atari games from Mnih et al. (2013), with pixel observations, 50M timesteps',
+    'tasks': [{'desc': _game, 'env_id': _game + _ATARI_SUFFIX, 'trials': 2, 'num_timesteps': int(50e6)} for _game in _atari7]
+})
+
+register_benchmark({
+    'name': 'Atari10M',
+    'description': '7 Atari games from Mnih et al. (2013), with pixel observations, 10M timesteps',
+    'tasks': [{'desc': _game, 'env_id': _game + _ATARI_SUFFIX, 'trials': 6, 'num_timesteps': int(10e6)} for _game in _atari7]
+})
+
+register_benchmark({
+    'name': 'Atari1Hr',
+    'description': '7 Atari games from Mnih et al. (2013), with pixel observations, 1 hour of walltime',
+    'tasks': [{'desc': _game, 'env_id': _game + _ATARI_SUFFIX, 'trials': 2, 'num_seconds': 60 * 60} for _game in _atari7]
+})
+
+register_benchmark({
+    'name': 'AtariExploration10M',
+    'description': '7 Atari games emphasizing exploration, with pixel observations, 10M timesteps',
+    'tasks': [{'desc': _game, 'env_id': _game + _ATARI_SUFFIX, 'trials': 2, 'num_timesteps': int(10e6)} for _game in _atariexpl7]
+})
+
+
+# MuJoCo
+
+_mujocosmall = [
+    'InvertedDoublePendulum-v2', 'InvertedPendulum-v2',
+    'HalfCheetah-v2', 'Hopper-v2', 'Walker2d-v2',
+    'Reacher-v2', 'Swimmer-v2']
+register_benchmark({
+    'name': 'Mujoco1M',
+    'description': 'Some small 2D MuJoCo tasks, run for 1M timesteps',
+    'tasks': [{'env_id': _envid, 'trials': 6, 'num_timesteps': int(1e6)} for _envid in _mujocosmall]
+})
+
+register_benchmark({
+    'name': 'MujocoWalkers',
+    'description': 'MuJoCo forward walkers, run for 8M, humanoid 100M',
+    'tasks': [
+        {'env_id': "Hopper-v1", 'trials': 4, 'num_timesteps': 8 * 1000000},
+        {'env_id': "Walker2d-v1", 'trials': 4, 'num_timesteps': 8 * 1000000},
+        {'env_id': "Humanoid-v1", 'trials': 4, 'num_timesteps': 100 * 1000000},
+    ]
+})
+
+# Bullet
+_bulletsmall = [
+    'InvertedDoublePendulum', 'InvertedPendulum', 'HalfCheetah', 'Reacher', 'Walker2D', 'Hopper', 'Ant'
+]
+_bulletsmall = [e + 'BulletEnv-v0' for e in _bulletsmall]
+
+register_benchmark({
+    'name': 'Bullet1M',
+    'description': '6 mujoco-like tasks from bullet, 1M steps',
+    'tasks': [{'env_id': e, 'trials': 6, 'num_timesteps': int(1e6)} for e in _bulletsmall]
+})
+
+
+# Roboschool
+
+register_benchmark({
+    'name': 'Roboschool8M',
+    'description': 'Small 2D tasks, up to 30 minutes to complete on 8 cores',
+    'tasks': [
+        {'env_id': "RoboschoolReacher-v1", 'trials': 4, 'num_timesteps': 2 * 1000000},
+        {'env_id': "RoboschoolAnt-v1", 'trials': 4, 'num_timesteps': 8 * 1000000},
+        {'env_id': "RoboschoolHalfCheetah-v1", 'trials': 4, 'num_timesteps': 8 * 1000000},
+        {'env_id': "RoboschoolHopper-v1", 'trials': 4, 'num_timesteps': 8 * 1000000},
+        {'env_id': "RoboschoolWalker2d-v1", 'trials': 4, 'num_timesteps': 8 * 1000000},
+    ]
+})
+register_benchmark({
+    'name': 'RoboschoolHarder',
+    'description': 'Test your might!!! Up to 12 hours on 32 cores',
+    'tasks': [
+        {'env_id': "RoboschoolHumanoid-v1", 'trials': 4, 'num_timesteps': 100 * 1000000},
+        {'env_id': "RoboschoolHumanoidFlagrun-v1", 'trials': 4, 'num_timesteps': 200 * 1000000},
+        {'env_id': "RoboschoolHumanoidFlagrunHarder-v1", 'trials': 4, 'num_timesteps': 400 * 1000000},
+    ]
+})
+
+# Other
+
+_atari50 = [  # actually 47
+    'Alien', 'Amidar', 'Assault', 'Asterix', 'Asteroids',
+    'Atlantis', 'BankHeist', 'BattleZone', 'BeamRider', 'Bowling',
+    'Breakout', 'Centipede', 'ChopperCommand', 'CrazyClimber',
+    'DemonAttack', 'DoubleDunk', 'Enduro', 'FishingDerby', 'Freeway',
+    'Frostbite', 'Gopher', 'Gravitar', 'IceHockey', 'Jamesbond',
+    'Kangaroo', 'Krull', 'KungFuMaster', 'MontezumaRevenge', 'MsPacman',
+    'NameThisGame', 'Pitfall', 'Pong', 'PrivateEye', 'Qbert',
+    'RoadRunner', 'Robotank', 'Seaquest', 'SpaceInvaders', 'StarGunner',
+    'Tennis', 'TimePilot', 'Tutankham', 'UpNDown', 'Venture',
+    'VideoPinball', 'WizardOfWor', 'Zaxxon',
+]
+
+register_benchmark({
+    'name': 'Atari50_10M',
+    'description': '47 Atari games from Mnih et al. (2013), with pixel observations, 10M timesteps',
+    'tasks': [{'desc': _game, 'env_id': _game + _ATARI_SUFFIX, 'trials': 2, 'num_timesteps': int(10e6)} for _game in _atari50]
+})
+
+# HER DDPG
+
+_fetch_tasks = ['FetchReach-v1', 'FetchPush-v1', 'FetchSlide-v1']
+register_benchmark({
+    'name': 'Fetch1M',
+    'description': 'Fetch* benchmarks for 1M timesteps',
+    'tasks': [{'trials': 6, 'env_id': env_id, 'num_timesteps': int(1e6)} for env_id in _fetch_tasks]
+})
+

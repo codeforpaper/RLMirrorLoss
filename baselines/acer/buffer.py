@@ -1,1 +1,156 @@
-5.0 2.0,12006.0 10220.52833915799 1.5707963267948966 flow_28210_0 0 5.0 2.0,6806.0 6784.115258113446 1.5707963267948966 flow_21404_0 0 5.0 2.0,806.0 4784.9699391492295 1.5707963267948966 flow_11665_0 0 5.0 2.0,-2.0 7215.001485831033 -1.5707963267948966 flow_10732_0 0 5.0 2.0,7994.0 12837.627225887827 -1.5707963267948966 flow_23449_0 0 5.0 2.0,6331.787216650788 4794.0 0.0 flow_3159_0 0 5.0 2.0,8406.0 871.7472916982324 1.5707963267948966 flow_23852_0 0 5.0 2.0,10716.925994225208 10794.0 0.0 flow_7729_0 0 5.0 2.0,2602.7282999400973 1194.0 0.0 flow_956_0 0 5.0 2.0,3194.0 6633.920698769973 -1.5707963267948966 flow_15317_0 0 5.0 2.0,11766.935072222223 2006.0 3.141592653589793 flow_32976_0 0 5.0 2.0,10815.104121977594 10006.0 3.141592653589793 flow_38680_0 0 5.0 2.0,6422.53436395805 10002.0 3.141592653589793 flow_38621_0 0 5.0 2.0,4394.0 10950.044000896849 -1.5707963267948966 flow_17740_0 0 5.0 2.0,6406.0 7176.884397783672 1.5707963267948966 flow_20691_0 0 5.0 2.0,9994.0 5295.579520337657 -1.5707963267948966 flow_26036_0 0 5.0 2.0,10838.333785458231 2806.0 3.141592653589793 flow_33475_0 0 5.0 2.0,5994.0 9117.748283586461 -1.5707963267948966 flow_20382_0 0 5.0 2.0,6794.0 14342.2225 -1.5707963267948966 flow_21869_0 0 5.0 2.0,12344.621269068908 10006.0 3.141592653589793 flow_38699_0 0 5.0 2.0,4406.0 2704.3297489599036 1.5707963267948966 flow_17362_0 0 5.0 2.0,9994.0 10013.35968514499 -1.5707963267948966 flow_26090_0 0 5.0 2.0,7904.421896017041 7594.0 0.0 flow_5463_0 0 5.0 2.0,12394.0 2290.5708538770705 -1.5707963267948966 flow_29102_0 0 5.0 2.0,7723.678851232985 4806.0 3.141592653589793 flow_35044_0 0 5.0 2.0,6429.017515482061 2806.0 3.141592653589793 flow_33415_0 0 5.0 2.0,13002.513375 10006.0 3.141592653589793 flow_38706_0 0 5.0 2.0,7504.227965547967 5194.0 0.0 flow_18046_0 0 5.0 2.0,1176.694985902775 12794.0 0.0 flow_9367_0 0 5.0 2.0,3194.0 5651.196950292406 -1.5707963267948966 flow_15306_0 0 5.0 2.0,6179.464015482061 2806.0 3.141592653589793 flow_33410_0 0 5.0 2.0,3594.0 3599.0848588345507 -1.5707963267948966 flow_16079_0 0 5.0 2.0,11994.0 11615.072395833335 -1.5707963267948966 flow_28675_0 0 5.0 2.0,-31.11450000000019 10794.0 0.0 flow_7828_0 0 5.0 2.0,1598.0 7215.025515344922 -1.5707963267948966 flow_12828_0 0 5.0 2.0,4394.0 9984.469128437773 -1.5707963267948966 flow_17729_0 0 5.0 2.0,4815.4550915901655 13202.0 3.141592653589793 flow_41130_0 0 5.0 2.0,5576.917807061077 1594.0 0.0 flow_1143_0 0 5.0 2.0,7599.004545825968 8006.0 3.141592653589793 flow_36917_0 0 5.0 2.0,5998.0 815.0137444417351 -1.5707963267948966 flow_20276_0 0 5.0 2.0,12516.36267398363 2794.0 0.0 flow_1712_0 0 5.0 2.0,6784.9375026563375 3994.0 0.0 flow_2672_0 0 5.0 2.0,2394.0 7615.086748371838 -1.5707963267948966 flow_14222_0 0 5.0 2.0,13606.0 6193.306894083623 1.5707963267948966 flow_30419_0 0 5.0 2.0,2798.0 5615.094982358812 -1.5707963267948966 flow_14706_0 0 5.0 2.0,2806.0 -220.00150000000003 1.5707963267948966 flow_14616_0 0 5.0 2.0,2406.0 2400.7480565749993 1.5707963267948966 flow_13942_0 0 5.0 2.0,7594.0 3246.1455752620177 -1.5707963267948966 flow_22821_0 0 5.0 2.0,3594.0 7544.670565436431 -1.5707963267948966 flow_16139_0 0 5.0 2.0,6242.727660522405 8394.0 0.0 flow_6046_0 0 5.0 2.0,9594.0 8030.959816742707 -1.5707963267948966 flow_25518_0 0 5.0 2.0,3316.261333333332 10394.0 0.0 flow_7507_0 0 5.0 2.0,10006.0 4753.747544604949 1.5707963267948966 flow_25792_0 0 5.0 2.0,8777.475327546035 13998.0 0.0 flow_10232_0 0 5.0 2.0,-15.939976600000137 3994.0 0.0 flow_2733_0 0 5.0 2.0,784.8964583333329 2394.0 0.0 flow_1585_0 0 5.0 2.0,13590.633944444446 7206.0 3.141592653589793 flow_36466_0 0 5.0 2.0,11998.0 8015.041595419916 -1.5707963267948966 flow_28596_0 0 5.0 2.0,9976.956346913608 9594.0 0.0 flow_6933_0 0 5.0 2.0,1594.0 6770.2968804027305 -1.5707963267948966 flow_12879_0 0 5.0 2.0,-15.642500000000155 8794.0 0.0 flow_6390_0 0 5.0 2.0,4798.0 3413.142690047833 -1.5707963267948966 flow_18428_0 0 5.0 2.0,6384.975535372653 7594.0 0.0 flow_5477_0 0 5.0 2.0,8415.004088019261 4406.0 3.141592653589793 flow_34716_0 0 5.0 2.0,-6.0 6023.085603171332 -1.5707963267948966 flow_10744_0 0 5.0 2.0,10406.0 4482.297044640332 1.5707963267948966 flow_26344_0 0 5.0 2.0,3594.0 5407.21595206878 -1.5707963267948966 flow_16106_0 0 5.0 2.0,9709.328722110382 6794.0 0.0 flow_24316_0 0 5.0 2.0,9246.389999268136 406.0 3.141592653589793 flow_31907_0 0 5.0 2.0,4394.0 9377.276874032184 -1.5707963267948966 flow_17719_0 0 5.0 2.0,12776.811341623772 398.0 0.0 flow_264_0 0 5.0 2.0,4006.0 10909.285181485004 1.5707963267948966 flow_16470_0 0 5.0 2.0,11968.5851455111 3194.0 0.0 flow_1997_0 0 5.0 2.0,794.0 10606.872973771975 -1.5707963267948966 flow_12007_0 0 5.0 2.0,1606.0 5255.447922335812 1.5707963267948966 flow_12621_0 0 5.0 2.0,10794.0 8815.316879073836 -1.5707963267948966 flow_26972_0 0 5.0 2.0,10331.632118741903 6794.0 0.0 flow_4798_0 0 5.0 2.0,5170.679671718012 7994.0 0.0 flow_14773_0 0 5.0 2.0,9606.0 5600.878615445161 1.5707963267948966 flow_25310_0 0 5.0 2.0,1381.6187361111104 9594.0 0.0 flow_6983_0 0 5.0 2.0,8394.0 8423.529748073408 -1.5707963267948966 flow_24112_0 0 5.0 2.0,3194.0 6068.355142233719 -1.5707963267948966 flow_15309_0 0 5.0 2.0,2406.0 12925.760915273802 1.5707963267948966 flow_40926_0 0 5.0 2.0,10784.99169727849 12398.0 0.0 flow_8897_0 0 5.0 2.0,14331.1115 8406.0 3.141592653589793 flow_37427_0 0 5.0 2.0,8377.469835002299 4398.0 0.0 flow_2854_0 0 5.0 2.0,3606.0 5161.913139578606 1.5707963267948966 flow_15756_0 0 5.0 2.0,9994.0 1873.7647503231708 -1.5707963267948966 flow_5187_0 0 5.0 2.0,6006.0 -320.0005 1.5707963267948966 flow_20072_0 0 5.0 2.0,2394.0 8423.052411816014 -1.5707963267948966 flow_14237_0 0 5.0 2.0,2394.0 4415.014609884177 -1.5707963267948966 flow_14173_0 0 5.0 2.0,4806.0 3164.385212976212 1.5707963267948966 flow_18125_0 0 5.0 2.0,7994.0 5999.914674822301 -1.5707963267948966 flow_23339_0 0 5.0 2.0,10868.354853901657 11606
+import numpy as np
+
+class Buffer(object):
+    # gets obs, actions, rewards, mu's, (states, masks), dones
+    def __init__(self, env, nsteps, size=50000):
+        self.nenv = env.num_envs
+        self.nsteps = nsteps
+        # self.nh, self.nw, self.nc = env.observation_space.shape
+        self.obs_shape = env.observation_space.shape
+        self.obs_dtype = env.observation_space.dtype
+        self.ac_dtype = env.action_space.dtype
+        self.nc = self.obs_shape[-1]
+        self.nstack = env.nstack
+        self.nc //= self.nstack
+        self.nbatch = self.nenv * self.nsteps
+        self.size = size // (self.nsteps)  # Each loc contains nenv * nsteps frames, thus total buffer is nenv * size frames
+
+        # Memory
+        self.enc_obs = None
+        self.actions = None
+        self.rewards = None
+        self.mus = None
+        self.dones = None
+        self.masks = None
+
+        # Size indexes
+        self.next_idx = 0
+        self.num_in_buffer = 0
+
+    def has_atleast(self, frames):
+        # Frames per env, so total (nenv * frames) Frames needed
+        # Each buffer loc has nenv * nsteps frames
+        return self.num_in_buffer >= (frames // self.nsteps)
+
+    def can_sample(self):
+        return self.num_in_buffer > 0
+
+    # Generate stacked frames
+    def decode(self, enc_obs, dones):
+        # enc_obs has shape [nenvs, nsteps + nstack, nh, nw, nc]
+        # dones has shape [nenvs, nsteps]
+        # returns stacked obs of shape [nenv, (nsteps + 1), nh, nw, nstack*nc]
+
+        return _stack_obs(enc_obs, dones,
+                          nsteps=self.nsteps)
+
+    def put(self, enc_obs, actions, rewards, mus, dones, masks):
+        # enc_obs [nenv, (nsteps + nstack), nh, nw, nc]
+        # actions, rewards, dones [nenv, nsteps]
+        # mus [nenv, nsteps, nact]
+
+        if self.enc_obs is None:
+            self.enc_obs = np.empty([self.size] + list(enc_obs.shape), dtype=self.obs_dtype)
+            self.actions = np.empty([self.size] + list(actions.shape), dtype=self.ac_dtype)
+            self.rewards = np.empty([self.size] + list(rewards.shape), dtype=np.float32)
+            self.mus = np.empty([self.size] + list(mus.shape), dtype=np.float32)
+            self.dones = np.empty([self.size] + list(dones.shape), dtype=np.bool)
+            self.masks = np.empty([self.size] + list(masks.shape), dtype=np.bool)
+
+        self.enc_obs[self.next_idx] = enc_obs
+        self.actions[self.next_idx] = actions
+        self.rewards[self.next_idx] = rewards
+        self.mus[self.next_idx] = mus
+        self.dones[self.next_idx] = dones
+        self.masks[self.next_idx] = masks
+
+        self.next_idx = (self.next_idx + 1) % self.size
+        self.num_in_buffer = min(self.size, self.num_in_buffer + 1)
+
+    def take(self, x, idx, envx):
+        nenv = self.nenv
+        out = np.empty([nenv] + list(x.shape[2:]), dtype=x.dtype)
+        for i in range(nenv):
+            out[i] = x[idx[i], envx[i]]
+        return out
+
+    def get(self):
+        # returns
+        # obs [nenv, (nsteps + 1), nh, nw, nstack*nc]
+        # actions, rewards, dones [nenv, nsteps]
+        # mus [nenv, nsteps, nact]
+        nenv = self.nenv
+        assert self.can_sample()
+
+        # Sample exactly one id per env. If you sample across envs, then higher correlation in samples from same env.
+        idx = np.random.randint(0, self.num_in_buffer, nenv)
+        envx = np.arange(nenv)
+
+        take = lambda x: self.take(x, idx, envx)  # for i in range(nenv)], axis = 0)
+        dones = take(self.dones)
+        enc_obs = take(self.enc_obs)
+        obs = self.decode(enc_obs, dones)
+        actions = take(self.actions)
+        rewards = take(self.rewards)
+        mus = take(self.mus)
+        masks = take(self.masks)
+        return obs, actions, rewards, mus, dones, masks
+
+
+
+def _stack_obs_ref(enc_obs, dones, nsteps):
+    nenv = enc_obs.shape[0]
+    nstack = enc_obs.shape[1] - nsteps
+    nh, nw, nc = enc_obs.shape[2:]
+    obs_dtype = enc_obs.dtype
+    obs_shape = (nh, nw, nc*nstack)
+
+    mask = np.empty([nsteps + nstack - 1, nenv, 1, 1, 1], dtype=np.float32)
+    obs = np.zeros([nstack, nsteps + nstack, nenv, nh, nw, nc], dtype=obs_dtype)
+    x = np.reshape(enc_obs, [nenv, nsteps + nstack, nh, nw, nc]).swapaxes(1, 0)  # [nsteps + nstack, nenv, nh, nw, nc]
+
+    mask[nstack-1:] = np.reshape(1.0 - dones, [nenv, nsteps, 1, 1, 1]).swapaxes(1, 0)  # keep
+    mask[:nstack-1] = 1.0
+
+    # y = np.reshape(1 - dones, [nenvs, nsteps, 1, 1, 1])
+    for i in range(nstack):
+        obs[-(i + 1), i:] = x
+        # obs[:,i:,:,:,-(i+1),:] = x
+        x = x[:-1] * mask
+        mask = mask[1:]
+
+    return np.reshape(obs[:, (nstack-1):].transpose((2, 1, 3, 4, 0, 5)), (nenv, (nsteps + 1)) + obs_shape)
+
+def _stack_obs(enc_obs, dones, nsteps):
+    nenv = enc_obs.shape[0]
+    nstack = enc_obs.shape[1] - nsteps
+    nc = enc_obs.shape[-1]
+
+    obs_ = np.zeros((nenv, nsteps + 1) + enc_obs.shape[2:-1] + (enc_obs.shape[-1] * nstack, ), dtype=enc_obs.dtype)
+    mask = np.ones((nenv, nsteps+1), dtype=enc_obs.dtype)
+    mask[:, 1:] = 1.0 - dones
+    mask = mask.reshape(mask.shape + tuple(np.ones(len(enc_obs.shape)-2, dtype=np.uint8)))
+
+    for i in range(nstack-1, -1, -1):
+        obs_[..., i * nc : (i + 1) * nc] = enc_obs[:, i : i + nsteps + 1, :]
+        if i < nstack-1:
+            obs_[..., i * nc : (i + 1) * nc] *= mask
+            mask[:, 1:, ...] *= mask[:, :-1, ...]
+
+    return obs_
+
+def test_stack_obs():
+    nstack = 7
+    nenv = 1
+    nsteps = 5
+
+    obs_shape = (2, 3, nstack)
+
+    enc_obs_shape = (nenv, nsteps + nstack) + obs_shape[:-1] + (1,)
+    enc_obs = np.random.random(enc_obs_shape)
+    dones = np.random.randint(low=0, high=2, size=(nenv, nsteps))
+
+    stacked_obs_ref = _stack_obs_ref(enc_obs, dones, nsteps=nsteps)
+    stacked_obs_test = _stack_obs(enc_obs, dones, nsteps=nsteps)
+
+    np.testing.assert_allclose(stacked_obs_ref, stacked_obs_test)

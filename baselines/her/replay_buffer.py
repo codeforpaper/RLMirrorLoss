@@ -1,1 +1,108 @@
-15752_0 0 5.0 2.0,9994.0 9113.692037343704 -1.5707963267948966 flow_6569_0 0 5.0 2.0,6353.588754658238 13594.0 0.0 flow_9936_0 0 5.0 2.0,6806.0 4777.94259678757 1.5707963267948966 flow_21396_0 0 5.0 2.0,6794.0 4478.102053143476 -1.5707963267948966 flow_21719_0 0 5.0 2.0,10198.296523422801 8794.0 0.0 flow_21304_0 0 5.0 2.0,8406.0 -208.89050000000004 1.5707963267948966 flow_23829_0 0 5.0 2.0,5194.0 12390.35220795005 -1.5707963267948966 flow_19024_0 0 5.0 2.0,5606.0 5027.724618948311 1.5707963267948966 flow_31802_0 0 5.0 2.0,13234.362707420802 806.0 3.141592653589793 flow_32217_0 0 5.0 2.0,5594.0 8422.540511810079 -1.5707963267948966 flow_19596_0 0 5.0 2.0,5584.979766492589 3598.0 0.0 flow_2368_0 0 5.0 2.0,1994.0 2090.633786440731 -1.5707963267948966 flow_13369_0 0 5.0 2.0,5594.0 4823.697704228537 -1.5707963267948966 flow_19565_0 0 5.0 2.0,3999.151479092135 6011.227715532204 -1.18036416177336 flow_16794_0 0 5.0 2.0,4784.777251706903 3194.0 0.0 flow_2048_0 0 5.0 2.0,1606.0 4326.517930244629 1.5707963267948966 flow_12604_0 0 5.0 2.0,5801.7029260022755 4006.0 3.141592653589793 flow_34323_0 0 5.0 2.0,6712.826088888892 2406.0 3.141592653589793 flow_33155_0 0 5.0 2.0,7206.0 3484.255901269919 1.5707963267948966 flow_22128_0 0 5.0 2.0,3194.0 12339.79116490371 -1.5707963267948966 flow_15377_0 0 5.0 2.0,6034.030900728007 5594.0 0.0 flow_3788_0 0 5.0 2.0,719.9587361111107 11594.0 0.0 flow_8424_0 0 5.0 2.0,8415.196687500003 11206.0 3.141592653589793 flow_39468_0 0 5.0 2.0,5056.130004044571 1206.0 3.141592653589793 flow_32435_0 0 5.0 2.0,1969.696952441666 11994.0 0.0 flow_8688_0 0 5.0 2.0,11994.0 12322.810973129228 -1.5707963267948966 flow_28659_0 0 5.0 2.0,9512.854663888891 806.0 3.141592653589793 flow_32179_0 0 5.0 2.0,14391.0 8006.0 3.141592653589793 flow_36986_0 0 5.0 2.0,3994.0 13622.970208333334 -1.5707963267948966 flow_16958_0 0 5.0 2.0,11401.738359766448 12406.0 3.141592653589793 flow_40599_0 0 5.0 2.0,9230.567891606757 10006.0 3.141592653589793 flow_38636_0 0 5.0 2.0,8806.0 681.749299788631 1.5707963267948966 flow_24376_0 0 5.0 2.0,3168.5819129828888 6394.0 0.0 flow_11578_0 0 5.0 2.0,-108.89150000000012 3594.0 0.0 flow_2452_0 0 5.0 2.0,3594.0 9137.00528023427 -1.5707963267948966 flow_16127_0 0 5.0 2.0,2806.0 4543.829470319992 1.5707963267948966 flow_14563_0 0 5.0 2.0,11206.0 681.3786331219643 1.5707963267948966 flow_27220_0 0 5.0 2.0,12006.0 12575.832402838172 1.5707963267948966 flow_28160_0 0 5.0 2.0,486.75129166666638 12794.0 0.0 flow_9340_0 0 5.0 2.0,2794.0 6015.442332097023 -1.5707963267948966 flow_36600_0 0 5.0 2.0,406.0 5587.883454528953 1.5707963267948966 flow_11011_0 0 5.0 2.0,6.0 5169.7961134906545 1.5707963267948966 flow_10478_0 0 5.0 2.0,8406.0 2377.2892855453542 1.5707963267948966 flow_23789_0 0 5.0 2.0,3994.0 2712.809351964205 -1.5707963267948966 flow_16796_0 0 5.0 2.0,9988.747249214275 10794.0 0.0 flow_20614_0 0 5.0 2.0,8806.0 2376.823084946207 1.5707963267948966 flow_24354_0 0 5.0 2.0,406.0 4711.103612931054 1.5707963267948966 flow_11026_0 0 5.0 2.0,6806.0 5081.398964444271 1.5707963267948966 flow_21394_0 0 5.0 2.0,13139.815798190657 6.0 3.141592653589793 flow_31556_0 0 5.0 2.0,13206.0 7015.486099999999 1.5707963267948966 flow_29918_0 0 5.0 2.0,3343.8216251220974 10394.0 0.0 flow_13821_0 0 5.0 2.0,5594.0 9317.979116078961 -1.5707963267948966 flow_38868_0 0 5.0 2.0,10806.0 7743.86312505168 1.5707963267948966 flow_26720_0 0 5.0 2.0,7343.783146791194 6794.0 0.0 flow_4802_0 0 5.0 2.0,8406.0 2761.968891940797 1.5707963267948966 flow_23785_0 0 5.0 2.0,8394.0 6312.797328495596 -1.5707963267948966 flow_40461_0 0 5.0 2.0,8398.0 8815.580913074784 -1.5707963267948966 flow_24097_0 0 5.0 2.0,2415.0063657789
+import threading
+
+import numpy as np
+
+
+class ReplayBuffer:
+    def __init__(self, buffer_shapes, size_in_transitions, T, sample_transitions):
+        """Creates a replay buffer.
+
+        Args:
+            buffer_shapes (dict of ints): the shape for all buffers that are used in the replay
+                buffer
+            size_in_transitions (int): the size of the buffer, measured in transitions
+            T (int): the time horizon for episodes
+            sample_transitions (function): a function that samples from the replay buffer
+        """
+        self.buffer_shapes = buffer_shapes
+        self.size = size_in_transitions // T
+        self.T = T
+        self.sample_transitions = sample_transitions
+
+        # self.buffers is {key: array(size_in_episodes x T or T+1 x dim_key)}
+        self.buffers = {key: np.empty([self.size, *shape])
+                        for key, shape in buffer_shapes.items()}
+
+        # memory management
+        self.current_size = 0
+        self.n_transitions_stored = 0
+
+        self.lock = threading.Lock()
+
+    @property
+    def full(self):
+        with self.lock:
+            return self.current_size == self.size
+
+    def sample(self, batch_size):
+        """Returns a dict {key: array(batch_size x shapes[key])}
+        """
+        buffers = {}
+
+        with self.lock:
+            assert self.current_size > 0
+            for key in self.buffers.keys():
+                buffers[key] = self.buffers[key][:self.current_size]
+
+        buffers['o_2'] = buffers['o'][:, 1:, :]
+        buffers['ag_2'] = buffers['ag'][:, 1:, :]
+
+        transitions = self.sample_transitions(buffers, batch_size)
+
+        for key in (['r', 'o_2', 'ag_2'] + list(self.buffers.keys())):
+            assert key in transitions, "key %s missing from transitions" % key
+
+        return transitions
+
+    def store_episode(self, episode_batch):
+        """episode_batch: array(batch_size x (T or T+1) x dim_key)
+        """
+        batch_sizes = [len(episode_batch[key]) for key in episode_batch.keys()]
+        assert np.all(np.array(batch_sizes) == batch_sizes[0])
+        batch_size = batch_sizes[0]
+
+        with self.lock:
+            idxs = self._get_storage_idx(batch_size)
+
+            # load inputs into buffers
+            for key in self.buffers.keys():
+                self.buffers[key][idxs] = episode_batch[key]
+
+            self.n_transitions_stored += batch_size * self.T
+
+    def get_current_episode_size(self):
+        with self.lock:
+            return self.current_size
+
+    def get_current_size(self):
+        with self.lock:
+            return self.current_size * self.T
+
+    def get_transitions_stored(self):
+        with self.lock:
+            return self.n_transitions_stored
+
+    def clear_buffer(self):
+        with self.lock:
+            self.current_size = 0
+
+    def _get_storage_idx(self, inc=None):
+        inc = inc or 1   # size increment
+        assert inc <= self.size, "Batch committed to replay is too large!"
+        # go consecutively until you hit the end, and then go randomly.
+        if self.current_size+inc <= self.size:
+            idx = np.arange(self.current_size, self.current_size+inc)
+        elif self.current_size < self.size:
+            overflow = inc - (self.size - self.current_size)
+            idx_a = np.arange(self.current_size, self.size)
+            idx_b = np.random.randint(0, self.current_size, overflow)
+            idx = np.concatenate([idx_a, idx_b])
+        else:
+            idx = np.random.randint(0, self.size, inc)
+
+        # update replay size
+        self.current_size = min(self.size, self.current_size+inc)
+
+        if inc == 1:
+            idx = idx[0]
+        return idx

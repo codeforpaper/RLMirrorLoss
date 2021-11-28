@@ -1,1 +1,31 @@
-17384_0 0 5.0 2.0,8867.500483108852 4406.0 3.141592653589793 flow_34746_0 0 5.0 2.0,4006.0 7609.861698521747 1.5707963267948966 flow_16537_0 0 5.0 2.0,10858.605772288665 8806.0 3.141592653589793 flow_37815_0 0 5.0 2.0,8873.531223802627 3606.0 3.141592653589793 flow_34097_0 0 5.0 2.0,14006.0 5888.1905085069075 1.5707963267948966 flow_30921_0 0 5.0 2.0,406.0 3666.385587134832 1.5707963267948966 flow_11088_0 0 5.0 2.0,3606.0 7540.539713811658 1.5707963267948966 flow_15747_0 0 5.0 2.0,11606.0 5190.588286758454 1.5707963267948966 flow_27729_0 0 5.0 2.0,3606.0 11698.11949399525 1.5707963267948966 flow_15694_0 0 5.0 2.0,2384.7881666666653 2794.0 0.0 flow_1814_0 0 5.0 2.0,12406.0 4009.9755417941515 1.5707963267948966 flow_28936_0 0 5.0 2.0,6784.7712211909 9198.0 0.0 flow_20892_0 0 5.0 2.0,6006.0 409.52979166666639 1.5707963267948966 flow_20085_0 0 5.0 2.0,4
+from .monitor import Monitor
+import gym
+import json
+
+def test_monitor():
+    import pandas
+    import os
+    import uuid
+
+    env = gym.make("CartPole-v1")
+    env.seed(0)
+    mon_file = "/tmp/baselines-test-%s.monitor.csv" % uuid.uuid4()
+    menv = Monitor(env, mon_file)
+    menv.reset()
+    for _ in range(1000):
+        _, _, done, _ = menv.step(0)
+        if done:
+            menv.reset()
+
+    f = open(mon_file, 'rt')
+
+    firstline = f.readline()
+    assert firstline.startswith('#')
+    metadata = json.loads(firstline[1:])
+    assert metadata['env_id'] == "CartPole-v1"
+    assert set(metadata.keys()) == {'env_id', 't_start'},  "Incorrect keys in monitor metadata"
+
+    last_logline = pandas.read_csv(f, index_col=None)
+    assert set(last_logline.keys()) == {'l', 't', 'r'}, "Incorrect keys in monitor logline"
+    f.close()
+    os.remove(mon_file)

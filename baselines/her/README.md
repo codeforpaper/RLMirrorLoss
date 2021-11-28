@@ -1,1 +1,85 @@
-66 flow_17981_0 0 5.0 2.0,12394.0 4015.0664237415062 -1.5707963267948966 flow_29085_0 0 5.0 2.0,6806.0 6264.899452127368 1.5707963267948966 flow_34979_0 0 5.0 2.0,13958.059375 10006.0 3.141592653589793 flow_38671_0 0 5.0 2.0,10878.368326911357 8406.0 3.141592653589793 flow_37338_0 0 5.0 2.0,1176.469507963734 7194.0 0.0 flow_5250_0 0 5.0 2.0,2935.013218622518 5606.0 3.141592653589793 flow_35542_0 0 5.0 2.0,10087.136039870375 3994.0 0.0 flow_2614_0 0 5.0 2.0,1606.0 5850.318882851894 1.5707963267948966 flow_12575_0 0 5.0 2.0,11789.653526889113 2006.0 3.141592653589793 flow_32942_0 0 5.0 2.0,6006.0 11037.52658002666 1.5707963267948966 flow_37252_0 0 5.0 2.0,7994.0 6415.275632469997 -1.5707963267948966 flow_23297_0 0 5.0 2.0,7994.0 13622.755875522116 -1.5707963267948966 flow_23402_0 0 5.0 2.0,7606.0 348.7152628789381 1.5707963267948966 flow_22655_0 0 5.0 2.0,12394.0 6935.049784523171 -1.5707963267948966 flow_29113_0 0 5.0 2.0,9148.426372243417 11994.0 0.0 flow_8605_0 0 5.0 2.0,1174.1521249999994 13194.0 0.0 flow_9649_0 0 5.0 2.0,6794.0 7557.420979979219 -1.5707963267948966 flow_21736_0 0 5.0 2.0,7976.721386390955 4394.0 0.0 flow_2882_0 0 5.0 2.0,9223.064760030835 9606.0 3.141592653589793 flow_38315_0 0 5.0 2.0,10415.084145833334 1206.0 3.141592653589793 flow_32470_0 0 5.0 2.0,12806.0 6371.646903759265 1.5707963267948966 flow_29434_0 0 5.0 2.0,9994.0 4415.113648147552 -1.5707963267948966 flow_5952_0 0 5.0 2.0,10798.0 4015.004450935201 -1.5707963267948966 flow_26892_0 0 5.0 2.0,5194.0 13002.142708333335 -1.5707963267948966 flow_19016_0 0 5.0 2.0,6757.510950414367 10410.0 3.141592653589793 flow_38910_0 0 5.0 2.0,5194.0 9238.362530323951 -1.5707963267948966 flow_18967_0 0 5.0 2.0,10198.302710899145 5594.0 0.0 flow_22378_0 0 5.0 2.0,13194.0 13167.69670828345 -1.5707963267948966 flow_30205_0 0 5.0 2.0,10563.918501320839 11990.0 0.0 flow_8596_0 0 5.0 2.0,11046.148293819466 12406.0 3.141592653589793 flow_40577_0 0 5.0 2.0,11215.087180883334 6.0 3.141592653589793 flow_31511_0 0 5.0 2.0,8406.0 1957.2924076670236 1.5707963267948966 flow_23783_0 0 5.0 2.0,5206.0 7726.460536639806 1.5707963267948966 flow_18651_0 0 5.0 2.0,8784.4069006273 -2.0 0.0 flow_12_0 0 5.0 2.0,805.0812922032658 6794.0 0.0 flow_4890_0 0 5.0 2.0,6010.0 12309.14093986341 1.5707963267948966 flow_19858_0 0 5.0 2.0,7577.047503752299 6798.0 0.0 flow_4784_0 0 5.0 2.0,14006.0 1064.8939583333329 1.5707963267948966 flow_30922_0 0 5.0 2.0,3343.8227861114688 11994.0 0.0 flow_8663_0 0 5.0 2.0,10357.250270833334 2806.0 3.141592653589793 flow_33412_0 0 5.0 2.0,3576.900756635832 10394.0 0.0 flow_7464_0 0 5.0 2.0,13594.0 8823.366941666669 -1.5707963267948966 flow_30656_0 0 5.0 2.0,11651.636825009296 4806.0 3.141592653589793 flow_35042_0 0 5.0 2.0,7594.0 5016.841698089998 -1.5707963267948966 flow_22800_0 0 5.0 2.0,5576.701559755719 12394.0 0.0 flow_8946_0 0 5.0 2.0,1606.0 2737.3295343925865 1.5707963267948966 flow_12611_0 0 5.0 2.0,8784.870453752299 5998.0 0.0 flow_4072_0 0 5.0 2.0,12394.0 5335.02132846967 -1.5707963267948966 flow_29097_0 0 5.0 2.0,-6.0 5557.470875000003 -1.5707963267948966 flow_10712_0 0 5.0 2.0,3995.2260479853385 7994.0 0.0 flow_5734_0 0 5.0 2.0,13233.017894523578 9194.0 0.0 flow_27127_0 0 5.0 2.0,10006.0 777.3964583333329 1.5707963267948966 flow_25796_0 0 5.0 2.0,7182.746184106334 4806.0 3.141592653589793 flow_35002_0 0 5.0 2.0,1995.2454479853393 12394.0 0.0 flow_8984_0 0 5.0 2.0,721.1932980341435 12794.0 0.0 flow_9327_0 0 5.0 2.0,6006.0 -399.0 1.5707963267948966 flow_20019_0 0 5.0 2.0,13206.0 1410.315083111241 1.5707963267948966 flow_29957_0 0 5.0 2.0,4394.0 11900.586593614953 -1.5707963267948966 flow_17703_0 0 5.0 2.0,7206.0 9353.489673917848 1.5707963267948966 flow_37283_0 0 5.0 2.0,9977.326939081604 5598.0 0.0 flow_3723_0 0 5.0 2.0,9606.0 6153.8667407453795 1.5707963267948966 flow_25276_0 0 5.0 2.0,11994.0 12825.847875000001 -1.5707963267948966 flow_28651_0 0 5.0 2.0,1421.4338387490818 7594.0 0.0 flow_5487_0 0 5.0 2.0,3594.0 12857.81923348424 -1.5707963267948966 flow_16172_0 0 5.0 2.0,6794.0 7622.765237292254 -1.5707963267948966 flow_21739_0 0 5.0 2.0,6815.629257825186 2806.0 3.141592653589793 flow_33369_0 0 5.0 2.0,3994.0 12023.093035030834 -1.5707963267948966 flow_16916_0 0 5.0 2.0,2394.0 8782.84711033277 -1.5707963267948966 flow_14185_0 0 5.0 2.0,2406.0 3642.774989574273 1.5707963267948966 flow_13885_0 0 5.0 2.0,7705.2616888888915 10806.0 3.141592653589793 flow_39172_0 0 5.0 2.0,819.7106249999995 8394.0 0.0 flow_6057_0 0 5.0 2.0,14006.0 5183.912620824479 1.5707963267948966 flow_30872_0 0 5.0 2.0,12006.0 5161.423068754454 1.5707963267948966 flow_28232_0 0 5.0 2.0,6072.565236803375 5994.0 0.0 flow_4126_0 0 5.0 2.0,7984.8561543869155 7594.0 0.0 flow_19552_0 0 5.0 2.0,3994.0 9582.801694301936 -1.5707963267948966 flow_16874_0 0 5.0 2.0,10442.58090833333 12794.0 0.0 flow_9227_0 0 5.0 2.0,4006.0 637.749366925516 1.5707963267948966 flow_16560_0 0 5.0 2.0,9206.0 2348.7774964514615 1.5707963267948966 flow_24823_0 0 5.0 2.0,13594.0 12935.106041666668 -1.5707963267948966 flow_30682_0 0 5.0 2.0,4357.2446166666705 6406.0 3.141592653589793 flow_35949_0 0 5.0 2.0,8415.034220960655 9602.
+# Hindsight Experience Replay
+For details on Hindsight Experience Replay (HER), please read the [paper](https://arxiv.org/abs/1707.01495).
+
+## How to use Hindsight Experience Replay
+
+### Getting started
+Training an agent is very simple:
+```bash
+python -m baselines.run --alg=her --env=FetchReach-v1 --num_timesteps=5000
+```
+This will train a DDPG+HER agent on the `FetchReach` environment.
+You should see the success rate go up quickly to `1.0`, which means that the agent achieves the
+desired goal in 100% of the cases (note how HER can solve it in <5k steps - try doing that with PPO by replacing her with ppo2 :))
+The training script logs other diagnostics as well. Policy at the end of the training can be saved using `--save_path` flag, for instance:
+```bash
+python -m baselines.run --alg=her --env=FetchReach-v1 --num_timesteps=5000 --save_path=~/policies/her/fetchreach5k
+```
+
+To inspect what the agent has learned, use the `--play` flag: 
+```bash
+python -m baselines.run --alg=her --env=FetchReach-v1 --num_timesteps=5000 --play
+```
+(note `--play` can be combined with `--load_path`, which lets one load trained policies, for more results see [README.md](../../README.md))
+
+
+### Reproducing results
+In [Plappert et al. (2018)](https://arxiv.org/abs/1802.09464), 38 trajectories were generated in parallel
+(19 MPI processes, each generating computing gradients from 2 trajectories and aggregating). 
+To reproduce that behaviour, use 
+```bash
+mpirun -np 19 python -m baselines.run --num_env=2 --alg=her ... 
+```
+This will require a machine with sufficient amount of physical CPU cores. In our experiments,
+we used [Azure's D15v2 instances](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes),
+which have 20 physical cores. We only scheduled the experiment on 19 of those to leave some head-room on the system.
+
+
+## Hindsight Experience Replay with Demonstrations
+Using pre-recorded demonstrations to Overcome the exploration problem in HER based Reinforcement learning.
+For details, please read the [paper](https://arxiv.org/pdf/1709.10089.pdf).
+
+### Getting started
+The first step is to generate the demonstration dataset. This can be done in two ways, either by using a VR system to manipulate the arm using physical VR trackers or the simpler way is to write a script to carry out the respective task. Now some tasks can be complex and thus it would be difficult to write a hardcoded script for that task (eg. Fetch Push), but here our focus is on providing an algorithm that helps the agent to learn from demonstrations, and not on the demonstration generation paradigm itself. Thus the data collection part is left to the reader's choice.
+
+We provide a script for the Fetch Pick and Place task, to generate demonstrations for the Pick and Place task execute:
+```bash
+python experiment/data_generation/fetch_data_generation.py
+```
+This outputs ```data_fetch_random_100.npz``` file which is our data file.
+
+To launch training with demonstrations (more technically, with behaviour cloning loss as an auxilliary loss), run the following
+```bash
+python -m baselines.run --alg=her --env=FetchPickAndPlace-v1 --num_timesteps=2.5e6 --demo_file=/Path/to/demo_file.npz
+```
+This will train a DDPG+HER agent on the `FetchPickAndPlace` environment by using previously generated demonstration data.
+To inspect what the agent has learned, use the `--play` flag as described above.
+
+#### Configuration
+The provided configuration is for training an agent with HER without demonstrations, we need to change a few paramters for the HER algorithm to learn through demonstrations, to do that, set:
+
+* bc_loss: 1 - whether or not to use the behavior cloning loss as an auxilliary loss
+* q_filter: 1 - whether or not a Q value filter should be used on the Actor outputs
+* num_demo: 100 - number of expert demo episodes
+* demo_batch_size: 128 - number of samples to be used from the demonstrations buffer, per mpi thread
+* prm_loss_weight: 0.001 - Weight corresponding to the primary loss
+* aux_loss_weight:  0.0078 - Weight corresponding to the auxilliary loss also called the cloning loss
+
+Apart from these changes the reported results also have the following configurational changes:
+
+* n_cycles: 20 - per epoch
+* batch_size: 1024 - per mpi thread, total batch size
+* random_eps: 0.1  - percentage of time a random action is taken
+* noise_eps: 0.1  - std of gaussian noise added to not-completely-random actions
+
+These parameters can be changed either in [experiment/config.py](experiment/config.py) or passed to the command line as `--param=value`)
+
+### Results
+Training with demonstrations helps overcome the exploration problem and achieves a faster and better convergence. The following graphs contrast the difference between training with and without demonstration data, We report the mean Q values vs Epoch and the Success Rate vs Epoch:
+
+
+<div class="imgcap" align="middle">
+<center><img src="../../data/fetchPickAndPlaceContrast.png"></center>
+<div class="thecap" align="middle"><b>Training results for Fetch Pick and Place task constrasting between training with and without demonstration data.</b></div>
+</div>
+

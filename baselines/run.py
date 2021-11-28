@@ -1,1 +1,289 @@
-94.0 11192.263661260302 -1.5707963267948966 flow_12005_0 0 5.0 2.0,9984.731745418967 8798.0 0.0 flow_6279_0 0 5.0 2.0,7468.36986508906 4406.0 3.141592653589793 flow_34695_0 0 5.0 2.0,12068.605499213047 13606.0 3.141592653589793 flow_41508_0 0 5.0 2.0,3994.0 7757.288370621699 -1.5707963267948966 flow_16890_0 0 5.0 2.0,1584.764902777777 4394.0 0.0 flow_2940_0 0 5.0 2.0,11757.340041666668 5606.0 3.141592653589793 flow_35621_0 0 5.0 2.0,4407.7298614935935 11194.0 0.0 flow_8083_0 0 5.0 2.0,12242.738924677296 3194.0 0.0 flow_1982_0 0 5.0 2.0,9535.090623004651 4406.0 3.141592653589793 flow_34721_0 0 5.0 2.0,8015.760619431777 4802.0 3.141592653589793 flow_35039_0 0 5.0 2.0,5198.289644470559 9994.0 0.0 flow_7182_0 0 5.0 2.0,11606.0 -108.89150000000012 1.5707963267948966 flow_27759_0 0 5.0 2.0,6.0 -391.0 1.5707963267948966 flow_10555_0 0 5.0 2.0,6716.316329955671 12394.0 0.0 flow_8969_0 0 5.0 2.0,6806.0 2531.361874999999 1.5707963267948966 flow_21455_0 0 5.0 2.0,10015.025622162804 12406.0 3.141592653589793 flow_40606_0 0 5.0 2.0,4361.883764969165 3594.0 0.0 flow_2433_0 0 5.0 2.0,6779.889237875029 9606.0 3.141592653589793 flow_38322_0 0 5.0 2.0,5594.0 6957.294200520876 -1.5707963267948966 flow_19599_0 0 5.0 2.0,11606.0 3569.4045300554358 1.5707963267948966 flow_27722_0 0 5.0 2.0,1866.9231249999993 10394.0 0.0 flow_7514_0 0 5.0 2.0,2006.0 781.1292236721052 1.5707963267948966 flow_31823_0 0 5.0 2.0,1471.6123324198484 8394.0 0.0 flow_6081_0 0 5.0 2.0,8131.630074411293 11594.0 0.0 flow_8375_0 0 5.0 2.0,12006.0 2188.2940022091693 1.5707963267948966 flow_28319_0 0 5.0 2.0,476.5828942124669 12394.0 0.0 flow_9036_0 0 5.0 2.0,7994.0 9493.54792322753 -1.5707963267948966 flow_23378_0 0 5.0 2.0,12398.0 8822.709085354492 -1.5707963267948966 flow_29162_0 0 5.0 2.0,11194.0 10845.604686530995 -1.5707963267948966 flow_27463_0 0 5.0 2.0,2695.5620376027587 10406.0 3.141592653589793 flow_38902_0 0 5.0 2.0,406.0 4242.6976447139505 1.5707963267948966 flow_11051_0 0 5.0 2.0,4806.0 11415.494640277408 1.5707963267948966 flow_36139_0 0 5.0 2.0,10584.459657575511 14006.0 3.141592653589793 flow_41762_0 0 5.0 2.0,13202.317000000001 9206.0 3.141592653589793 flow_38136_0 0 5.0 2.0,1578.8884583333324 394.0 0.0 flow_393_0 0 5.0 2.0,4361.644189977892 6794.0 0.0 flow_4879_0 0 5.0 2.0,7194.0 8238.970697217577 -1.5707963267948966 flow_22442_0 0 5.0 2.0,3606.0 5576.94927281687 1.5707963267948966 flow_15736_0 0 5.0 2.0,10794.0 10801.729116293329 -1.5707963267948966 flow_26982_0 0 5.0 2.0,3194.0 9238.358720429218 -1.5707963267948966 flow_15350_0 0 5.0 2.0,1535.4756843257373 3194.0 0.0 flow_2125_0 0 5.0 2.0,6753.860257963732 4394.0 0.0 flow_2909_0 0 5.0 2.0,10615.52821658788 12394.0 0.0 flow_22018_0 0 5.0 2.0,14015.042784844296 12406.0 3.141592653589793 flow_40672_0 0 5.0 2.0,3225.272755750622 9194.0 0.0 flow_6677_0 0 5.0 2.0,7576.55268627399 8398.0 0.0 flow_6014_0 0 5.0 2.0,10015.054092545288 4406.0 3.141592653589793 flow_34727_0 0 5.0 2.0,4361.933743465641 9194.0 0.0 flow_15271_0 0 5.0 2.0,1994.0 1312.8783825260157 -1.5707963267948966 flow_13380_0 0 5.0 2.0,12806.0 8798.080165117311 1.5707963267948966 flow_29442_0 0 5.0 2.0,13994.0 7215.007573748879 -1.5707963267948966 flow_31195_0 0 5.0 2.0,3704.3881910198893 794.0 0.0 flow_695_0 0 5.0 2.0,10406.0 6033.0597528555245 1.5707963267948966 flow_26327_0 0 5.0 2.0,12394.0 3179.654997915197 -1.5707963267948966 flow_29108_0 0 5.0 2.0,2353.7219410779617 13594.0 0.0 flow_9999_0 0 5.0 2.0,4806.0 6504.420636014651 1.5707963267948966 flow_18054_0 0 5.0 2.0,9994.0 7179.505678568262 -1.5707963267948966 flow_26048_0 0 5.0 2.0,7979.491842319913 4806.0 3.141592653589793 flow_35036_0 0 5.0 2.0,6268.425036368872 12006.0 3.141592653589793 flow_40169_0 0 5.0 2.0,806.0 4825.353739356938 1.5707963267948966 flow_11654_0 0 5.0 2.0,-308.8895 394.0 0.0 flow_414_0 0 5.0 2.0,9594.0 10024.144629703585 -1.5707963267948966 flow_25531_0 0 5.0 2.0,7198.0 9223.228258728752 -1.5707963267948966 flow_22445_0 0 5.0 2.0,9194.0 431.2462550227234 -1.5707963267948966 flow_643_0 0 5.0 2.0,3998.0 6415.613129370633 -1.5707963267948966 flow_16807_0 0 5.0 2.0,1606.0 384.52979166666639 1.5707963267948966 flow_12666_0 0 5.0 2.0,11461.509166666669 3206.0 3.141592653589793 flow_33816_0 0 5.0 2.0,3594.0 12184.761319013654 -1.5707963267948966 flow_16203_0 0 5.0 2.0,7384.466921261854 6.0 3.141592653589793 flow_31502_0 0 5.0 2.0,214.91117408189036 7994.0 0.0 flow_5803_0 0 5.0 2.0,11512.898041666667 2406.0 3.141592653589793 flow_33196_0 0 5.0 2.0,2794.0 12684.66158653664 -1.5707963267948966 flow_14837_0 0 5.0 2.0,4806.0 13597.870261903141 1.5707963267948966 flow_39442_0 0 5.0 2.0,6398.0 9215.000742025419 -1.5707963267948966 flow_21009_0 0 5.0 2.0,11973.448291666668 7206.0 3.141592653589793 flow_36445_0 0 5.0 2.0,8437.534220960655 9602.0 3.141592653589793 flow_38340_0 0 5.0 2.0,12794.0 9095.753369904736 -1.5707963267948966 flow_29696_0 0 5.0 2.0,10794.0 6002.3201723130305 -1.5707963267948966 flow_26943_0 0 5.0 2.0,9198.0 15.056920921868425 -1.5707963267948966 flow_24980_0 0 5.0 2.0,11606.0 6753.802546451519 1.5707963267948966 flow_27688_0 0 5.0 2.0,4753.869446048609 7994.0 0.0 flow_5763_0 0 5.0 2.0,806.0 8615.215866807679 1.5707963267948966 flow_11596_0 0 5.0 2.0,1594.0 13897.7825 -1.5707963267948966 flow_12925_0 0 5.0 2.0,8815.052523845432 3602.0 3.141592653589793 flow_34045_0 0 5.0 2.0,10006.0 769.8964583333329 1.5707963267948966 flow_25826_0 0 5.0 2.0,3915.162098007594 7194.0 0.0 flow_5258_0 0 5.0 2.0,5206.0 7584.7891954178485 1.5707963267948966 flow_18686_0 0 5.0 2.0,12557.332041666667 406.0 3.141592653589793 flow_31928_0 0 5.0 2.0,13994.0 10749.295333282116 -1.5707963267948966 flow_31232_0 0 5.0 2.0,3994.0 9638.698039906736 -1.5707963267948966 flow_16925_0 0 5.0 2.0,8369.403272881158 8794.0 0.0 flow_6301_0 0 5.0 2.0,2394.0 9384.50539398702 -1.5707963267948966 flow_14239_0 0 5.0 2.0,10931.168827670246 7594.0 0.0 flow_5436_0 0 5.0 2.0,1194.0 11632.655853333334 -1.5707963267948966 flow_12404_0 0 5.0 2.0,7994.0 12293.324080180948 -1.5707963267948966 flow_23430_0 0 5.0 2.0,3184.7328556515063 7998.0 0.0 flow_14735_0 0 5.0 2.0,4794.0 13580.091 -1.5707963267948966 flow_18506_0 0 5.0 2.0,13869.171375 11206.0 3.141592653589793 flow_39521_0 0 5.0 2.0,10295.613478741825 8006.0 3.141592653589793 flow_36947_0 0 5.0 2.0,12806.0 6131.432796178723 1.5707963267948966 flow_29462_0 0 5.0 2.0,3606.0 7169.652586472893 1.5707963267948966 flow_15715_0 0 5.0 2.0,3598.0 5630.04879039248 -1.5707963267948966 flow_16093_0 0 5.0 2.0,1594.0 9179.462844338705 -1.5707963267948966 flow_12888_0 0 5.0 2.0,8377.1810412523 4798.0 0.0 flow_3084_0 0 5.0 2.0,11671.304917194455 12794.0 0.0 flow_9242_0 0 5.0 2.0,1994.0 8238.922734472877 -1.5707963267948966 flow_13484_0 0 5.0 2.0,3246.3675237468196 8006.0 3.141592653589793 flow_36851_0 0 5.0 2.0,587.8632884085376 1594.0 0.0 flow_1174_0 0 5.0 2.0,7223.787028820351 10406.0 3.141592653589793 flow_38936_0 0 5.0 2.0,11606.0 5198.232999596338 1.5707963267948966 flow_27706_0 0 5.0 2.0,4806.0 3704.431034609893 1.5707963267948966 flow_18104_0 0 5.0 2.0,6006.0 13331.319792527796 1.5707963267948966 flow_19874_0 0 5.0 2.0,1994.0 5495.550784292723 -1.5707963267948966 flow_13440_0 0 5.0 2.0,8406.0 820.4519583333329 1.5707963267948966 flow_23837_0 0 5.0 2.0,3282.149945833332 10394.0 0.0 flow_7500_0 0 5.0 2.0,10268.38037447239 7206.0 3.141592653589793 flow_36431_0 0 5.0 2.0,6015.114650705081 1602.0 3.141592653589793 flow_32678_0 0 5.0 2.0,10739.127118866452 10394.0 0.0 flow_7428_0 0 5.0 2.0,12477.513036111106 1194.0 0.0 flow_886_0 0 5.0 2.0,12834.357443122835 6.0 3.141592653589793 flow_31579_0 0 5.0 2.0,6006.0 784.8964583333329 1.5707963267948966 flow_20045_0 0 5.0 2.0,7526.645285974802 7594.0 0.0 flow_5461_0 0 5.0 2.0,7584.975495438011 9198.0 0.0 flow_6539_0 0 5.0 2.0,841.3517945648042 8406.0 3.141592653589793 flow_37265_0 0 5.0 2.0,353.04862499999975 1994.0 0.0 flow_1388_0 0 5.0 2.0,3994.0 10695.603012560534 -1.5707963267948966 flow_16942_0 0 5.0 2.0,10006.0 531.1952916666664 1.5707963267948966 flow_25828_0 0 5.0 2.0,2064.8842083333325 4394.0 0.0 flow_2937_0 0 5.0 2.0,6006.0 4398.15712488951 1.5707963267948966 flow_19990_0 0 5.0 2.0,5206.0 1432.6056898346812 1.5707963267948966 flow_18748_0 0 5.0 2.0,2006.0 6242.626115097295 1.5707963267948966 flow_33972_0 0 5.0 2.0,1179.5131750000041 3206.0 3.141592653589793 flow_33726_0 0 5.0 2.0,4794.0 5095.637738782841 -1.5707963267948966 flow_18437_0 0 5.0 2.0,6815.013060685226 802.0 3.141592653589793 flow_32136_0 0 5.0 2.0,13412.136711591462 10406.0 3.141592653589793 flow_38986_0 0 5.0 2.0,10006.0 6904.412348221323 1.5707963267948966 flow_25767_0 0 5.0 2.0,2406.0 9198.289612864975 1.5707963267948966 flow_13857_0 0 5.0 2.0,10015.915000889428 12006.0 3.141592653589793 flow_40216_0 0 5.0 2.0,942.5494027777773 7594.0 0.0 flow_5517_0 0 5.0 2.0,2242.6990296943914 4794.0 0.0 flow_3199_0 0 5.0 2.0,11206.0 9415.358940670087 1.5707963267948966 flow_27160_0 0 5.0 2.0,3784.4993994747538 4006.0 3.141592653589793 flow_34320_0 0 5.0 2.0,3994.0 5811.82238402236 -1.5707963267948966 flow_16863_0 0 5.0 2.0,1606.0 2242.706854166666 1.5707963267948966 flow_12644_0 0 5.0 2.0,8642.688366159091 11594.0 0.0 flow_8371_0 0 5.0 2.0,7384.46867289786 2006.0 3.141592653589793 flow_32934_0 0 5.0 2.0,9998.0 4815.216883754117 -1.5707963267948966 flow_25
+import sys
+import re
+import multiprocessing
+import os.path as osp
+import gym
+from collections import defaultdict
+import tensorflow as tf
+import numpy as np
+
+from baselines.common.vec_env import VecFrameStack, VecNormalize, VecEnv
+from baselines.common.vec_env.vec_video_recorder import VecVideoRecorder
+from baselines.common.cmd_util import common_arg_parser, parse_unknown_args, make_vec_env, make_env
+from baselines.common.tf_util import get_session
+from baselines import logger
+from importlib import import_module
+from baselines.common.mirror_util import test_action
+try:
+    from mpi4py import MPI
+except ImportError:
+    MPI = None
+
+try:
+    import pybullet_envs
+except ImportError:
+    pybullet_envs = None
+
+try:
+    import roboschool
+except ImportError:
+    roboschool = None
+
+_game_envs = defaultdict(set)
+for env in gym.envs.registry.all():
+    # TODO: solve this with regexes
+    env_type = env.entry_point.split(':')[0].split('.')[-1]
+    _game_envs[env_type].add(env.id)
+
+# reading benchmark names directly from retro requires
+# importing retro here, and for some reason that crashes tensorflow
+# in ubuntu
+_game_envs['retro'] = {
+    'BubbleBobble-Nes',
+    'SuperMarioBros-Nes',
+    'TwinBee3PokoPokoDaimaou-Nes',
+    'SpaceHarrier-Nes',
+    'SonicTheHedgehog-Genesis',
+    'Vectorman-Genesis',
+    'FinalFight-Snes',
+    'SpaceInvaders-Snes',
+}
+
+mirror_algs = ['deepq', 'ppo2']
+
+
+def train(args, extra_args):
+    env_type, env_id = get_env_type(args)
+    print('env_type: {}'.format(env_type))
+
+    total_timesteps = int(args.num_timesteps)
+    seed = args.seed
+
+    learn = get_learn_function(args.alg)
+    alg_kwargs = get_learn_function_defaults(args.alg, env_type)
+    alg_kwargs.update(extra_args)
+
+    env = build_env(args)
+    if args.save_video_interval != 0:
+        env = VecVideoRecorder(env, osp.join(logger.get_dir(), "videos"), record_video_trigger=lambda x: x % args.save_video_interval == 0, video_length=args.save_video_length)
+
+    if args.network:
+        alg_kwargs['network'] = args.network
+    else:
+        if alg_kwargs.get('network') is None:
+            alg_kwargs['network'] = get_default_network(env_type)
+
+    if args.mirror and args.alg in mirror_algs and env_type == 'atari':
+        alg_kwargs['mirror'] = args.mirror
+        env_name = get_atari_env_name(env_id)
+        alg_kwargs['env_name'] = env_name
+        if args.alg == 'deepq':
+            alg_kwargs['mirror_coef'] = args.mirror_coef
+            
+        elif args.alg == 'ppo2':
+            alg_kwargs['policy_mirror_coef'] = args.policy_mirror_coef
+            alg_kwargs['value_mirror_coef'] = args.value_mirror_coef
+    
+    print('Training {} on {}:{} with arguments \n{}'.format(args.alg, env_type, env_id, alg_kwargs))
+
+    model = learn(
+        env=env,
+        seed=seed,
+        total_timesteps=total_timesteps,
+        **alg_kwargs
+    )
+
+    return model, env, env_type
+
+
+def build_env(args):
+    ncpu = multiprocessing.cpu_count()
+    if sys.platform == 'darwin': ncpu //= 2
+    nenv = args.num_env or ncpu
+    alg = args.alg
+    seed = args.seed
+
+    env_type, env_id = get_env_type(args)
+
+    if env_type in {'atari', 'retro'}:
+        if alg == 'deepq':
+            env = make_env(env_id, env_type, seed=seed, wrapper_kwargs={'frame_stack': True})
+        elif alg == 'trpo_mpi':
+            env = make_env(env_id, env_type, seed=seed)
+        else:
+            frame_stack_size = 4
+            env = make_vec_env(env_id, env_type, nenv, seed, gamestate=args.gamestate, reward_scale=args.reward_scale)
+            env = VecFrameStack(env, frame_stack_size)
+
+    else:
+        config = tf.ConfigProto(allow_soft_placement=True,
+                               intra_op_parallelism_threads=1,
+                               inter_op_parallelism_threads=1)
+        config.gpu_options.allow_growth = True
+        get_session(config=config)
+
+        flatten_dict_observations = alg not in {'her'}
+        env = make_vec_env(env_id, env_type, args.num_env or 1, seed, reward_scale=args.reward_scale, flatten_dict_observations=flatten_dict_observations)
+
+        if env_type == 'mujoco':
+            env = VecNormalize(env, use_tf=True)
+
+    return env
+
+def get_atari_env_name(env_id):
+    name = env_id.split('-')[0]
+    if 'Deter' in name:
+        name = name.split('Deter')[0]
+    elif 'No' in name:
+        name = name.split('No')[0]
+    return name
+
+
+def get_env_type(args):
+    env_id = args.env
+
+    if args.env_type is not None:
+        return args.env_type, env_id
+
+    # Re-parse the gym registry, since we could have new envs since last time.
+    for env in gym.envs.registry.all():
+        env_type = env.entry_point.split(':')[0].split('.')[-1]
+        _game_envs[env_type].add(env.id)  # This is a set so add is idempotent
+
+    if env_id in _game_envs.keys():
+        env_type = env_id
+        env_id = [g for g in _game_envs[env_type]][0]
+    else:
+        env_type = None
+        for g, e in _game_envs.items():
+            if env_id in e:
+                env_type = g
+                break
+        if ':' in env_id:
+            env_type = re.sub(r':.*', '', env_id)
+        assert env_type is not None, 'env_id {} is not recognized in env types'.format(env_id, _game_envs.keys())
+
+    return env_type, env_id
+
+
+def get_default_network(env_type):
+    if env_type in {'atari', 'retro'}:
+        return 'cnn'
+    else:
+        return 'mlp'
+
+def get_alg_module(alg, submodule=None):
+    submodule = submodule or alg
+    try:
+        # first try to import the alg module from baselines
+        alg_module = import_module('.'.join(['baselines', alg, submodule]))
+    except ImportError:
+        # then from rl_algs
+        alg_module = import_module('.'.join(['rl_' + 'algs', alg, submodule]))
+
+    return alg_module
+
+
+def get_learn_function(alg):
+    return get_alg_module(alg).learn
+
+
+def get_learn_function_defaults(alg, env_type):
+    try:
+        alg_defaults = get_alg_module(alg, 'defaults')
+        kwargs = getattr(alg_defaults, env_type)()
+    except (ImportError, AttributeError):
+        kwargs = {}
+    return kwargs
+
+
+
+def parse_cmdline_kwargs(args):
+    '''
+    convert a list of '='-spaced command-line arguments to a dictionary, evaluating python objects when possible
+    '''
+    def parse(v):
+
+        assert isinstance(v, str)
+        try:
+            return eval(v)
+        except (NameError, SyntaxError):
+            return v
+
+    return {k: parse(v) for k,v in parse_unknown_args(args).items()}
+
+
+def configure_logger(log_path, **kwargs):
+    if log_path is not None:
+        logger.configure(log_path)
+    else:
+        logger.configure(**kwargs)
+
+
+def main(args):
+    # configure logger, disable logging in child MPI processes (with rank > 0)
+
+    arg_parser = common_arg_parser()
+    args, unknown_args = arg_parser.parse_known_args(args)
+    extra_args = parse_cmdline_kwargs(unknown_args)
+
+    if MPI is None or MPI.COMM_WORLD.Get_rank() == 0:
+        rank = 0
+        configure_logger(args.log_path)
+    else:
+        rank = MPI.COMM_WORLD.Get_rank()
+        configure_logger(args.log_path, format_strs=[])
+
+    model, env, env_type = train(args, extra_args)
+
+    if args.save_path is not None and rank == 0:
+        save_path = osp.expanduser(args.save_path)
+        model.save(save_path)
+
+    if args.play:
+        logger.log("Running trained model")
+        obs = env.reset()
+
+        state = model.initial_state if hasattr(model, 'initial_state') else None
+        dones = np.zeros((1,))
+
+        episode_rew = np.zeros(env.num_envs) if isinstance(env, VecEnv) else np.zeros(1)
+        mirror_flag = args.mirror and env_type == 'atari'
+        if mirror_flag:
+            env_name = get_atari_env_name(args.env)
+            print('Testing model in mirrored Atari game: {}'.format(env_name))
+        scores = []
+        while True:
+            if mirror_flag:
+                obs = np.array(obs)
+                if len(obs.shape) == 3:
+                    obs = np.flip(obs, 1)
+                elif len(obs.shape) == 4:
+                    obs = np.flip(obs, 2)
+            if state is not None:
+                actions, _, state, _ = model.step(obs,S=state, M=dones)
+            else:
+                actions, _, _, _ = model.step(obs)
+            if mirror_flag:
+                actions = test_action(actions, game=env_name)
+
+            obs, rew, done, infos = env.step(actions)
+            episode_rew += rew
+            # env.render()
+            done_any = done.any() if isinstance(done, np.ndarray) else done
+            if done_any:
+                for i in np.nonzero(done)[0]:
+                    print('episode_rew={}'.format(episode_rew[i]))
+                    episode_rew[i] = 0
+                obs = env.reset()
+                episode_infos = infos.get('episode')
+                if episode_infos:
+                    print("score", episode_infos['r'])
+                    scores.append(episode_infos['r'])
+
+    env.close()
+
+    return model
+
+if __name__ == '__main__':
+    main(sys.argv)

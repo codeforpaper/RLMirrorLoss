@@ -1,1 +1,35 @@
-7948966 flow_12056_0 0 5.0 2.0,2438.3257025350504 12394.0 0.0 flow_9074_0 0 5.0 2.0,12686.375795663469 9994.0 0.0 flow_7164_0 0 5.0 2.0,6594.490036141219 6.0 3.141592653589793 flow_31563_0 0 5.0 2.0,6576.089440430916 4394.0 0.0 flow_2944_0 0 5.0 2.0,806.0 6659.90310582216 1.5707963267948966 flow_11699_0 0 5.0 2.0,2384.8695302446285 9994.0 0.0 flow_7266_0 0 5.0 2.0,246.66049999999974 6794.0 0.0 flow_5035_0 0 5.0 2.0,6769.456747634828 394.0 0.0 flow_395_0 0 5.0 2.0,13851.945643820934 4406.0 3.141592653589793 flow_34843_0 0 5.0 2.0,8006.0 11464.936962778007 1.5707963267948966 flow_23102_0 0 5.0 2.0,7206.0 5859.473908170132 1.5707963267948966 flow_22197_0 0 5.0 2.0,11598.0 4830.257967070462 -1.5707963267948966 flow_27971_0 0 5.0 2.0,8406.0 3378.1050198323132 1.5707963267948966 flow_23878_0 0 5.0 2.0,2798.117916666665 794.0 0.0 flow_757_0 0 5.0 2.0,5994.0 6815.582565513843 -1.5707963267948966 flow_20418_0 0 5.0 2.0,7594.0 5623.12352936954 -1.5707963267948966 flow_9271_0 0 5.0 2.0,10246.273805555556 3206.0 3.141592653589793 flow_33858_0 0 5.0 2.0,2406.0 9169.531906429487 1.5707963267948966 flow_13917_0 0 5.0 2.0,11994.0 10251.192795428635 -
+import gym
+import tensorflow as tf
+import numpy as np
+from functools import partial
+
+from baselines.common.vec_env.dummy_vec_env import DummyVecEnv
+from baselines.common.tf_util import make_session
+from baselines.ppo2.ppo2 import learn
+
+from baselines.ppo2.microbatched_model import MicrobatchedModel
+
+def test_microbatches():
+    def env_fn():
+        env = gym.make('CartPole-v0')
+        env.seed(0)
+        return env
+
+    learn_fn = partial(learn, network='mlp', nsteps=32, total_timesteps=32, seed=0)
+
+    env_ref = DummyVecEnv([env_fn])
+    sess_ref = make_session(make_default=True, graph=tf.Graph())
+    learn_fn(env=env_ref)
+    vars_ref = {v.name: sess_ref.run(v) for v in tf.trainable_variables()}
+
+    env_test = DummyVecEnv([env_fn])
+    sess_test = make_session(make_default=True, graph=tf.Graph())
+    learn_fn(env=env_test, model_fn=partial(MicrobatchedModel, microbatch_size=2))
+    # learn_fn(env=env_test)
+    vars_test = {v.name: sess_test.run(v) for v in tf.trainable_variables()}
+
+    for v in vars_ref:
+        np.testing.assert_allclose(vars_ref[v], vars_test[v], atol=3e-3)
+
+if __name__ == '__main__':
+    test_microbatches()

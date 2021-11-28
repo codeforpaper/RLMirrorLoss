@@ -1,1 +1,61 @@
-6665 1994.0 0.0 flow_1353_0 0 5.0 2.0,2911.3950600452376 1606.0 3.141592653589793 flow_32693_0 0 5.0 2.0,7606.0 9984.95384542593 1.5707963267948966 flow_32865_0 0 5.0 2.0,6394.0 9168.887932603768 -1.5707963267948966 flow_9899_0 0 5.0 2.0,6137.439591626393 12394.0 0.0 flow_8966_0 0 5.0 2.0,3194.0 8551.135034921628 -1.5707963267948966 flow_15332_0 0 5.0 2.0,5594.0 6415.0554213329715 -1.5707963267948966 flow_19588_0 0 5.0 2.0,3598.0 3622.528756664368 -1.5707963267948966 flow_16035_0 0 5.0 2.0,14020.0035 13606.0 3.141592653589793 flow_41520_0 0 5.0 2.0,11994.0 11778.525203068111 -1.5707963267948966 flow_28667_0 0 5.0 2.0,9855.808544037349 12394.0 0.0 flow_8932_0 0 5.0 2.0,1194.0 11596.1375 -1.5707963267948966 flow_12401_0 0 5.0 2.0,679.9894999999995 1594.0 0.0 flow_1171_0 0 5.0 2.0,3876.039584565614 7994.0 0.0 flow_5766_0 0 5.0 2.0,3594.0 11033.109154439779 -1.5707963267948966 flow_16178_0 0 5.0 2.0,1754.9886293618274 6794.0 0.0 flow_4916_0 0 5.0 2.0,9855.409767132973 1606.0 3.141592653589793 flow_32736_0 0 5.0 2.0,7310.531067181366 13994.0 0.0 flow_10245_0 0 5.0 2.0,1959.0520320807657 13194.0 0.0 flow_9671_0 0 5.0 2.0,9194.0 4445.586305195302 -1.5707963267948966 flow_3455_0 0 5.0 2.0,5184.801714336898 11198.0 0.0 flow_8010_0 0 5.0 2.0,6777.494744884534 10798.0 0.0 flow_7711_0 0 5.0 2.0,3206.0 3764.9394652777764 1.5707963267948966 flow_15070_0 0 5.0 2.0,2394.0 6415.200883285296 -1.5707963267948966 flow_14190_0 0 5.0 2.0,2003.9928098048217 11594.0 0.0 flow_8426_0 0 5.0 2.0,13206.0 3969.3388511681264 1.5707963267948966 flow_29955_0 0 5.0 2.0,4394.0 10783.384601118638 -1.5707963267948966 flow_17725_0 0 5.0 2.0,3994.0 12067.468687330907 -1.5707963267948966 flow_16956_0 0 5.0 2.0,2006.0 3505.493832375638 1.5707963267948966 flow_13149_0 0 5.0 2.0,806.0 10
+# DEPRECATED, use --play flag to baselines.run instead
+import click
+import numpy as np
+import pickle
+
+from baselines import logger
+from baselines.common import set_global_seeds
+import baselines.her.experiment.config as config
+from baselines.her.rollout import RolloutWorker
+
+
+@click.command()
+@click.argument('policy_file', type=str)
+@click.option('--seed', type=int, default=0)
+@click.option('--n_test_rollouts', type=int, default=10)
+@click.option('--render', type=int, default=1)
+def main(policy_file, seed, n_test_rollouts, render):
+    set_global_seeds(seed)
+
+    # Load policy.
+    with open(policy_file, 'rb') as f:
+        policy = pickle.load(f)
+    env_name = policy.info['env_name']
+
+    # Prepare params.
+    params = config.DEFAULT_PARAMS
+    if env_name in config.DEFAULT_ENV_PARAMS:
+        params.update(config.DEFAULT_ENV_PARAMS[env_name])  # merge env-specific parameters in
+    params['env_name'] = env_name
+    params = config.prepare_params(params)
+    config.log_params(params, logger=logger)
+
+    dims = config.configure_dims(params)
+
+    eval_params = {
+        'exploit': True,
+        'use_target_net': params['test_with_polyak'],
+        'compute_Q': True,
+        'rollout_batch_size': 1,
+        'render': bool(render),
+    }
+
+    for name in ['T', 'gamma', 'noise_eps', 'random_eps']:
+        eval_params[name] = params[name]
+
+    evaluator = RolloutWorker(params['make_env'], policy, dims, logger, **eval_params)
+    evaluator.seed(seed)
+
+    # Run evaluation.
+    evaluator.clear_history()
+    for _ in range(n_test_rollouts):
+        evaluator.generate_rollouts()
+
+    # record logs
+    for key, val in evaluator.logs('test'):
+        logger.record_tabular(key, np.mean(val))
+    logger.dump_tabular()
+
+
+if __name__ == '__main__':
+    main()

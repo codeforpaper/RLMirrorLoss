@@ -1,1 +1,94 @@
-5707963267948966 flow_17758_0 0 5.0 2.0,11606.0 6855.452876876037 1.5707963267948966 flow_27692_0 0 5.0 2.0,5594.0 13215.844625 -1.5707963267948966 flow_19687_0 0 5.0 2.0,10394.0 9174.538119896119 -1.5707963267948966 flow_6585_0 0 5.0 2.0,4772.597399354646 5594.0 0.0 flow_3831_0 0 5.0 2.0,8784.84705998258 1598.0 0.0 flow_1115_0 0 5.0 2.0,3594.0 12015.006197821911 -1.5707963267948966 flow_16202_0 0 5.0 2.0,5200.768542099301 9194.0 0.0 flow_6654_0 0 5.0 2.0,1379.9507608611152 2406.0 3.141592653589793 flow_33137_0 0 5.0 2.0,8406.0 2731.544427896443 1.5707963267948966 flow_23813_0 0 5.0 2.0,7994.0 5667.898712098908 -1.5707963267948966 flow_23328_0 0 5.0 2.0,2394.0 12030.169570808903 -1.5707963267948966 flow_14283_0 0 5.0 2.0,9269.253679541695 7206.0 3.141592653589793 flow_36425_0 0 5.0 2.0,10015.432516867088 11206.0 3.141592653589793 flow_39496_0 0 5.0 2.0,7994.0 8451.471608969336 -1.5707963267948966 flow_7431_0 0 5.0 2.0,10784.524845815564 406.0 3.141592653589793 flow_31914_0 0 5.0 2.0,8384.89521529682 1594.0 0.0 flow_1119_0 0 5.0 2.0,6806.0 6109.193078294864 1.5707963267948966 flow_35304_0 0 5.0 2.0,8806.0 1976.522924195081 1.5707963267948966 flow_24384_0 0 5.0 2.0,10806.0 -342.22249999999999 1.5707963267948966 flow_26793_0 0 5.0 2.0,13199.103541666667 406.0 3.141592653589793 flow_31935_0 0 5.0 2.0,4806.0 992.8619203911135 1.5707963267948966 flow_18158_0 0 5.0 2.0,7994.0 9215.052733988467 -1.5707963267948966 flow_23373_0 0 5.0 2.0,8394.0 4594.178888421045 -1.5707963267948966 flow_24086_0 0 5.0 2.0,13227.296527265398 12406.0 3.141592653589793 flow_40662_0 0 5.0 2.0,8298.008081627784 4798.0 0.0 flow_3124_0 0 5.0 2.0,4806.0 6706.232333083554 1.5707963267948966 flow_18058_0 0 5.0 2.0,3229.715494006863 7594.0 0.0 flow_5502_0 0 5.0 2.0,12868.423486389896 4806.0 3.141592653589793 flow_35081_0 0 5.0 2.0,7810.779886082688 2394.0 0.0 flow_1541_0 0 5.0 2.0,13194.0 10384.528245815563 -1.5707963267948966 flow_30209_0 0 5.0 2.0,398.0 5215.649012687321 -1.5707963267948966 flow_11332_0 0 5.0 2.0,8806.0 7309.254612676803 1.5707963267948966 flow_24317_0 0 5.0 2.0,1837.663958333333 8794.0 0.0 flow_6367_0 0 5.0 2.0,5206.0 4592.742506208187 1.5707963267948966 flow_18717_0 0 5.0 2.0,10199.858606283002 13606.0 3.141592653589793 flow_41491_0 0 5.0 2.0,4372.151235725374 5194.0 0.0 flow_3514_0 0 5.0 2.0,12394.0 4290.736885305599 -1.5707963267948966 flow_29123_0 0 5.0 2.0,2784.781499408956 9198.0 0.0 flow_14148_0 0 5.0 2.0,11594.0 10822.930224362448 -1.5707963267948966 flow_27999_0 0 5.0 2.0,2406.0 10784.904926795203 1.5707963267948966 flow_13840_0 0 5.0 2.0,12384.86215084813 2798.0 0.0 flow_1702_0 0 5.0 2.0,9753.578279947023 11194.0 0.0 flow_8018_0 0 5.0 2.0,4806.0 1984.7434025749767 1.5707963267948966 flow_18138_0 0 5.0 2.0,-2.0 1615.0044978102007 -1.5707963267948966 flow_10690_0 0 5.0 2.0,3976.887264969165 8794.0 0.0 flow_6346_0 0 5.0 2.0,5606.0 620.0832916666664 1.5707963267948966 flow_19372_0 0 5.0 2.0,5994.0 11046.143101906067 -1.5707963267948966 flow_20405_0 0 5.0 2.0,4806.0 5148.614033008425 1.5707963267948966 flow_18083_0 0 5.0 2.0,1521.5559583333327 13594.0 0.0 flow_10013_0 0 5.0 2.0,10384.96262751159 9198.0 0.0 flow_6530_0 0 5.0 2.0,7623.090960619539 10006.0 3.141592653589793 flow_38641_0 0 5.0 2.0,5215.070259184809 11606.0 3.141592653589793 flow_39725_0 0 5.0 2.0,5020.5290611111095 13994.0 0.0 flow_10264_0 0 5.0 2.0,2406.0 8166.022296734791 1.5707963267948966 flow_13871_0 0 5.0 2.0,2006.0 1968.8265744407033 1
+import numpy as np
+import matplotlib
+matplotlib.use('TkAgg') # Can change to 'Agg' for non-interactive mode
+
+import matplotlib.pyplot as plt
+plt.rcParams['svg.fonttype'] = 'none'
+
+from baselines.common import plot_util
+
+X_TIMESTEPS = 'timesteps'
+X_EPISODES = 'episodes'
+X_WALLTIME = 'walltime_hrs'
+Y_REWARD = 'reward'
+Y_TIMESTEPS = 'timesteps'
+POSSIBLE_X_AXES = [X_TIMESTEPS, X_EPISODES, X_WALLTIME]
+EPISODES_WINDOW = 100
+COLORS = ['blue', 'green', 'red', 'cyan', 'magenta', 'yellow', 'black', 'purple', 'pink',
+        'brown', 'orange', 'teal', 'coral', 'lightblue', 'lime', 'lavender', 'turquoise',
+        'darkgreen', 'tan', 'salmon', 'gold', 'darkred', 'darkblue']
+
+def rolling_window(a, window):
+    shape = a.shape[:-1] + (a.shape[-1] - window + 1, window)
+    strides = a.strides + (a.strides[-1],)
+    return np.lib.stride_tricks.as_strided(a, shape=shape, strides=strides)
+
+def window_func(x, y, window, func):
+    yw = rolling_window(y, window)
+    yw_func = func(yw, axis=-1)
+    return x[window-1:], yw_func
+
+def ts2xy(ts, xaxis, yaxis):
+    if xaxis == X_TIMESTEPS:
+        x = np.cumsum(ts.l.values)
+    elif xaxis == X_EPISODES:
+        x = np.arange(len(ts))
+    elif xaxis == X_WALLTIME:
+        x = ts.t.values / 3600.
+    else:
+        raise NotImplementedError
+    if yaxis == Y_REWARD:
+        y = ts.r.values
+    elif yaxis == Y_TIMESTEPS:
+        y = ts.l.values
+    else:
+        raise NotImplementedError
+    return x, y
+
+def plot_curves(xy_list, xaxis, yaxis, title):
+    fig = plt.figure(figsize=(8,2))
+    maxx = max(xy[0][-1] for xy in xy_list)
+    minx = 0
+    for (i, (x, y)) in enumerate(xy_list):
+        color = COLORS[i % len(COLORS)]
+        plt.scatter(x, y, s=2)
+        x, y_mean = window_func(x, y, EPISODES_WINDOW, np.mean) #So returns average of last EPISODE_WINDOW episodes
+        plt.plot(x, y_mean, color=color)
+    plt.xlim(minx, maxx)
+    plt.title(title)
+    plt.xlabel(xaxis)
+    plt.ylabel(yaxis)
+    plt.tight_layout()
+    fig.canvas.mpl_connect('resize_event', lambda event: plt.tight_layout())
+    plt.grid(True)
+
+
+def split_by_task(taskpath):
+    return taskpath['dirname'].split('/')[-1].split('-')[0]
+
+def plot_results(dirs, num_timesteps=10e6, xaxis=X_TIMESTEPS, yaxis=Y_REWARD, title='', split_fn=split_by_task):
+    results = plot_util.load_results(dirs)
+    plot_util.plot_results(results, xy_fn=lambda r: ts2xy(r['monitor'], xaxis, yaxis), split_fn=split_fn, average_group=True, resample=int(1e6))
+
+# Example usage in jupyter-notebook
+# from baselines.results_plotter import plot_results
+# %matplotlib inline
+# plot_results("./log")
+# Here ./log is a directory containing the monitor.csv files
+
+def main():
+    import argparse
+    import os
+    parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser.add_argument('--dirs', help='List of log directories', nargs = '*', default=['./log'])
+    parser.add_argument('--num_timesteps', type=int, default=int(10e6))
+    parser.add_argument('--xaxis', help = 'Varible on X-axis', default = X_TIMESTEPS)
+    parser.add_argument('--yaxis', help = 'Varible on Y-axis', default = Y_REWARD)
+    parser.add_argument('--task_name', help = 'Title of plot', default = 'Breakout')
+    args = parser.parse_args()
+    args.dirs = [os.path.abspath(dir) for dir in args.dirs]
+    plot_results(args.dirs, args.num_timesteps, args.xaxis, args.yaxis, args.task_name)
+    plt.show()
+
+if __name__ == '__main__':
+    main()

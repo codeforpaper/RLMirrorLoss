@@ -1,1 +1,193 @@
- 3.141592653589793 flow_32439_0 0 5.0 2.0,13528.619374967258 12406.0 3.141592653589793 flow_40621_0 0 5.0 2.0,5984.829451774708 11598.0 0.0 flow_8356_0 0 5.0 2.0,13194.0 5615.054712500003 -1.5707963267948966 flow_30148_0 0 5.0 2.0,-197.77950000000008 10794.0 0.0 flow_7793_0 0 5.0 2.0,5793.293718574866 13994.0 0.0 flow_10236_0 0 5.0 2.0,6814.951040348653 8806.0 3.141592653589793 flow_37667_0 0 5.0 2.0,13994.0 12431.274136662663 -1.5707963267948966 flow_31221_0 0 5.0 2.0,4394.0 9295.829370556972 -1.5707963267948966 flow_17662_0 0 5.0 2.0,6777.263675780358 11194.0 0.0 flow_8017_0 0 5.0 2.0,7931.739749539268 13594.0 0.0 flow_9910_0 0 5.0 2.0,8006.0 8881.632276082622 1.5707963267948966 flow_33718_0 0 5.0 2.0,11194.0 8430.557424228398 -1.5707963267948966 flow_6547_0 0 5.0 2.0,7206.0 6294.338371078656 1.5707963267948966 flow_22081_0 0 5.0 2.0,6829.582462067565 6794.0 0.0 flow_4796_0 0 5.0 2.0,4398.0 9215.2848087477 -1.5707963267948966 flow_17585_0 0 5.0 2.0,6784.976200722715 13194.0 0.0 flow_9588_0 0 5.0 2.0,5194.0 14064.4475 -1.5707963267948966 flow_19031_0 0 5.0 2.0,11090.61425 2006.0 3.141592653589793 flow_32936_0 0 5.0 2.0,4394.0 8495.632777284003 -1.5707963267948966 flow_8910_0 0 5.0 2.0,1194.0 10423.779774365557 -1.5707963267948966 flow_12375_0 0 5.0 2.0,7984.99524460915 5598.0 0.0 flow_3720_0 0 5.0 2.0,13723.617331066289 11606.0 3.141592653589793 flow_39813_0 0 5.0 2.0,14006.0 2965.480916724235 1.5707963267948966 flow_30902_0 0 5.0 2.0,2794.0 9777.265775341431 -1.5707963267948966 flow_14779_0 0 5.0 2.0,10673.414545833228 2006.0 3.141592653589793 flow_32933_0 0 5.0 2.0,4565.567861276632 4394.0 0.0 flow_2902_0 0 5.0 2.0,806.0 6920.241417556876 1.5707963267948966 flow_11586_0 0 5.0 2.0,2353.4009280084047 13194.0 0.0 flow_9641_0 0 5.0 2.0,7994.0 12830.64864174377 -1.5707963267948966 flow_23391_0 0 5.0 2.0,3994.0 11646.274598918062 -1.5707963267948966 flow_16914_0 0 5.0 2.0,12261.184966350349 12406.0 3.141592653589793 flow_40598_0 0 5.0 2.0,2304.2339195731706 3994.0 0.0 flow_2679_0 0 5.0 2.0,3606.0 2622.6819297130705 1.5707963267948966 flow_15749_0 0 5.0 2.0,1600.7961666666658 794.0 0.0 flow_682_0 0 5.0 2.0,12384.996408222783 5198.0 0.0 flow_3413_0 0 5.0 2.0,12406.0 108.6066249999999 1.5707963267948966 flow_28924_0 0 5.0 2.0,3194.0 8038.724399445863 -1.5707963267948966 flow_15290_0 0 5.0 2.0,8798.0 4415.1824735030705 -1.5707963267948966 flow_24578_0 0 5.0 2.0,6494.753245659918 -6.0 0.0 flow_47_0 0 5.0 2.0,8376.100327709904 3594.0 0.0 flow_2369_0 0 5.0 2.0,3606.0 7976.425690185199 1.5707963267948966 flow_15665_0 0 5.0 2.0,10331.61084583333 1594.0 0.0 flow_1082_0 0 5.0 2.0,11594.0 9686.145819112091 -1.5707963267948966 flow_27959_0 0 5.0 2.0,11594.0 7801.763329156097 -1.5707963267948966 flow_27942_0 0 5.0 2.0,1177.2689027777772 9194.0 0.0 flow_6663_0 0 5.0 2.0,13994.0 13229.103541666667 -1.5707963267948966 flow_31229_0 0 5.0 2.0,11606.0 219.71662499999983 1.5707963267948966 flow_27727_0 0 5.0 2.0,7594.0 5214.649154566307 -1.5707963267948966 flow_7954_0 0 5.0 2.0,11606.0 5177.468352466414 1.5707963267948966 flow_27677_0 0 5.0 2.0,3206.0 10776.947019059831 1.5707963267948966 flow_14995_0 0 5.0 2.0,8394.0 9544.500708975607 -1.5707963267948966 flow_40084_0 0 5.0 2.0,6806.0 9600.948396642681 1.5707963267948966 flow_21314_0 0 5.0 2.0,798.0 5622.5030951674225 -1.5707963267948966 flow_11929_0 0 5.0 2.0,5194.0 10206.715449141866 -1.5707963267948966 flow_18983_0 0 5.0 2.0,1194.0 14242.2235 -1.5707963267948966 flow_12400_0 0 5.0 2.0,8806.0 993.0522487713049 1.5707963267948966 flow_24359_0 0 5.0 2.0,12406.0 4082.0251090861434 1.5707963267948966 flow_28891_0 0 5.0 2.0,9606.0 2372.3107012853616 1.5707963267948966 flow_25307_0 0 5.0 2.0,6731.623480262729 13594.0 0.0 flow_9923_0 0 5.0 2.0,10006.0 0.16312499999986586 1.5707963267948966 flow_25805_0 0 5.0 2.0,7194.0 12996.155011767012 -1.5707963267948966 flow_22452_0 0 5.0 2.0,6.0 3576.930636330111 1.5707963267948966 flow_10485_0 0 5.0 2.0,8606.832721831506 406.0 3.141592653589793 flow_31862_0 0 5.0 2.0,3931.6044152777763 1594.0 0.0 flow_1127_0 0 5.0 2.0,3606.0 1184.9635777777771 1.5707963267948966 flow_15769_0 0 5.0 2.0,13606.0 384.72416666666637 1.5707963267948966 flow_30444_0 0 5.0 2.0,3194.0 11806.755123954088 -1.5707963267948966 flow_15354_0 0 5.0 2.0,13994.0 11238.087087875028 -1.5707963267948966 flow_31212_0 0 5.0 2.0,10394.0 8045.741300347225 -1.5707963267948966 flow_26513_0 0 5.0 2.0,1606.0 1420.5248937499996 1.5707963267948966 flow_12622_0 0 5.0 2.0,13194.0 9615.492193065835 -1.5707963267948966 flow_30178_0 0 5.0 2.0,13669.173375 6406.0 3.141592653589793 flow_36003_0 0 5.0 2.0,3994.0 3990.609751946153 -1.5707963267948966 flow_16802_0 0 5.0 2.0,4882.256131242982 5594.0 0.0 flow_3786_0 0 5.0 2.0,8431.174099163138 2406.0 3.141592653589793 flow_33161_0 0 5.0 2.0,730.8226249999996 9194.0 0.0 flow_6667_0 0 5.0 2.0,7206.0 7184.77232518725 1.5707963267948966 flow_22064_0 0 5.0 2.0,4794.0 9216.1554231848 -1.5707963267948966 flow_18448_0 0 5.0 2.0,2882.2437341885416 794.0 0.0 flow_674_0 0 5.0 2.0,8794.0 9033.980106936124 -1.5707963267948966 flow_24610_0 0 5.0 2.0,13194.0 11999.207583333335 -1.5707963267948966 flow_30196_0 0 5.0 2.0,4806.0 2593.120715535704 1.5707963267948966 flow_18078_0 0 5.0 2.0,5594.0 6728.393783804388 -1.5707963267948966 flow_6582_0 0 5.0 2.0,10784.959963996045 3994.0 0.0 flow_2611_0 0 5.0 2.0,1994.0 6815.078987268645 -1.5707963267948966 flow_13411_0 0 5.0 2.0,13584.835876463976 9198.0 0.0 flow_30166_0 0 5.0 2.0,2006.0 3585.026113640254 1.5707963267948966 flow_13116_0 0 5.0 2.0,4429.68673557866 11994.0 0.0 flow_8652_0 0 5.0 2.0,5064.948749999999 11994.0 0.0 flow_8645_0 0 5.0 2.0,5994.0 7842.009494685877 -1.5707963267948966 flow_8338_0 0 5.0 2.0,1994.0 12979.517833984359 -1.5707963267948966 flow_13523_0 0 5.0 2.0,4806.0 5856.820109305852 1.5707963267948966 flow_18022_0 0 5.0 2.0,10174.756427409257 10006.0 3.141592653589793 flow_38634_0 0 5.0 2.0,5994.0 13199.029894581256 -1.5707963267948966 flow_20383_0 0 5.0 2.0,508.9732916666664 8794.0 0.0 flow_6345_0 0 5.0 2.0,10798.0 6822.7265281921445 -1.5707963267948966 flow_26927_0 0 5.0 2.0,4553.874177083331 7194.0 0.0 flow_5229_0 0 5.0 2.0,7144.519990408819 6806.0 3.141592653589793 flow_36165_0 0 5.0 2.0,798.0 4015.002553539367 -1.5707963267948966 flow_11931_0 0 5.0 2.0,13606.0 3554.3921649691656 1.5707963267948966 flow_30414_0 0 5.0 2.0,13379.916708333334 2006.0 3.141592653589793 flow_32956_0 0 5.0 2.0,6806.0 6776.887384493516 1.5707963267948966 flow_21351_0 0 5.0 2.0,7194.0 8977.228305356324 -1.5707963267948966 flow_6919_0 0 5.0 2.0,4394.0 10015.025197557554 -1.5707963267948966 flow_17673_0 0 5.0 2.0,5198.0 8415.000068097543 -1.5707963267948966 flow_18922_0 0 5.0 2.0,11106.902664762272 1206.0 3.141592653589793 flow_32477_0 0 5.0 2.0,1606.0 911.770363703268 1.5707963267948966 flow_12629_0 0 5.0 2.0,13406.738460351167 8006.0 3.141592653589793 flow_36953_0 0 5.0 2.0,10718.256872574098 12406.0 3.141592653589793 flow_40573_0 0 5.0 2.0,1594.0 9252.16610039545 -1.5707963267948966 flow_12869_0 0 5.0 2.0,6394.0 9518.239464121949 -1.5707963267948966 flow_20980_0 0 5.0 2.0,3606.0 11544.193181820257 1.5707963267948966 flow_38254_0 0 5.0 2.0,1194.0 8799.064855555558 -1.5707963267948966 flow_12362_0 0 5.0 2.0,4394.0 9323.051327632547 -1.5707963267948966 flow_17663_0 0 5.0 2.0,10794.0 13215.103541666667 -1.5707963267948966 flow_26977_0 0 5.0 2.0,10406.0 8776.429510366523 1.5707963267948966 flow_26292_0 0 5.0 2.0,12394.0 5394.128617963691 -1.5707963267948966 flow_29104_0 0 5.0 2.0,75
+import os
+
+import click
+import numpy as np
+import json
+from mpi4py import MPI
+
+from baselines import logger
+from baselines.common import set_global_seeds, tf_util
+from baselines.common.mpi_moments import mpi_moments
+import baselines.her.experiment.config as config
+from baselines.her.rollout import RolloutWorker
+
+def mpi_average(value):
+    if not isinstance(value, list):
+        value = [value]
+    if not any(value):
+        value = [0.]
+    return mpi_moments(np.array(value))[0]
+
+
+def train(*, policy, rollout_worker, evaluator,
+          n_epochs, n_test_rollouts, n_cycles, n_batches, policy_save_interval,
+          save_path, demo_file, **kwargs):
+    rank = MPI.COMM_WORLD.Get_rank()
+
+    if save_path:
+        latest_policy_path = os.path.join(save_path, 'policy_latest.pkl')
+        best_policy_path = os.path.join(save_path, 'policy_best.pkl')
+        periodic_policy_path = os.path.join(save_path, 'policy_{}.pkl')
+
+    logger.info("Training...")
+    best_success_rate = -1
+
+    if policy.bc_loss == 1: policy.init_demo_buffer(demo_file) #initialize demo buffer if training with demonstrations
+
+    # num_timesteps = n_epochs * n_cycles * rollout_length * number of rollout workers
+    for epoch in range(n_epochs):
+        # train
+        rollout_worker.clear_history()
+        for _ in range(n_cycles):
+            episode = rollout_worker.generate_rollouts()
+            policy.store_episode(episode)
+            for _ in range(n_batches):
+                policy.train()
+            policy.update_target_net()
+
+        # test
+        evaluator.clear_history()
+        for _ in range(n_test_rollouts):
+            evaluator.generate_rollouts()
+
+        # record logs
+        logger.record_tabular('epoch', epoch)
+        for key, val in evaluator.logs('test'):
+            logger.record_tabular(key, mpi_average(val))
+        for key, val in rollout_worker.logs('train'):
+            logger.record_tabular(key, mpi_average(val))
+        for key, val in policy.logs():
+            logger.record_tabular(key, mpi_average(val))
+
+        if rank == 0:
+            logger.dump_tabular()
+
+        # save the policy if it's better than the previous ones
+        success_rate = mpi_average(evaluator.current_success_rate())
+        if rank == 0 and success_rate >= best_success_rate and save_path:
+            best_success_rate = success_rate
+            logger.info('New best success rate: {}. Saving policy to {} ...'.format(best_success_rate, best_policy_path))
+            evaluator.save_policy(best_policy_path)
+            evaluator.save_policy(latest_policy_path)
+        if rank == 0 and policy_save_interval > 0 and epoch % policy_save_interval == 0 and save_path:
+            policy_path = periodic_policy_path.format(epoch)
+            logger.info('Saving periodic policy to {} ...'.format(policy_path))
+            evaluator.save_policy(policy_path)
+
+        # make sure that different threads have different seeds
+        local_uniform = np.random.uniform(size=(1,))
+        root_uniform = local_uniform.copy()
+        MPI.COMM_WORLD.Bcast(root_uniform, root=0)
+        if rank != 0:
+            assert local_uniform[0] != root_uniform[0]
+
+    return policy
+
+
+def learn(*, network, env, total_timesteps,
+    seed=None,
+    eval_env=None,
+    replay_strategy='future',
+    policy_save_interval=5,
+    clip_return=True,
+    demo_file=None,
+    override_params=None,
+    load_path=None,
+    save_path=None,
+    **kwargs
+):
+
+    override_params = override_params or {}
+    if MPI is not None:
+        rank = MPI.COMM_WORLD.Get_rank()
+        num_cpu = MPI.COMM_WORLD.Get_size()
+
+    # Seed everything.
+    rank_seed = seed + 1000000 * rank if seed is not None else None
+    set_global_seeds(rank_seed)
+
+    # Prepare params.
+    params = config.DEFAULT_PARAMS
+    env_name = env.spec.id
+    params['env_name'] = env_name
+    params['replay_strategy'] = replay_strategy
+    if env_name in config.DEFAULT_ENV_PARAMS:
+        params.update(config.DEFAULT_ENV_PARAMS[env_name])  # merge env-specific parameters in
+    params.update(**override_params)  # makes it possible to override any parameter
+    with open(os.path.join(logger.get_dir(), 'params.json'), 'w') as f:
+         json.dump(params, f)
+    params = config.prepare_params(params)
+    params['rollout_batch_size'] = env.num_envs
+
+    if demo_file is not None:
+        params['bc_loss'] = 1
+    params.update(kwargs)
+
+    config.log_params(params, logger=logger)
+
+    if num_cpu == 1:
+        logger.warn()
+        logger.warn('*** Warning ***')
+        logger.warn(
+            'You are running HER with just a single MPI worker. This will work, but the ' +
+            'experiments that we report in Plappert et al. (2018, https://arxiv.org/abs/1802.09464) ' +
+            'were obtained with --num_cpu 19. This makes a significant difference and if you ' +
+            'are looking to reproduce those results, be aware of this. Please also refer to ' +
+            'https://github.com/openai/baselines/issues/314 for further details.')
+        logger.warn('****************')
+        logger.warn()
+
+    dims = config.configure_dims(params)
+    policy = config.configure_ddpg(dims=dims, params=params, clip_return=clip_return)
+    if load_path is not None:
+        tf_util.load_variables(load_path)
+
+    rollout_params = {
+        'exploit': False,
+        'use_target_net': False,
+        'use_demo_states': True,
+        'compute_Q': False,
+        'T': params['T'],
+    }
+
+    eval_params = {
+        'exploit': True,
+        'use_target_net': params['test_with_polyak'],
+        'use_demo_states': False,
+        'compute_Q': True,
+        'T': params['T'],
+    }
+
+    for name in ['T', 'rollout_batch_size', 'gamma', 'noise_eps', 'random_eps']:
+        rollout_params[name] = params[name]
+        eval_params[name] = params[name]
+
+    eval_env = eval_env or env
+
+    rollout_worker = RolloutWorker(env, policy, dims, logger, monitor=True, **rollout_params)
+    evaluator = RolloutWorker(eval_env, policy, dims, logger, **eval_params)
+
+    n_cycles = params['n_cycles']
+    n_epochs = total_timesteps // n_cycles // rollout_worker.T // rollout_worker.rollout_batch_size
+
+    return train(
+        save_path=save_path, policy=policy, rollout_worker=rollout_worker,
+        evaluator=evaluator, n_epochs=n_epochs, n_test_rollouts=params['n_test_rollouts'],
+        n_cycles=params['n_cycles'], n_batches=params['n_batches'],
+        policy_save_interval=policy_save_interval, demo_file=demo_file)
+
+
+@click.command()
+@click.option('--env', type=str, default='FetchReach-v1', help='the name of the OpenAI Gym environment that you want to train on')
+@click.option('--total_timesteps', type=int, default=int(5e5), help='the number of timesteps to run')
+@click.option('--seed', type=int, default=0, help='the random seed used to seed both the environment and the training code')
+@click.option('--policy_save_interval', type=int, default=5, help='the interval with which policy pickles are saved. If set to 0, only the best and latest policy will be pickled.')
+@click.option('--replay_strategy', type=click.Choice(['future', 'none']), default='future', help='the HER replay strategy to be used. "future" uses HER, "none" disables HER.')
+@click.option('--clip_return', type=int, default=1, help='whether or not returns should be clipped')
+@click.option('--demo_file', type=str, default = 'PATH/TO/DEMO/DATA/FILE.npz', help='demo data file path')
+def main(**kwargs):
+    learn(**kwargs)
+
+
+if __name__ == '__main__':
+    main()

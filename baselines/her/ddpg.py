@@ -1,1 +1,448 @@
-w_4193_0 0 5.0 2.0,394.0 13746.950375 -1.5707963267948966 flow_11391_0 0 5.0 2.0,13206.0 -17.271154854191708 1.5707963267948966 flow_29980_0 0 5.0 2.0,5594.0 10778.555489254779 -1.5707963267948966 flow_19629_0 0 5.0 2.0,4406.0 4932.5364950191215 1.5707963267948966 flow_17287_0 0 5.0 2.0,1053.412291666666 2794.0 0.0 flow_1784_0 0 5.0 2.0,10393.013825000002 6406.0 3.141592653589793 flow_35989_0 0 5.0 2.0,6794.0 9716.697765377461 -1.5707963267948966 flow_9236_0 0 5.0 2.0,8326.145619931616 10406.0 3.141592653589793 flow_38932_0 0 5.0 2.0,10738.343850830652 5606.0 3.141592653589793 flow_35601_0 0 5.0 2.0,3515.4967652777764 2794.0 0.0 flow_1764_0 0 5.0 2.0,7979.829533441243 1594.0 0.0 flow_1108_0 0 5.0 2.0,11206.0 6559.9901279444875 1.5707963267948966 flow_27169_0 0 5.0 2.0,10406.0 1169.8924583333328 1.5707963267948966 flow_26350_0 0 5.0 2.0,8828.506590768891 4806.0 3.141592653589793 flow_35026_0 0 5.0 2.0,4794.0 10528.958535310927 -1.5707963267948966 flow_18468_0 0 5.0 2.0,806.0 10281.981032802734 1.5707963267948966 flow_38552_0 0 5.0 2.0,9168.553601156184 9606.0 3.141592653589793 flow_38325_0 0 5.0 2.0,2413.8438326299997 9593.900168573955 0.08613322393740594 flow_13834_0 0 5.0 2.0,4806.0 4144.899324929646 1.5707963267948966 flow_18066_0 0 5.0 2.0,1342.6689583333327 13594.0 0.0 flow_9986_0 0 5.0 2.0,11097.994844030078 1198.0 0.0 flow_881_0 0 5.0 2.0,2015.8810180555604 2406.0 3.141592653589793 flow_33129_0 0 5.0 2.0,6794.0 6812.391686552141 -1.5707963267948966 flow_21743_0 0 5.0 2.0,7206.0 2431.5713719649007 1.5707963267948966 flow_22137_0 0 5.0 2.0,6794.0 5662.3851664059985 -1.5707963267948966 flow_21734_0 0 5.0 2.0,14006.0 4764.840008283305 1.5707963267948966 flow_30888_0 0 5.0 2.0,11594.0 11295.576826533334 -1.5707963267948966 flow_27984_0 0 5.0 2.0,11994.0 7615.923836122375 -1.5707963267948966 flow_28607_0 0 5.0 2.0,7594.0 5373.345633565269 -1.5707963267948966 flow_22814_0 0 5.0 2.0,4253.799054166665 -6.0 0.0 flow_68_0 0 5.0 2.0,653.4162916666663 8394.0 0.0 flow_6068_0 0 5.0 2.0,12794.0 8422.734457949884 -1.5707963267948966 flow_29668_0 0 5.0 2.0,4394.0 7857.271105615311 -1.5707963267948966 flow_17653_0 0 5.0 2.0,2006.0 1964.892496077962 1.5707963267948966 flow_13148_0 0 5.0 2.0,12006.0 3315.490612391277 1.5707963267948966 flow_28273_0 0 5.0 2.0,7636.175377768613 6.0 3.141592653589793 flow_31476_0 0 5.0 2.0,4776.905126080276 1594.0 0.0 flow_1128_0 0 5.0 2.0,14006.0 5577.276869609994 1.5707963267948966 flow_30879_0 0 5.0 2.0,6394.0 10889.523535079297 -1.5707963267948966 flow_21023_0 0 5.0 2.0,3606.0 6515.507738971104 1.5707963267948966 flow_33709_0 0 5.0 2.0,9994.0 14342.2225 -1.5707963267948966 flow_26105_0 0 5.0 2.0,5606.0 9742.76781693235 1.5707963267948966 flow_19251_0 0 5.0 2.0,7965.846266666663 2394.0 0.0 flow_1526_0 0 5.0 2.0,3594.0 12351.315333329538 -1.5707963267948966 flow_16176_0 0 5.0 2.0,12323.929922222223 4806.0 3.141592653589793 flow_35057_0 0 5.0 2.0,5994.0 13746.950375 -1.5707963267948966 flow_20408_0 0 5.0 2.0,12794.0 12023.630783702933 -1.5707963267948966 flow_29704_0 0 5.0 2.0,8406.0 5969.952264048014 1.5707963267948966 flow_23727_0 0 5.0 2.0,8406.0 3161.298853534041 1.5707963267948966 flow_23778_0 0 5.0 2.0,13606.0 4784.922853606655 1.5707963267948966 flow_30407_0 0 5.0 2.0,10384.8299100023 7998.0 0.0 flow_5655_0 0 5.0 2.0,6015.0502024976995 13202.0 3.141592653589793 flow_41099_0 0 5.0 2.0,6298.287181470888 9194.0 0.0 flow_6611_0 0 5.0 2.0,7622.65338350307 3602.0 3.141592653589793 flow_34021_0 0 5.0 2.0,253.04962499999983 794.0 0.0 flow_706_0 0 5.0 2.0,12679.923708333334 6.0 3.141592653589793 flow_31549_0 0 5.0 2.0,9594.0 -120.47959423708874 -1.5707963267948966 flow_3403_0 0 5.0 2.0,5053.30681111111 11994.0 0.0 flow_8657_0 0 5.0 2.0,5198.0 9215.030422945198 -1.5707963267948966 flow_18949_0 0 5.0 2.0,6006.0 3070.7475970049622 1.5707963267948966 flow_19984_0 0 5.0 2.0,7968.428088273805 4406.0 3.141592653589793 flow_34672_0 0 5.0 2.0,1206.0 5759.954439870399 1.5707963267948966 flow_12167_0 0 5.0 2.0,1606.0 3170.732478089084 1.5707963267948966 flow_12615_0 0 5.0 2.0,12406.0 6948.864507958345 1.5707963267948966 flow_28877_0 0 5.0 2.0,4806.0 1961.5896986286689 1.5707963267948966 flow_18109_0 0 5.0 2.0,8806.0 11839.187819100367 1.5707963267948966 flow_24251_0 0 5.0 2.0,12830.539541090257 12406.0 3.141592653589793 flow_40624_0 0 5.0 2.0,406.0 7207.051618107129 1.5707963267948966 flow_10985_0 0 5.0 2.0,4806.0 7897.036975477661 1.5707963267948966 flow_35254_0 0 5.0 2.0,4394.0 9344.11559808943 -1.5707963267948966 flow_17678_0 0 5.0 2.0,11594.0 4015.074847704114 -1.5707963267948966 flow_27917_0 0 5.0 2.0,8415.702153163922 4802.0 3.141592653589793 flow_35015_0 0 5.0 2.0,362.39910363325876 3194.0 0.0 flow_2108_0 0 5.0 2.0,11606.0 5554.454370127911 1.5707963267948966 flow_27684_0 0 5.0 2.0,4806.0 4226.525926569119 1.5707963267948966 flow_18063_0 0 5.0 2.0,4253.5564794467455 9990.0 0.0 flow_7170_0 0 5.0 2.0,5594.0 12768.425409722222 -1.5707963267948966 flow_19654_0 0 5.0 2.0,6794.0 12430.480193440726 -1.5707963267948966 flow_9270_0 0 5.0 2.0,5606.0 9282.024860903757 1.5707963267948966 flow_38073_0 0 5.0 2.0,2784.7937424734355 3194.0 0.0 flow_2076_0 0 5.0 2.0,8794.0 9615.019961155125 -1.5707963267948966 flow_8339_0 0 5.0 2.0,8809.177240564819 7994.0 0.0 flow_19243_0 0 5.0 2.0,6794.0 9253.065216195606 -1.5707963267948966 flow_21776_0 0 5.0 2.0,8583.402796180944 6.0 3.141592653589793 flow_31493_0 0 5.0 2.0,10012.614586877788 8806.0 3.141592653589793 flow_37728_0 0 5.0 2.0,2398.0 5615.045023331033 -1.5707963267948966 flow_14110_0 0 5.0 2.0,6006.0 7315.540236972684 1.5707963267948966 flow_19912_0 0 5.0 2.0,806.0 2544.9673738352003 1.5707963267948966 flow_11663_0 0 5.0 2.0,9594.0 8462.268670198517 -1.5707963267948966 flow_25499_0 0 5.0 2.0,12435.470771617742 5206.0 3.141592653589793 flow_35345_0 0 5.0 2.0,5994.0 8870.409107273912 -1.5707963267948966 flow_20340_0 0 5.0 2.0,2794.0 8030.576722732674 -1.5707963267948966 flow_14768_0 0 5.0 2.0,13262.69570770177 1606.0 3.141592653589793 flow_32746_0 0 5.0 2.0,2683.1262981569057 11194.0 0.0 flow_8082_0 0 5.0 2.0,5937.727529801483 -6.0 0.0 flow_57_0 0 5.0 2.0,5998.0 1439.1061212477005 -1.5707963267948966 flow_20262_0 0 5.0 2.0,6394.0 9455.006143522987 -1.5707963267948966 flow_20997_0 0 5.0 2.0,6006.0 5026.086229303892 1.5707963267948966 flow_19952_0 0 5.0 2.0,8822.809493469922 14002.0 3.141592653589793 flow_41684_0 0 5.0 2.0,8173.403916253406 2806.0 3.141592653589793 flow_33400_0 0 5.0 2.0,10806.0 4784.970108333332 1.5707963267948966 flow_26735_0 0 5.0 2.0,8406.0 7387.146167701591 1.5707963267948966 flow_34998_0 0 5.0 2.0,2831.2694908344515 6394.0 0.0 flow_4503_0 0 5.0 2.0,11662.325109087406 406.0 3.141592653589793 flow_31899_0 0 5.0 2.0,5598.0 6815.022972417694 -1.5707963267948966 flow_19571_0 0 5.0 2.0,3206.0 5184.96108092487 1.5707963267948966 flow_15046_0 0 5.0 2.0,806.0 4368.569932536395 1.5707963267948966 flow_11636_0 0 5.0 2.0,12394.0 2815.0778737415067 -1.5707963267948966 flow_29087_0 0 5.0 2.0,4806.0 4117.778175275083 1.5707963267948966 flow_33343_0 0 5.0 2.0,1994.0 8931.391918524565 -1.5707963267948966 flow_13469_0 0 5.0 2.0,7206.0 10007.275841277142 1.5707963267948966 flow_22045_0 0 5.0 2.0,6690.641236827125 406.0 3.141592653589793 flow_31854_0 0 5.0 2.0,4392.7520285324035 10806.0 3.141592653589793 flow_39147_0 0 5.0 2.0,3594.0 6489.480075702404 -1.5707963267948966 flow_16088_0 0 5.0 2.0,9598.0 6015.004251257733 -1.5707963267948966 flow_25448_0 0 5.0 2.0,7400.639458992696 3206.0 3.141592653589793 flow_33764_0 0 5.0 2.0,6015.116460445201 10802.0 3.141592653589793 flow_39161_0 0 5.0 2.0,9857.311895833334 5206.0 3.141592653589793 flow_35320_0 0 5.0 2.0,6384.159073196744 5998.0 0.0 flow_4074_0 0 5.0 2.0,12383.496408222783 5198.0 0.0 flow_3426_0 0 5.0 2.0,6394.0 9615.06224320408 -1.5707963267948966 flow_20999_0 0 5.0 2.0,6.0 4431.567746055219 1.5707963267948966 flow_10482_0 0 5.0 2.0,1606.0 369.52979166666639 1.5707963267948966 flow_12647_0 0 5.0 2.0,1994.0 5631.190682754992 -1.5707963267948966 flow_13410_0 0 5.0 2.0,7194.0 6031.669180308769 -1.5707963267948966 flow_7693_0 0 5.0 2.0,8794.0 6390.623186026939 -1.5707963267948966 flow_24595_0 0 5.0 2.0,1606.0 3609.800636778447 1.5707963267948966 flow_12610_0 0 5.0 2.0,7965.561024143457 5594.0 0.0 flow_19276_0 0 5.0 2.0,4764.162086594018 2806.0 3.141592653589793 flow_33362_0 0 5.0 2.0,10006.0 831.386959526877 1.5707963267948966 flow_25804_0 0 5.0 2.0,12406.0 3110.335789123448 1.5707963267948966 flow_28908_0 0 5.0 2.0,9635.611549853154 8002.0 3.141592653589793 flow_36907_0 0 5.0 2.0,13606.0 1984.9902154408157 1.5707963267948966 flow_30435_0 0 5.0 2.0,7315.265698509864 4794.0 0.0 flow_3105_0 0 5.0 2.0,11198.0 2415.6200376873226 -1.5707963267948966 flow_27371_0 0 5.0 2.0,12794.0 12960.818958510756 -1.5707963267948966 flow_29714_0 0 5.0 2.0,11511.656468713772 13606.0 3.141592653589793 flow_41482_0 0 5.0 2.0,806.0 2599.3738197621756 1.5707963267948966 flow_11661_0 0 5.0 2.0,7629.296182116593 5206.0 3.141592653589793 flow_35300_0 0 5.0 2.0,7206.0 8861.687531720709 1.5707963267948966 flow_36624_0 0 5.0 2.0,3594.0 10073.19235776014 -1.5707963267948966 flow_16141_0 0 5.0 2.0,3428.790100563358 5994.0 0.0 flow_10972_0 0 5.0 2.0,13467.869999999404 1206.0 3.141592653589793 flow_32508_0 0 5.0 2.0,10089.531038111158 2806.0 3.141592653589793 flow_33426_0 0 5.0 2.0,13346.583708333334 5606.0 3.141592653589793 flow_35616_0 0 5.0 2.0,1606.0 3545.029052122199 1.5707963267948966 flow_33716_0 0 5.0 2.0,3594.0 11701.705673136114 -1.5707963267948966 flow_16167_0 0 5.0 2.0,4623.094612764548 13606.0 3.141592653589793 flow_41423_0 0 5.0 2.0,6015.063592101647 3606.0 3.141592653589793 flow_34020_0 0 5.0 2.0,9594.0 10862.680315493366 -1.5707963267948966 flow_25520_0 0 5.0 2.0,4794.0 10556.180535310923 -1.5707963267948966 flow_18469_0 0 5.0 2.0,10806.0 7399.75710357796 1.5707963267948966 flow_26721_0 0 5.0 2.0,6973.373863417887 2806.0 3.141592653589793 flow_33389_0 0 5.0 2.0,11661.117163507684 8806.0 3.141592653589793 flow_37756_0 0 5.0 2.0,-384.0 1594.0 0.0 flow_1165_0 0 5.0 2.0,4415.000188600727 4002.0 3.141592653589793 flow_34301_0 0 5.0 2.0,8806.0 8944.728275657764 1.5707963267948966 flow_24277_0 0 5.0 2.0,2406.0 282.4937138429905 1.5707963267948966 flow_13938_0 0 5.0 2.0,10006.0 5970.68850049697 1.5707963267948966 flow_25754_0 0 5.0 2.0,3994.0 8035.177142352277 -1.5707963267948966 flow_16867_0 0 5.0 2.0,8006.0 6431.546501317797 1.5707963267948966 flow_23080_0 0 5.0 2.0,7994.0 6146.310677756609 -1.5707963267948966 flow_23307_0 0 5.0 2.0,10770.542291666663 794.0 0.0 flow_611_0 0 5.0 2.0,10794.0 11592.735884974934 -1.5707963267948966 flow_26974_0 0 5.0 2.0,875.6362916666662 -6.0 0.0 flow_94_0 0 5.0 2.0,12620.676075433177 9194.0 0.0 flow_29150_0 0 5.0 2.0,3206.0 3184.0384954583055 1.5707963267948966 flow_15064_0 0 5.0 2.0,6006.0 8337.683779394081 1.5707963267948966 flow_34283_0 0 5.0 2.0,6006.0 4145.022840533253 1.5707963267948966 flow_19965_0 0 5.0 2.0,5968.412600000003 4806.0 3.141592653589793 flow_35000_0 0 5.0 2.0,8822.647969030626 2802.0 3.141592653589793 flow_33357_0 0 5.0 2.0,6394.0 8853.478880280125 -1.5707963267948966 flow_20983_0 0 5.0 2.0,12338.323400952275 11606.0 3.141592653589793 flow_39803_0 0 5.0 2.0,11994.0 10830.823825454669 -1.5707963267948966 flow_28642_0 0 5.0 2.0,3194.0 9716.692344963263 -1.5707963267948966 flow_15334_0 0 5.0 2.0,4626.654706886929 11994.0 0.0 flow_8661_0 0 5.0 2.0,10178.54340138889 5606.0 3.141592653589793 flow_35597_0 0 5.0 2.0,394.0 6023.047264226069 -1.5707963267948966 flow_11324_0 0 5.0 2.0,14384.0 11606.0 3.141592653589793 flow_39837_0 0 5.0 2.0,4384.439024247085 3998.0 0.0 flow_2645_0 0 5.0 2.0,6822.913719853161 4006.0 3.141592653589793 flow_34333_0 0 5.0 2.0,2394.0 14375.0 -1.5707963267948966 flow_14289_0 0 5.0 2.0,9594.0 7262.30275740122 -1.5707963267948966 flow_8873_0 0 5.0 2.0,7606.0 3183.3365912755094 1.5707963267948966 flow_22642_0 0 5.0 2.0,2915.4981370012483 7194.0 0.0 flow_5245_0 0 5.0 2.0,6435.608157663419 11194.0 0.0 flow_8034_0 0 5.0 2.0,6394.0 7557.633576977595 -1.5707963267948966 flow_20964_0 0 5.0 2.0,4006.0 335.2403238144911 1.5707963267948966 flow_16581_0 0 5.0 2.0,1573.0709277777771 11994.0 0.0 flow_8691_0 0 5.0 2.0,10542.58135833333 -6.0 0.0 flow_24_0 0 5.0 2.0,11194.0 6788.736915012787 -1.5707963267948966 flow_27404_0 0 5.0 2.0,1426.464770494155 10794.0 0.0 flow_7787_0 0 5.0 2.0,4784.986608144023 8394.0 0.0 flow_14526_0 0 5.0 2.0,10406.0 9342.691553416651 1.5707963267948966 flow_26294_0 0 5.0 2.0,4406.0 2807.29028456396 1.5707963267948966 flow_17319_0 0 5.0 2.0,1583.3413196751303 2794.0 0.0 flow_1780_0 0 5.0 2.0,10285.005358651388 8006.0 3.141592653589793 flow_36916_0 0 5.0 2.0,1937.5313092154215 10794.0 0.0 flow_7782_0 0 5.0 2.0,3594.0 10050.578135369287 -1.5707963267948966 flow_16140_0 0 5.0 2.0,11537.520265387895 10394.0 0.0 flow_7403_0 0 5.0 2.0,394.0 11346.232041666668 -1.5707963267948966 flow_11371_0 0 5.0 2.0,546.1309804419499 13206.0 3.141592653589793 flow_41092_0 0 5.0 2.0,7606.0 2275.9929583333324 1.5707963267948966 flow_22651_0 0 5.0 2.0,1606.0 5170.119106624575 1.5707963267948966 flow_34274_0 0 5.0 2.0,6406.0 5910.4570007884095 1.5707963267948966 flow_20678_0 0 5.0 2.0,4376.939024247085 3998.0 0.0 flow_2651_0 0 5.0 2.0,10006.0 9976.966720796847 1.5707963267948966 flow_25717_0 0 5.0 2.0,6369.976324178235 5598.0 0.0 flow_3774_0 0 5.0 2.0,4942.762571874998 6394.0 0.0 flow_4478_0 0 5.0 2.0,11584.90358673841 12398.0 0.0 flow_8876_0 0 5.0 2.0,4798.0 7215.2756587477 -1.5707963267948966 flow_18396_0 0 5.0 2.0,9206.0 2587.04753657296 1.5707963267948966 flow_24831_0 0 5.0 2.0,8653.582201774707 6398.0 0.0 flow_4442_0 0 5.0 2.0,11198.0 1215.0060670862688 -1.5707963267948966 flow_27363_0 0 5.0 2.0,6798.0 8822.728442229862 -1.5707963267948966 flow_21755_0 0 5.0 2.0,394.0 4436.133593084126 -1.5707963267948966 flow_11314_0 0 5.0 2.0,3606.0 13631.661115722323 1.5707963267948966 flow_40100_0 0 5.0 2.0,2006.0 9510.456154765301 1.5707963267948966 flow_13060_0 0 5.0 2.0,10368.417645833335 8406.0 3.141592653589793 flow_37345_0 0 5.0 2.0,3084.4623816923836 406.0 3.141592653589793 flow_31814_0 0 5.0 2.0,1994.0 12012.569006537997 -1.5707963267948966 flow_13521_0 0 5.0 2.0,12553.514346791237 13594.0 0.0 flow_9874_0 0 5.0 2.0,10798.0 9215.0159738107 -1.5707963267948966 flow_26940_0 0 5.0 2.0,10423.928387874988 6.0 3.141592653589793 flow_31519_0 0 5.0 2.0,2394.0 9647.100345715342 -1.5707963267948966 flow_14217_0 0 5.0 2.0,10006.0 5826.469466327487 1.5707963267948966 flow_25756_0 0 5.0 2.0,11951.351650284334 9606.0 3.141592653589793 flow_38353_0 0 5.0 2.0,11401.911347222223 9206.0 3.141592653589793 flow_38111_0 0 5.0 2.0,6006.0 5515.235165797545 1.5707963267948966 flow_19948_0 0 5.0 2.0,-164.44650000000008 5994.0 0.0 flow_4209_0 0 5.0 2.0,10968.545147591667 4006.0 3.141592653589793 flow_34373_0 0 5.0 2.0,6006.0 1816.642908206989 1.5707963267948966 flow_20005_0 0 5.0 2.0,5606.0 9184.925445703026 1.5707963267948966 flow_19256_0 0 5.0 2.0,4394.0 4257.530422455998 -1.5707963267948966 flow_17613_0 0 5.0 2.0,11184.586660696743 9998.0 0.0 flow_7100_0 0 5.0 2.0,4006.0 2088.42216228842 1.5707963267948966 flow_16553_0 0 5.0 2.0,5300.887442952201 6394.0 0.0 flow_4475_0 0 5.0 2.0,9594.0 10415.00862364759 -1.5707963267948966 flow_25514_0 0 5.0 2.0,9594.0 8146.4694933532555 -1.5707963267948966 flow_25492_0 0 5.0 2.0,4036.1510723849647 4406.0 3.141592653589793 flow_34631_0 0 5.0 2.0,2406.0 5648.661664616215 1.5707963267948966 flow_13875_0 0 5.0 2.0,5164.351656944443 1594.0 0.0 flow_1126_0 0 5.0 2.0,8794.0 7373.358731589825 -1.5707963267948966 flow_36866_0 0 5.0 2.0,6398.0 6415.000430872853 -1.5707963267948966 flow_20922_0 0 5.0 2.0,3594.0 8830.935602443393 -1.5707963267948966 flow_16121_0 0 5.0 2.0,773.6619027777773 2794.0 0.0 flow_1786_0 0 5.0 2.0,4394.0 14297.7785 -1.5707963267948966 flow_17747_0 0 5.0 2.0,11623.038639097225 12806.0 3.141592653589793 flow_40962_0 0 5.0 2.0,8394.0 12612.887041666667 -1.5707963267948966 flow_24122_0 0 5.0 2.0,-6.0 11612.323640221055 -1.5707963267948966 flow_10772_0 0 5.0 2.0,11606.0 5569.454370127911 1.5707963267948966 flow_27681_0 0 5.0 2.0,5606.0 2888.4322622681243 1.5707963267948966 flow_19325_0 0 5.0 2.0,8431.232554819446 7194.0 0.0 flow_14717_0 0 5.0 2.0,11594.0 12211.039708332679 -1.5707963267948966 flow_27995_0 0 5.0 2.0,9594.0 6062.227783854708 -1.5707963267948966 flow_5417_0 0 5.0 2.0,4406.0 8115.496825848702 1.5707963267948966 flow_17238_0 0 5.0 2.0,11206.0 1231.5589583333326 1.5707963267948966 flow_27213_0 0 5.0 2.0,794.0 11057.265171240735 -1.5707963267948966 flow_11990_0 0 5.0 2.0,12806.0 9453.860054997318 1.5707963267948966 flow_29421_0 0 5.0 2.0,12798.0 2822.679235581034 -1.5707963267948966 flow_29616_0 0 5.0 2.0,1558.6438510025941 5594.0 0.0 flow_3846_0 0 5.0 2.0,3594.0 9629.334278304068 -1.5707963267948966 flow_16131_0 0 5.0 2.0,6639.208196549416 13994.0 0.0 flow_10239_0 0 5.0 2.0,6394.0 11689.63840094459 -1.5707963267948966 flow_21035_0 0 5.0 2.0,1994.0 10815.539206714204 -1.5707963267948966 flow_13499_0 0 5.0 2.0,7618.103759593364 7194.0 0.0 flow_5212_0 0 5.0 2.0,5984.904656530079 398.0 0.0 flow_228_0 0 5.0 2.0,-208.89050000000004 7994.0 0.0 flow_5786_0 0 5.0 2.0,2794.0 14015.836875 -1.5707963267948966 flow_14830_0 0 5.0 2.0,1606.0 14044.156770138883 1.5707963267948966 flow_12517_0 0 5.0 2.0,2794.0 7400.631859358753 -1.5707963267948966 flow_14763_0 0 5.0 2.0,5853.848320833331 8794.0 0.0 flow_6304_0 0 5.0 2.0,13594.0 12823.0532954475 -1.5707963267948966 flow_30689_0 0 5.0 2.0,13808.8945 7206.0 3.141592653589793 flow_36444_0 0 5.0 2.0,7194.0 12257.2246207138 -1.5707963267948966 flow_22453_0 0 5.0 2.0,13206.0 7853.330715715198 1.5707963267948966 flow_29910_0 0 5.0 2.0,3206.0 4831.6267291666645 1.5707963267948966 flow_15048_0 0 5.0 2.0,12006.0 1910.4870763206043 1.5707963267948966 flow_28297_0 0 5.0 2.0,7606.0 30.82962499999987 1.5707963267948966 flow_22665_0 0 5.0 2.0,5194.0 12446.274136662692 -1.5707963267948966 flow_9610_0 0 5.0 2.0,7176.456913054995 394.0 0.0 flow_299_0 0 5.0 2.0,3594.0 7094.67007671721 -1.5707963267948966 flow_16096_0 0 5.0 2.0,3976.887514969165 13194.0 0.0 flow_9631_0 0 5.0 2.0,2376.3960680054233 11594.0 0.0 flow_8408_0 0 5.0 2.0,5688.446980237181 9194.0 0.0 flow_6620_0 0 5.0 2.0,12006.0 488.44944120242067 1.5707963267948966 flow_28321_0 0 5.0 2.0,13206.0 1399.2577641228854 1.5707963267948966 flow_29967_0 0 5.0 2.0,5977.329451774708 11598.0 0.0 flow_8377_0 0 5.0 2.0,8976.96239239524 10794.0 0.0 flow_7722_0 0 5.0 2.0,6794.0 6829.273328857113 -1.5707963267948966 flow_21744_0 0 5.0 2.0,9994.0 7857.474862484989 -1.5707963267948966 flow_26032_0 0 5.0 2.0,12406.0 10007.10233280964 1.5707963267948966 flow_28852_0 0 5.0 2.0,1994.0 13885.26510102284 -1.5707963267948966 flow_13554_0 0 5.0 2.0,2006.0 10115.5360944184 1.5707963267948966 flow_13055_0 0 5.0 2.0,1598.0 8415.026402497699 -1.5707963267948966 flow_12855_0 0 5.0 2.0,2982.0736667483266 9594.0 0.0 flow_6956_0 0 5.0 2.0,10806.0 11315.525819599787 1.5707963267948966 flow_26692_0 0 5.0 2.0,10929.062808922039 406.0 3.141592653589793 flow_31893_0 0 5.0 2.0,1194.0 2546.3088388888928 -1.5707963267948966 flow_12328_0 0 5.0 2.0,5606.0 1826.6319987373283 1.5707963267948966 flow_19338_0 0 5.0 2.0,7206.0 1166.0356293854425 1.5707963267948966 flow_22161_0 0 5.0 2.0,5606.0 2942.738875527611 1.5707963267948966 flow_19323_0 0 5.0 2.0,7594.0 11000.7642467296 -1.5707963267948966 flow_22861_0 0 5.0 2.0,7322.343227496347 9994.0 0.0 flow_7141_0 0 5.0 2.0,4794.0 11517.897291666668 -1.5707963267948966 flow_18476_0 0 5.0 2.0,6573.420754128268 4806.0 3.141592653589793 flow_35005_0 0 5.0 2.0,5984.511220049369 5998.0 0.0 flow_4077_0 0 5.0 2.0,2794.0 6012.397048873279 -1.5707963267948966 flow_14751_0 0 5.0 2.0,13198.0 7215.00041088036 -1.5707963267948966 flow_30137_0 0 5.0 2.0,7206.0 10231.603580418743 1.5707963267948966 flow_22043_0 0 5.0 2.0,13690.28436470635 11606.0 3.141592653589793 flow_39829_0 0 5.0 2.0,2806.0 8354.426002647448 1.5707963267948966 flow_35939_0 0 5.0 2.0,13994.0 13373.427363212671 -1.5707963267948966 flow_31239_0 0 5.0 2.0,10406.0 5498.286679166665 1.5707963267948966 flow_26320_0 0 5.0 2.0,3688.385512818028 7994.0 0.0 flow_5749_0 0 5.0 2.0,487.9913305173288 12394.0 0.0 flow_9013_0 0 5.0 2.0,1573.5625956666659 4794.0 0.0 flow_3185_0 0 5.0 2.0,2015.0735920415318 3606.0 3.141592653589793 flow_33983_0 0 5.0 2.0,3715.256247401728 394.0 0.0 flow_342_0 0 5.0 2.0,4406.0 5526.748516184437 1.5707963267948966 flow_17282_0 0 5.0 2.0,3606.0 9969.41708461267 1.5707963267948966 flow_15654_0 0 5.0 2.0,7257.254186788879 4806.0 3.141592653589793 flow_35011_0 0 5.0 2.0,1594.0 8815.085153367565 -1.5707963267948966 flow_12870_0 0 5.0 2.0,4394.0 7190.591573519796 -1.5707963267948966 flow_17644_0 0 5.0 2.0,13606.0 431.19629166666638 1.5707963267948966 flow_30453_0 0 5.0 2.0,7976.792239882456 5998.0 0.0 flow_22789_0 0 5.0 2.0,479.46913899087016 7194.0 0.0 flow_10986_0 0 5.0 2.0,3453.877036444443 2394.0 0.0 flow_1551_0 0 5.0 2.0,6806.0 6007.21365351379 1.5707963267948966 flow_21375_0 0 5.0 2.0,9594.0 13057.697708333333 -1.5707963267948966 flow_25538_0 0 5.0 2.0,3968.4786323018225 8006.0 3.141592653589793 flow_36833_0 0 5.0 2.0,6626.3023804009545 12794.0 0.0 flow_9274_0 0 5.0 2.0,6915.551728667534 5194.0 0.0 flow_3465_0 0 5.0 2.0,13342.476745418966 2790.0 0.0 flow_1683_0 0 5.0 2.0,12794.0 12768.425409722222 -1.5707963267948966 flow_29711_0 0 5.0 2.0,5998.0 7215.7151243727 -1.5707963267948966 flow_20253_0 0 5.0 2.0,7606.0 -75.55850000000015 1.5707963267948966 flow_22666_0 0 5.0 2.0,9606.0 6737.69147850517 1.5707963267948966 flow_25283_0 0 5.0 2.0,6862.474643125482 406.0 3.141592653589793 flow_31856_0 0 5.0 2.0,794.0 9168.725279166669 -1.5707963267948966 flow_11979_0 0 5.0 2.0,1606.0 -208.89050000000004 1.5707963267948966 flow_12652_0 0 5.0 2.0,13067.697708332751 13606.0 3.141592653589793 flow_41498_0 0 5.0 2.0,9984.830771460633 11598.0 0.0 flow_8330_0 0 5.0 2.0,13194.0 9214.166895833336 -1.5707963267948966 flow_30182_0 0 5.0 2.0,6794.0 8546.207392972286 -1.5707963267948966 flow_
+from collections import OrderedDict
+
+import numpy as np
+import tensorflow as tf
+from tensorflow.contrib.staging import StagingArea
+
+from baselines import logger
+from baselines.her.util import (
+    import_function, store_args, flatten_grads, transitions_in_episode_batch, convert_episode_to_batch_major)
+from baselines.her.normalizer import Normalizer
+from baselines.her.replay_buffer import ReplayBuffer
+from baselines.common.mpi_adam import MpiAdam
+from baselines.common import tf_util
+
+
+def dims_to_shapes(input_dims):
+    return {key: tuple([val]) if val > 0 else tuple() for key, val in input_dims.items()}
+
+
+global DEMO_BUFFER #buffer for demonstrations
+
+class DDPG(object):
+    @store_args
+    def __init__(self, input_dims, buffer_size, hidden, layers, network_class, polyak, batch_size,
+                 Q_lr, pi_lr, norm_eps, norm_clip, max_u, action_l2, clip_obs, scope, T,
+                 rollout_batch_size, subtract_goals, relative_goals, clip_pos_returns, clip_return,
+                 bc_loss, q_filter, num_demo, demo_batch_size, prm_loss_weight, aux_loss_weight,
+                 sample_transitions, gamma, reuse=False, **kwargs):
+        """Implementation of DDPG that is used in combination with Hindsight Experience Replay (HER).
+            Added functionality to use demonstrations for training to Overcome exploration problem.
+
+        Args:
+            input_dims (dict of ints): dimensions for the observation (o), the goal (g), and the
+                actions (u)
+            buffer_size (int): number of transitions that are stored in the replay buffer
+            hidden (int): number of units in the hidden layers
+            layers (int): number of hidden layers
+            network_class (str): the network class that should be used (e.g. 'baselines.her.ActorCritic')
+            polyak (float): coefficient for Polyak-averaging of the target network
+            batch_size (int): batch size for training
+            Q_lr (float): learning rate for the Q (critic) network
+            pi_lr (float): learning rate for the pi (actor) network
+            norm_eps (float): a small value used in the normalizer to avoid numerical instabilities
+            norm_clip (float): normalized inputs are clipped to be in [-norm_clip, norm_clip]
+            max_u (float): maximum action magnitude, i.e. actions are in [-max_u, max_u]
+            action_l2 (float): coefficient for L2 penalty on the actions
+            clip_obs (float): clip observations before normalization to be in [-clip_obs, clip_obs]
+            scope (str): the scope used for the TensorFlow graph
+            T (int): the time horizon for rollouts
+            rollout_batch_size (int): number of parallel rollouts per DDPG agent
+            subtract_goals (function): function that subtracts goals from each other
+            relative_goals (boolean): whether or not relative goals should be fed into the network
+            clip_pos_returns (boolean): whether or not positive returns should be clipped
+            clip_return (float): clip returns to be in [-clip_return, clip_return]
+            sample_transitions (function) function that samples from the replay buffer
+            gamma (float): gamma used for Q learning updates
+            reuse (boolean): whether or not the networks should be reused
+            bc_loss: whether or not the behavior cloning loss should be used as an auxilliary loss
+            q_filter: whether or not a filter on the q value update should be used when training with demonstartions
+            num_demo: Number of episodes in to be used in the demonstration buffer
+            demo_batch_size: number of samples to be used from the demonstrations buffer, per mpi thread
+            prm_loss_weight: Weight corresponding to the primary loss
+            aux_loss_weight: Weight corresponding to the auxilliary loss also called the cloning loss
+        """
+        if self.clip_return is None:
+            self.clip_return = np.inf
+
+        self.create_actor_critic = import_function(self.network_class)
+
+        input_shapes = dims_to_shapes(self.input_dims)
+        self.dimo = self.input_dims['o']
+        self.dimg = self.input_dims['g']
+        self.dimu = self.input_dims['u']
+
+        # Prepare staging area for feeding data to the model.
+        stage_shapes = OrderedDict()
+        for key in sorted(self.input_dims.keys()):
+            if key.startswith('info_'):
+                continue
+            stage_shapes[key] = (None, *input_shapes[key])
+        for key in ['o', 'g']:
+            stage_shapes[key + '_2'] = stage_shapes[key]
+        stage_shapes['r'] = (None,)
+        self.stage_shapes = stage_shapes
+
+        # Create network.
+        with tf.variable_scope(self.scope):
+            self.staging_tf = StagingArea(
+                dtypes=[tf.float32 for _ in self.stage_shapes.keys()],
+                shapes=list(self.stage_shapes.values()))
+            self.buffer_ph_tf = [
+                tf.placeholder(tf.float32, shape=shape) for shape in self.stage_shapes.values()]
+            self.stage_op = self.staging_tf.put(self.buffer_ph_tf)
+
+            self._create_network(reuse=reuse)
+
+        # Configure the replay buffer.
+        buffer_shapes = {key: (self.T-1 if key != 'o' else self.T, *input_shapes[key])
+                         for key, val in input_shapes.items()}
+        buffer_shapes['g'] = (buffer_shapes['g'][0], self.dimg)
+        buffer_shapes['ag'] = (self.T, self.dimg)
+
+        buffer_size = (self.buffer_size // self.rollout_batch_size) * self.rollout_batch_size
+        self.buffer = ReplayBuffer(buffer_shapes, buffer_size, self.T, self.sample_transitions)
+
+        global DEMO_BUFFER
+        DEMO_BUFFER = ReplayBuffer(buffer_shapes, buffer_size, self.T, self.sample_transitions) #initialize the demo buffer; in the same way as the primary data buffer
+
+    def _random_action(self, n):
+        return np.random.uniform(low=-self.max_u, high=self.max_u, size=(n, self.dimu))
+
+    def _preprocess_og(self, o, ag, g):
+        if self.relative_goals:
+            g_shape = g.shape
+            g = g.reshape(-1, self.dimg)
+            ag = ag.reshape(-1, self.dimg)
+            g = self.subtract_goals(g, ag)
+            g = g.reshape(*g_shape)
+        o = np.clip(o, -self.clip_obs, self.clip_obs)
+        g = np.clip(g, -self.clip_obs, self.clip_obs)
+        return o, g
+
+    def step(self, obs):
+        actions = self.get_actions(obs['observation'], obs['achieved_goal'], obs['desired_goal'])
+        return actions, None, None, None
+
+
+    def get_actions(self, o, ag, g, noise_eps=0., random_eps=0., use_target_net=False,
+                    compute_Q=False):
+        o, g = self._preprocess_og(o, ag, g)
+        policy = self.target if use_target_net else self.main
+        # values to compute
+        vals = [policy.pi_tf]
+        if compute_Q:
+            vals += [policy.Q_pi_tf]
+        # feed
+        feed = {
+            policy.o_tf: o.reshape(-1, self.dimo),
+            policy.g_tf: g.reshape(-1, self.dimg),
+            policy.u_tf: np.zeros((o.size // self.dimo, self.dimu), dtype=np.float32)
+        }
+
+        ret = self.sess.run(vals, feed_dict=feed)
+        # action postprocessing
+        u = ret[0]
+        noise = noise_eps * self.max_u * np.random.randn(*u.shape)  # gaussian noise
+        u += noise
+        u = np.clip(u, -self.max_u, self.max_u)
+        u += np.random.binomial(1, random_eps, u.shape[0]).reshape(-1, 1) * (self._random_action(u.shape[0]) - u)  # eps-greedy
+        if u.shape[0] == 1:
+            u = u[0]
+        u = u.copy()
+        ret[0] = u
+
+        if len(ret) == 1:
+            return ret[0]
+        else:
+            return ret
+
+    def init_demo_buffer(self, demoDataFile, update_stats=True): #function that initializes the demo buffer
+
+        demoData = np.load(demoDataFile) #load the demonstration data from data file
+        info_keys = [key.replace('info_', '') for key in self.input_dims.keys() if key.startswith('info_')]
+        info_values = [np.empty((self.T - 1, 1, self.input_dims['info_' + key]), np.float32) for key in info_keys]
+
+        demo_data_obs = demoData['obs']
+        demo_data_acs = demoData['acs']
+        demo_data_info = demoData['info']
+
+        for epsd in range(self.num_demo): # we initialize the whole demo buffer at the start of the training
+            obs, acts, goals, achieved_goals = [], [] ,[] ,[]
+            i = 0
+            for transition in range(self.T - 1):
+                obs.append([demo_data_obs[epsd][transition].get('observation')])
+                acts.append([demo_data_acs[epsd][transition]])
+                goals.append([demo_data_obs[epsd][transition].get('desired_goal')])
+                achieved_goals.append([demo_data_obs[epsd][transition].get('achieved_goal')])
+                for idx, key in enumerate(info_keys):
+                    info_values[idx][transition, i] = demo_data_info[epsd][transition][key]
+
+
+            obs.append([demo_data_obs[epsd][self.T - 1].get('observation')])
+            achieved_goals.append([demo_data_obs[epsd][self.T - 1].get('achieved_goal')])
+
+            episode = dict(o=obs,
+                           u=acts,
+                           g=goals,
+                           ag=achieved_goals)
+            for key, value in zip(info_keys, info_values):
+                episode['info_{}'.format(key)] = value
+
+            episode = convert_episode_to_batch_major(episode)
+            global DEMO_BUFFER
+            DEMO_BUFFER.store_episode(episode) # create the observation dict and append them into the demonstration buffer
+            logger.debug("Demo buffer size currently ", DEMO_BUFFER.get_current_size()) #print out the demonstration buffer size
+
+            if update_stats:
+                # add transitions to normalizer to normalize the demo data as well
+                episode['o_2'] = episode['o'][:, 1:, :]
+                episode['ag_2'] = episode['ag'][:, 1:, :]
+                num_normalizing_transitions = transitions_in_episode_batch(episode)
+                transitions = self.sample_transitions(episode, num_normalizing_transitions)
+
+                o, g, ag = transitions['o'], transitions['g'], transitions['ag']
+                transitions['o'], transitions['g'] = self._preprocess_og(o, ag, g)
+                # No need to preprocess the o_2 and g_2 since this is only used for stats
+
+                self.o_stats.update(transitions['o'])
+                self.g_stats.update(transitions['g'])
+
+                self.o_stats.recompute_stats()
+                self.g_stats.recompute_stats()
+            episode.clear()
+
+        logger.info("Demo buffer size: ", DEMO_BUFFER.get_current_size()) #print out the demonstration buffer size
+
+    def store_episode(self, episode_batch, update_stats=True):
+        """
+        episode_batch: array of batch_size x (T or T+1) x dim_key
+                       'o' is of size T+1, others are of size T
+        """
+
+        self.buffer.store_episode(episode_batch)
+
+        if update_stats:
+            # add transitions to normalizer
+            episode_batch['o_2'] = episode_batch['o'][:, 1:, :]
+            episode_batch['ag_2'] = episode_batch['ag'][:, 1:, :]
+            num_normalizing_transitions = transitions_in_episode_batch(episode_batch)
+            transitions = self.sample_transitions(episode_batch, num_normalizing_transitions)
+
+            o, g, ag = transitions['o'], transitions['g'], transitions['ag']
+            transitions['o'], transitions['g'] = self._preprocess_og(o, ag, g)
+            # No need to preprocess the o_2 and g_2 since this is only used for stats
+
+            self.o_stats.update(transitions['o'])
+            self.g_stats.update(transitions['g'])
+
+            self.o_stats.recompute_stats()
+            self.g_stats.recompute_stats()
+
+    def get_current_buffer_size(self):
+        return self.buffer.get_current_size()
+
+    def _sync_optimizers(self):
+        self.Q_adam.sync()
+        self.pi_adam.sync()
+
+    def _grads(self):
+        # Avoid feed_dict here for performance!
+        critic_loss, actor_loss, Q_grad, pi_grad = self.sess.run([
+            self.Q_loss_tf,
+            self.main.Q_pi_tf,
+            self.Q_grad_tf,
+            self.pi_grad_tf
+        ])
+        return critic_loss, actor_loss, Q_grad, pi_grad
+
+    def _update(self, Q_grad, pi_grad):
+        self.Q_adam.update(Q_grad, self.Q_lr)
+        self.pi_adam.update(pi_grad, self.pi_lr)
+
+    def sample_batch(self):
+        if self.bc_loss: #use demonstration buffer to sample as well if bc_loss flag is set TRUE
+            transitions = self.buffer.sample(self.batch_size - self.demo_batch_size)
+            global DEMO_BUFFER
+            transitions_demo = DEMO_BUFFER.sample(self.demo_batch_size) #sample from the demo buffer
+            for k, values in transitions_demo.items():
+                rolloutV = transitions[k].tolist()
+                for v in values:
+                    rolloutV.append(v.tolist())
+                transitions[k] = np.array(rolloutV)
+        else:
+            transitions = self.buffer.sample(self.batch_size) #otherwise only sample from primary buffer
+
+        o, o_2, g = transitions['o'], transitions['o_2'], transitions['g']
+        ag, ag_2 = transitions['ag'], transitions['ag_2']
+        transitions['o'], transitions['g'] = self._preprocess_og(o, ag, g)
+        transitions['o_2'], transitions['g_2'] = self._preprocess_og(o_2, ag_2, g)
+
+        transitions_batch = [transitions[key] for key in self.stage_shapes.keys()]
+        return transitions_batch
+
+    def stage_batch(self, batch=None):
+        if batch is None:
+            batch = self.sample_batch()
+        assert len(self.buffer_ph_tf) == len(batch)
+        self.sess.run(self.stage_op, feed_dict=dict(zip(self.buffer_ph_tf, batch)))
+
+    def train(self, stage=True):
+        if stage:
+            self.stage_batch()
+        critic_loss, actor_loss, Q_grad, pi_grad = self._grads()
+        self._update(Q_grad, pi_grad)
+        return critic_loss, actor_loss
+
+    def _init_target_net(self):
+        self.sess.run(self.init_target_net_op)
+
+    def update_target_net(self):
+        self.sess.run(self.update_target_net_op)
+
+    def clear_buffer(self):
+        self.buffer.clear_buffer()
+
+    def _vars(self, scope):
+        res = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, scope=self.scope + '/' + scope)
+        assert len(res) > 0
+        return res
+
+    def _global_vars(self, scope):
+        res = tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES, scope=self.scope + '/' + scope)
+        return res
+
+    def _create_network(self, reuse=False):
+        logger.info("Creating a DDPG agent with action space %d x %s..." % (self.dimu, self.max_u))
+        self.sess = tf_util.get_session()
+
+        # running averages
+        with tf.variable_scope('o_stats') as vs:
+            if reuse:
+                vs.reuse_variables()
+            self.o_stats = Normalizer(self.dimo, self.norm_eps, self.norm_clip, sess=self.sess)
+        with tf.variable_scope('g_stats') as vs:
+            if reuse:
+                vs.reuse_variables()
+            self.g_stats = Normalizer(self.dimg, self.norm_eps, self.norm_clip, sess=self.sess)
+
+        # mini-batch sampling.
+        batch = self.staging_tf.get()
+        batch_tf = OrderedDict([(key, batch[i])
+                                for i, key in enumerate(self.stage_shapes.keys())])
+        batch_tf['r'] = tf.reshape(batch_tf['r'], [-1, 1])
+
+        #choose only the demo buffer samples
+        mask = np.concatenate((np.zeros(self.batch_size - self.demo_batch_size), np.ones(self.demo_batch_size)), axis = 0)
+
+        # networks
+        with tf.variable_scope('main') as vs:
+            if reuse:
+                vs.reuse_variables()
+            self.main = self.create_actor_critic(batch_tf, net_type='main', **self.__dict__)
+            vs.reuse_variables()
+        with tf.variable_scope('target') as vs:
+            if reuse:
+                vs.reuse_variables()
+            target_batch_tf = batch_tf.copy()
+            target_batch_tf['o'] = batch_tf['o_2']
+            target_batch_tf['g'] = batch_tf['g_2']
+            self.target = self.create_actor_critic(
+                target_batch_tf, net_type='target', **self.__dict__)
+            vs.reuse_variables()
+        assert len(self._vars("main")) == len(self._vars("target"))
+
+        # loss functions
+        target_Q_pi_tf = self.target.Q_pi_tf
+        clip_range = (-self.clip_return, 0. if self.clip_pos_returns else np.inf)
+        target_tf = tf.clip_by_value(batch_tf['r'] + self.gamma * target_Q_pi_tf, *clip_range)
+        self.Q_loss_tf = tf.reduce_mean(tf.square(tf.stop_gradient(target_tf) - self.main.Q_tf))
+
+        if self.bc_loss ==1 and self.q_filter == 1 : # train with demonstrations and use bc_loss and q_filter both
+            maskMain = tf.reshape(tf.boolean_mask(self.main.Q_tf > self.main.Q_pi_tf, mask), [-1]) #where is the demonstrator action better than actor action according to the critic? choose those samples only
+            #define the cloning loss on the actor's actions only on the samples which adhere to the above masks
+            self.cloning_loss_tf = tf.reduce_sum(tf.square(tf.boolean_mask(tf.boolean_mask((self.main.pi_tf), mask), maskMain, axis=0) - tf.boolean_mask(tf.boolean_mask((batch_tf['u']), mask), maskMain, axis=0)))
+            self.pi_loss_tf = -self.prm_loss_weight * tf.reduce_mean(self.main.Q_pi_tf) #primary loss scaled by it's respective weight prm_loss_weight
+            self.pi_loss_tf += self.prm_loss_weight * self.action_l2 * tf.reduce_mean(tf.square(self.main.pi_tf / self.max_u)) #L2 loss on action values scaled by the same weight prm_loss_weight
+            self.pi_loss_tf += self.aux_loss_weight * self.cloning_loss_tf #adding the cloning loss to the actor loss as an auxilliary loss scaled by its weight aux_loss_weight
+
+        elif self.bc_loss == 1 and self.q_filter == 0: # train with demonstrations without q_filter
+            self.cloning_loss_tf = tf.reduce_sum(tf.square(tf.boolean_mask((self.main.pi_tf), mask) - tf.boolean_mask((batch_tf['u']), mask)))
+            self.pi_loss_tf = -self.prm_loss_weight * tf.reduce_mean(self.main.Q_pi_tf)
+            self.pi_loss_tf += self.prm_loss_weight * self.action_l2 * tf.reduce_mean(tf.square(self.main.pi_tf / self.max_u))
+            self.pi_loss_tf += self.aux_loss_weight * self.cloning_loss_tf
+
+        else: #If  not training with demonstrations
+            self.pi_loss_tf = -tf.reduce_mean(self.main.Q_pi_tf)
+            self.pi_loss_tf += self.action_l2 * tf.reduce_mean(tf.square(self.main.pi_tf / self.max_u))
+
+        Q_grads_tf = tf.gradients(self.Q_loss_tf, self._vars('main/Q'))
+        pi_grads_tf = tf.gradients(self.pi_loss_tf, self._vars('main/pi'))
+        assert len(self._vars('main/Q')) == len(Q_grads_tf)
+        assert len(self._vars('main/pi')) == len(pi_grads_tf)
+        self.Q_grads_vars_tf = zip(Q_grads_tf, self._vars('main/Q'))
+        self.pi_grads_vars_tf = zip(pi_grads_tf, self._vars('main/pi'))
+        self.Q_grad_tf = flatten_grads(grads=Q_grads_tf, var_list=self._vars('main/Q'))
+        self.pi_grad_tf = flatten_grads(grads=pi_grads_tf, var_list=self._vars('main/pi'))
+
+        # optimizers
+        self.Q_adam = MpiAdam(self._vars('main/Q'), scale_grad_by_procs=False)
+        self.pi_adam = MpiAdam(self._vars('main/pi'), scale_grad_by_procs=False)
+
+        # polyak averaging
+        self.main_vars = self._vars('main/Q') + self._vars('main/pi')
+        self.target_vars = self._vars('target/Q') + self._vars('target/pi')
+        self.stats_vars = self._global_vars('o_stats') + self._global_vars('g_stats')
+        self.init_target_net_op = list(
+            map(lambda v: v[0].assign(v[1]), zip(self.target_vars, self.main_vars)))
+        self.update_target_net_op = list(
+            map(lambda v: v[0].assign(self.polyak * v[0] + (1. - self.polyak) * v[1]), zip(self.target_vars, self.main_vars)))
+
+        # initialize all variables
+        tf.variables_initializer(self._global_vars('')).run()
+        self._sync_optimizers()
+        self._init_target_net()
+
+    def logs(self, prefix=''):
+        logs = []
+        logs += [('stats_o/mean', np.mean(self.sess.run([self.o_stats.mean])))]
+        logs += [('stats_o/std', np.mean(self.sess.run([self.o_stats.std])))]
+        logs += [('stats_g/mean', np.mean(self.sess.run([self.g_stats.mean])))]
+        logs += [('stats_g/std', np.mean(self.sess.run([self.g_stats.std])))]
+
+        if prefix != '' and not prefix.endswith('/'):
+            return [(prefix + '/' + key, val) for key, val in logs]
+        else:
+            return logs
+
+    def __getstate__(self):
+        """Our policies can be loaded from pkl, but after unpickling you cannot continue training.
+        """
+        excluded_subnames = ['_tf', '_op', '_vars', '_adam', 'buffer', 'sess', '_stats',
+                             'main', 'target', 'lock', 'env', 'sample_transitions',
+                             'stage_shapes', 'create_actor_critic']
+
+        state = {k: v for k, v in self.__dict__.items() if all([not subname in k for subname in excluded_subnames])}
+        state['buffer_size'] = self.buffer_size
+        state['tf'] = self.sess.run([x for x in self._global_vars('') if 'buffer' not in x.name])
+        return state
+
+    def __setstate__(self, state):
+        if 'sample_transitions' not in state:
+            # We don't need this for playing the policy.
+            state['sample_transitions'] = None
+
+        self.__init__(**state)
+        # set up stats (they are overwritten in __init__)
+        for k, v in state.items():
+            if k[-6:] == '_stats':
+                self.__dict__[k] = v
+        # load TF variables
+        vars = [x for x in self._global_vars('') if 'buffer' not in x.name]
+        assert(len(vars) == len(state["tf"]))
+        node = [tf.assign(var, val) for var, val in zip(vars, state["tf"])]
+        self.sess.run(node)
+
+    def save(self, save_path):
+        tf_util.save_variables(save_path)
+
